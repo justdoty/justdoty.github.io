@@ -1,0 +1,628 @@
+{
+  "data": [
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.474457855798796, -0.458350790459995, -0.440526505051835, -0.423523641260027, -0.407693753804394, -0.392559935960621, -0.378451243310567, -0.366656465521825, -0.356188853062382, -0.344351751879565, -0.334910857420265, -0.327052828795516, -0.31963052096437, -0.313191997018061, -0.307565137374674, -0.301512401819197, -0.296665562095762, -0.29229871428445, -0.288299892893534],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(31,119,180,1)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red",
+        "dash": "dash"
+      },
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(255,127,14,1)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.559875545617611, -0.539849400453337, -0.518062273829446, -0.497410934831311, -0.478423617453297, -0.460492522122655, -0.444229796726213, -0.429876358099494, -0.415211631266655, -0.402701291468126, -0.391554149939514, -0.382433893672906, -0.370637451656016, -0.362442069695107, -0.355100773610149, -0.347164815373631, -0.34037426327757, -0.334736280778166, -0.329170390057781],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(44,160,44,1)",
+        "line": {
+          "color": "rgba(44,160,44,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(44,160,44,1)"
+      },
+      "error_x": {
+        "color": "rgba(44,160,44,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red",
+        "dash": "dash"
+      },
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(214,39,40,1)",
+        "line": {
+          "color": "rgba(214,39,40,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(214,39,40,1)"
+      },
+      "error_x": {
+        "color": "rgba(214,39,40,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.534657559340989, -0.517982938051414, -0.499960072781308, -0.483312764656963, -0.468020080755291, -0.45344527721813, -0.439685513792137, -0.427975904876845, -0.416268371975717, -0.405444254996945, -0.395409787181891, -0.386901288220274, -0.378617776520207, -0.371857549207297, -0.363838911487302, -0.357687335378764, -0.350507599577384, -0.345574642969924, -0.341014166457192],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(148,103,189,1)",
+        "line": {
+          "color": "rgba(148,103,189,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(148,103,189,1)"
+      },
+      "error_x": {
+        "color": "rgba(148,103,189,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red",
+        "dash": "dash"
+      },
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(140,86,75,1)",
+        "line": {
+          "color": "rgba(140,86,75,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(140,86,75,1)"
+      },
+      "error_x": {
+        "color": "rgba(140,86,75,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.265379730364192, 0.253316608254844, 0.238295030295471, 0.22187925978871, 0.2070780241226, 0.192575614751357, 0.179337731562076, 0.167086383105215, 0.158404194204673, 0.14962458926352, 0.141226192053428, 0.133150191887439, 0.127117981525747, 0.12145827171895, 0.117857312869556, 0.114011024514852, 0.109281726883767, 0.106135227279275, 0.104005722231545],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(227,119,194,1)",
+        "line": {
+          "color": "rgba(227,119,194,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(227,119,194,1)"
+      },
+      "error_x": {
+        "color": "rgba(227,119,194,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red",
+        "dash": "dash"
+      },
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(127,127,127,1)",
+        "line": {
+          "color": "rgba(127,127,127,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(127,127,127,1)"
+      },
+      "error_x": {
+        "color": "rgba(127,127,127,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.398680968077073, 0.378192397655221, 0.355343626316092, 0.332681998415119, 0.310807008131732, 0.289551565521074, 0.271195708842567, 0.254929195878789, 0.237076750580396, 0.221343741096431, 0.208621821384953, 0.19656098418118, 0.185814252036735, 0.176677365054605, 0.167859489064647, 0.159737613406741, 0.151172898518482, 0.146022325765293, 0.140912979619817],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(188,189,34,1)",
+        "line": {
+          "color": "rgba(188,189,34,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(188,189,34,1)"
+      },
+      "error_x": {
+        "color": "rgba(188,189,34,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red",
+        "dash": "dash"
+      },
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(23,190,207,1)",
+        "line": {
+          "color": "rgba(23,190,207,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(23,190,207,1)"
+      },
+      "error_x": {
+        "color": "rgba(23,190,207,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.341930526258349, 0.325945728875787, 0.308630273468829, 0.291707427191568, 0.275934469795695, 0.26147825843362, 0.248526216003198, 0.23577215146826, 0.223425709643433, 0.21263057821308, 0.203020120086455, 0.193805611292902, 0.18517246842796, 0.17705474774078, 0.170126083174635, 0.162804624834431, 0.155751300075531, 0.150947311733116, 0.145623742329923],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(31,119,180,1)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red",
+        "dash": "dash"
+      },
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(255,127,14,1)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y2",
+      "frame": null
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "domain": [0, 0.313333333333333],
+      "automargin": true,
+      "title": "Years",
+      "anchor": "y2"
+    },
+    "xaxis2": {
+      "domain": [0.353333333333333, 0.646666666666667],
+      "automargin": true,
+      "title": "Years",
+      "anchor": "y2"
+    },
+    "xaxis3": {
+      "domain": [0.686666666666667, 1],
+      "automargin": true,
+      "title": "Years",
+      "anchor": "y2"
+    },
+    "yaxis2": {
+      "domain": [0, 0.48],
+      "automargin": true,
+      "title": "Labor",
+      "range": [
+        -0.559875545617611,
+        0.398680968077073
+      ],
+      "anchor": "x"
+    },
+    "yaxis": {
+      "domain": [0.52, 1],
+      "automargin": true,
+      "title": "Labor",
+      "range": [
+        -0.559875545617611,
+        0.398680968077073
+      ],
+      "anchor": "x"
+    },
+    "annotations": [
+      {
+        "x": 0.11,
+        "y": 0.9,
+        "text": "$(a) \\, \\tau_{\\xi}=0.1, \\tau_{l}=0.1$",
+        "font": {
+          "size": 22
+        },
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center,",
+        "yanchor": "bottom",
+        "showarrow": false
+      },
+      {
+        "x": 0.495,
+        "y": 0.9,
+        "text": "$(b)\\,\\tau_{\\xi}=0.1, \\tau_{l}=0.5$",
+        "font": {
+          "size": 22
+        },
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center,",
+        "yanchor": "bottom",
+        "showarrow": false
+      },
+      {
+        "x": 0.88,
+        "y": 0.9,
+        "text": "$(c)\\,\\tau_{\\xi}=0.1, \\tau_{l}=0.9$",
+        "font": {
+          "size": 22
+        },
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center,",
+        "yanchor": "bottom",
+        "showarrow": false
+      },
+      {
+        "x": 0.11,
+        "y": 0.45,
+        "text": "$(d)\\,\\tau_{\\xi}=0.9, \\tau_{l}=0.1$",
+        "font": {
+          "size": 22
+        },
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center,",
+        "yanchor": "bottom",
+        "showarrow": false
+      },
+      {
+        "x": 0.495,
+        "y": 0.45,
+        "text": "$(e)\\,\\tau_{\\xi}=0.9, \\tau_{l}=0.5$",
+        "font": {
+          "size": 22
+        },
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center,",
+        "yanchor": "bottom",
+        "showarrow": false
+      },
+      {
+        "x": 0.88,
+        "y": 0.45,
+        "text": "$(f)\\,\\tau_{\\xi}=0.9, \\tau_{l}=0.9$",
+        "font": {
+          "size": 22
+        },
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center,",
+        "yanchor": "bottom",
+        "showarrow": false
+      }
+    ],
+    "shapes": [],
+    "images": [],
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "hovermode": "closest",
+    "showlegend": false
+  },
+  "attrs": {
+    "3145e05054f": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "3145e05054f.1": {
+      "x": {},
+      "y": 0,
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red",
+        "dash": "dash"
+      },
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "31444564216": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "31444564216.1": {
+      "x": {},
+      "y": 0,
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red",
+        "dash": "dash"
+      },
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "31412e18dd1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "31412e18dd1.1": {
+      "x": {},
+      "y": 0,
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red",
+        "dash": "dash"
+      },
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "3145b24e47d": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "3145b24e47d.1": {
+      "x": {},
+      "y": 0,
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red",
+        "dash": "dash"
+      },
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "3146031f26": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "3146031f26.1": {
+      "x": {},
+      "y": 0,
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red",
+        "dash": "dash"
+      },
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "3143a47e727": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "3143a47e727.1": {
+      "x": {},
+      "y": 0,
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red",
+        "dash": "dash"
+      },
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    }
+  },
+  "source": "A",
+  "config": {
+    "showSendToCloud": false
+  },
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "subplot": true,
+  "shinyEvents": ["plotly_hover", "plotly_click", "plotly_selected", "plotly_relayout", "plotly_brushed", "plotly_brushing", "plotly_clickannotation", "plotly_doubleclick", "plotly_deselect", "plotly_afterplot", "plotly_sunburstclick"],
+  "base_url": "https://plot.ly"
+}
