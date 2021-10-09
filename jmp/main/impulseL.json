@@ -346,86 +346,7 @@
       ],
       "anchor": "x"
     },
-    "annotations": [
-      {
-        "x": 0.11,
-        "y": 0.9,
-        "text": "$(a) \\, \\tau_{\\xi}=0.1, \\tau_{l}=0.1$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      },
-      {
-        "x": 0.495,
-        "y": 0.9,
-        "text": "$(b)\\,\\tau_{\\xi}=0.1, \\tau_{l}=0.5$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      },
-      {
-        "x": 0.88,
-        "y": 0.9,
-        "text": "$(c)\\,\\tau_{\\xi}=0.1, \\tau_{l}=0.9$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      },
-      {
-        "x": 0.11,
-        "y": 0.45,
-        "text": "$(d)\\,\\tau_{\\xi}=0.9, \\tau_{l}=0.1$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      },
-      {
-        "x": 0.495,
-        "y": 0.45,
-        "text": "$(e)\\,\\tau_{\\xi}=0.9, \\tau_{l}=0.5$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      },
-      {
-        "x": 0.88,
-        "y": 0.45,
-        "text": "$(f)\\,\\tau_{\\xi}=0.9, \\tau_{l}=0.9$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      }
-    ],
+    "annotations": [],
     "shapes": [],
     "images": [],
     "margin": {
@@ -438,7 +359,7 @@
     "showlegend": false
   },
   "attrs": {
-    "3145e05054f": {
+    "1f5a71098802": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -451,7 +372,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "3145e05054f.1": {
+    "1f5a71098802.1": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -466,7 +387,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "31444564216": {
+    "1f5a74cfbf9": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -479,7 +400,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "31444564216.1": {
+    "1f5a74cfbf9.1": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -494,7 +415,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "31412e18dd1": {
+    "1f5a6e1018f7": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -507,7 +428,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "31412e18dd1.1": {
+    "1f5a6e1018f7.1": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -522,7 +443,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "3145b24e47d": {
+    "1f5a68261fbc": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -535,7 +456,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "3145b24e47d.1": {
+    "1f5a68261fbc.1": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -550,7 +471,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "3146031f26": {
+    "1f5a63b9414e": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -563,7 +484,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "3146031f26.1": {
+    "1f5a63b9414e.1": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -578,7 +499,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "3143a47e727": {
+    "1f5a3a04cd9e": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -591,7 +512,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "3143a47e727.1": {
+    "1f5a3a04cd9e.1": {
       "x": {},
       "y": 0,
       "mode": "lines",

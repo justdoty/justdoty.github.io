@@ -25,134 +25,18 @@
 
 &lt;p&gt;by Justin Doty (2021)&lt;/p&gt;
 
-&lt;h2 id=&#34;empirical-application-with-interactive-plots&#34;&gt;Empirical Application with Interactive Plots&lt;/h2&gt;
+&lt;h2 id=&#34;appendix-c-1&#34;&gt;Appendix C.1&lt;/h2&gt;
 
-&lt;h3 id=&#34;output-elasticities&#34;&gt;Output Elasticities&lt;/h3&gt;
-
-&lt;p&gt; 
-
-&lt;div id=&#34;/jmp/main/klm3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/main/klm3dplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/main\/klm3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;input-efficiencies&#34;&gt;Input Efficiencies&lt;/h3&gt;
+&lt;h3 id=&#34;impulse-response-of-labor&#34;&gt;Impulse Response of Labor&lt;/h3&gt;
 
 &lt;p&gt; 
 
-&lt;div id=&#34;/jmp/main/hklm3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;/jmp/labor/impulseL.json&#34; class=&#34;plotly&#34; style=&#34;height:1200px&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
-Plotly.d3.json(&#34;/jmp/main/hklm3dplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/main\/hklm3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
+Plotly.d3.json(&#34;/jmp/labor/impulseL.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/labor\/impulseL.json&#39;, fig.data, fig.layout, {responsive: true});
 });
 &lt;/script&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;input-marginal-productivities&#34;&gt;Input Marginal Productivities&lt;/h3&gt;
-
-&lt;p&gt; 
-
-&lt;div id=&#34;/jmp/main/lmiw3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/main/lmiw3dplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/main\/lmiw3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;persistence-of-productivity&#34;&gt;Persistence of Productivity&lt;/h3&gt;
-
-&lt;p&gt; 
-
-&lt;div id=&#34;/jmp/main/omgplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/main/omgplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/main\/omgplotly.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;appendix-results&#34;&gt;Appendix Results&lt;/h2&gt;
-
-&lt;h3 id=&#34;r-d-activities&#34;&gt;R&amp;amp;D Activities&lt;/h3&gt;
-
-&lt;h4 id=&#34;persistence-of-productivity-1&#34;&gt;Persistence of Productivity&lt;/h4&gt;
-
-&lt;p&gt; 
-
-&lt;div id=&#34;/jmp/rnd/persplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/rnd/persplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/rnd\/persplotly.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;returns-to-r-d&#34;&gt;Returns to R&amp;amp;D&lt;/h4&gt;
-
-&lt;p&gt; 
-
-&lt;div id=&#34;/jmp/rnd/rdplot.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/rnd/rdplot.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/rnd\/rdplot.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;productivity-distributions&#34;&gt;Productivity Distributions&lt;/h4&gt;
-
-&lt;p&gt; 
-
-&lt;div id=&#34;/jmp/rnd/omgdens_plot.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/rnd/omgdens_plot.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/rnd\/omgdens_plot.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;selection-bias&#34;&gt;Selection Bias&lt;/h3&gt;
-
-&lt;h3 id=&#34;test&#34;&gt;test&lt;/h3&gt;
-
-&lt;!--  
-
-&lt;div id=&#34;/jmp/selection/sklm3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/selection/sklm3dplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/selection\/sklm3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt; --&gt;
-
-&lt;h3 id=&#34;test-1&#34;&gt;test&lt;/h3&gt;
-
-&lt;!--  
-
-&lt;div id=&#34;/jmp/selection/shklm3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/selection/shklm3dplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/selection\/shklm3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt; --&gt;
-
-&lt;h3 id=&#34;test-2&#34;&gt;test&lt;/h3&gt;
-
-&lt;!--  
-
-&lt;div id=&#34;/jmp/selection/slmiw3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/selection/slmiw3dplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/selection\/slmiw3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt; --&gt;
-
-&lt;h4 id=&#34;productivity-persistence&#34;&gt;Productivity Persistence&lt;/h4&gt;
-
-&lt;!--  
-
-&lt;div id=&#34;/jmp/selection/somgplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/selection/somgplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/selection\/somgplotly.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt; --&gt;
 </description>
     </item>
     
@@ -216,49 +100,49 @@ Plotly.d3.json(&#34;/jmp/main/omgplotly.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;!-- ### Impulse Response of Productivity
+&lt;h3 id=&#34;impulse-response-of-productivity&#34;&gt;Impulse Response of Productivity&lt;/h3&gt;
 
- 
+&lt;p&gt; 
 
 &lt;div id=&#34;/jmp/main/impulseW.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 Plotly.d3.json(&#34;/jmp/main/impulseW.json&#34;, function(err, fig) {
     Plotly.plot(&#39;\/jmp\/main\/impulseW.json&#39;, fig.data, fig.layout, {responsive: true});
 });
-&lt;/script&gt;
+&lt;/script&gt;&lt;/p&gt;
 
-### Impulse Response of Capital
+&lt;h3 id=&#34;impulse-response-of-capital&#34;&gt;Impulse Response of Capital&lt;/h3&gt;
 
- 
+&lt;p&gt; 
 
 &lt;div id=&#34;/jmp/main/impulseK.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 Plotly.d3.json(&#34;/jmp/main/impulseK.json&#34;, function(err, fig) {
     Plotly.plot(&#39;\/jmp\/main\/impulseK.json&#39;, fig.data, fig.layout, {responsive: true});
 });
-&lt;/script&gt;
+&lt;/script&gt;&lt;/p&gt;
 
-### Impulse Response of Labor
+&lt;h3 id=&#34;impulse-response-of-labor&#34;&gt;Impulse Response of Labor&lt;/h3&gt;
 
- 
+&lt;p&gt; 
 
 &lt;div id=&#34;/jmp/main/impulseL.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 Plotly.d3.json(&#34;/jmp/main/impulseL.json&#34;, function(err, fig) {
     Plotly.plot(&#39;\/jmp\/main\/impulseL.json&#39;, fig.data, fig.layout, {responsive: true});
 });
-&lt;/script&gt;
+&lt;/script&gt;&lt;/p&gt;
 
-### Impulse Response of Materials
+&lt;h3 id=&#34;impulse-response-of-materials&#34;&gt;Impulse Response of Materials&lt;/h3&gt;
 
- 
+&lt;p&gt; 
 
 &lt;div id=&#34;/jmp/main/impulseM.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 Plotly.d3.json(&#34;/jmp/main/impulseM.json&#34;, function(err, fig) {
     Plotly.plot(&#39;\/jmp\/main\/impulseM.json&#39;, fig.data, fig.layout, {responsive: true});
 });
-&lt;/script&gt; --&gt;
+&lt;/script&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -299,6 +183,61 @@ Plotly.d3.json(&#34;/jmp/rnd/rdplot.json&#34;, function(err, fig) {
     Plotly.plot(&#39;\/jmp\/rnd\/rdplot.json&#39;, fig.data, fig.layout, {responsive: true});
 });
 &lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;impulse-response-of-productivity&#34;&gt;Impulse Response of Productivity&lt;/h3&gt;
+
+&lt;p&gt; 
+
+&lt;div id=&#34;/jmp/rnd/impulseW.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Plotly.d3.json(&#34;/jmp/rnd/impulseW.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/rnd\/impulseW.json&#39;, fig.data, fig.layout, {responsive: true});
+});
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;impulse-response-of-productivity-for-r-d-firms&#34;&gt;Impulse Response of Productivity for R&amp;amp;D Firms&lt;/h3&gt;
+
+&lt;p&gt; 
+
+&lt;div id=&#34;/jmp/rnd/impulseRW.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Plotly.d3.json(&#34;/jmp/rnd/impulseRW.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/rnd\/impulseRW.json&#39;, fig.data, fig.layout, {responsive: true});
+});
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;impulse-response-of-capital&#34;&gt;Impulse Response of Capital&lt;/h3&gt;
+
+&lt;p&gt; 
+
+&lt;div id=&#34;/jmp/rnd/impulseK.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Plotly.d3.json(&#34;/jmp/rnd/impulseK.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/rnd\/impulseK.json&#39;, fig.data, fig.layout, {responsive: true});
+});
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;impulse-response-of-labor&#34;&gt;Impulse Response of Labor&lt;/h3&gt;
+
+&lt;p&gt; 
+
+&lt;div id=&#34;/jmp/rnd/impulseL.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Plotly.d3.json(&#34;/jmp/rnd/impulseL.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/rnd\/impulseL.json&#39;, fig.data, fig.layout, {responsive: true});
+});
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;impulse-response-of-materials&#34;&gt;Impulse Response of Materials&lt;/h3&gt;
+
+&lt;p&gt; 
+
+&lt;div id=&#34;/jmp/rnd/impulseM.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Plotly.d3.json(&#34;/jmp/rnd/impulseM.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/rnd\/impulseM.json&#39;, fig.data, fig.layout, {responsive: true});
+});
+&lt;/script&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -317,6 +256,8 @@ Plotly.d3.json(&#34;/jmp/rnd/rdplot.json&#34;, function(err, fig) {
 &lt;p&gt;by Justin Doty (2021)&lt;/p&gt;
 
 &lt;h2 id=&#34;appendix-c-3&#34;&gt;Appendix C.3&lt;/h2&gt;
+
+&lt;h2 id=&#34;empirical-application-with-interactive-plots&#34;&gt;Empirical Application with Interactive Plots&lt;/h2&gt;
 
 &lt;h3 id=&#34;output-elasticities&#34;&gt;Output Elasticities&lt;/h3&gt;
 
@@ -362,49 +303,49 @@ Plotly.d3.json(&#34;/jmp/selection/somgplotly.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;!-- ### Impulse Response of Productivity
+&lt;h3 id=&#34;impulse-response-of-productivity&#34;&gt;Impulse Response of Productivity&lt;/h3&gt;
 
- 
+&lt;p&gt; 
 
 &lt;div id=&#34;/jmp/selection/impulseW.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 Plotly.d3.json(&#34;/jmp/selection/impulseW.json&#34;, function(err, fig) {
     Plotly.plot(&#39;\/jmp\/selection\/impulseW.json&#39;, fig.data, fig.layout, {responsive: true});
 });
-&lt;/script&gt;
+&lt;/script&gt;&lt;/p&gt;
 
-### Impulse Response of Capital
+&lt;h3 id=&#34;impulse-response-of-capital&#34;&gt;Impulse Response of Capital&lt;/h3&gt;
 
- 
+&lt;p&gt; 
 
 &lt;div id=&#34;/jmp/selection/impulseK.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 Plotly.d3.json(&#34;/jmp/selection/impulseK.json&#34;, function(err, fig) {
     Plotly.plot(&#39;\/jmp\/selection\/impulseK.json&#39;, fig.data, fig.layout, {responsive: true});
 });
-&lt;/script&gt;
+&lt;/script&gt;&lt;/p&gt;
 
-### Impulse Response of Labor
+&lt;h3 id=&#34;impulse-response-of-labor&#34;&gt;Impulse Response of Labor&lt;/h3&gt;
 
- 
+&lt;p&gt; 
 
 &lt;div id=&#34;/jmp/selection/impulseL.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 Plotly.d3.json(&#34;/jmp/selection/impulseL.json&#34;, function(err, fig) {
     Plotly.plot(&#39;\/jmp\/selection\/impulseL.json&#39;, fig.data, fig.layout, {responsive: true});
 });
-&lt;/script&gt;
+&lt;/script&gt;&lt;/p&gt;
 
-### Impulse Response of Materials
+&lt;h3 id=&#34;impulse-response-of-materials&#34;&gt;Impulse Response of Materials&lt;/h3&gt;
 
- 
+&lt;p&gt; 
 
 &lt;div id=&#34;/jmp/selection/impulseM.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
 Plotly.d3.json(&#34;/jmp/selection/impulseM.json&#34;, function(err, fig) {
     Plotly.plot(&#39;\/jmp\/selection\/impulseM.json&#39;, fig.data, fig.layout, {responsive: true});
 });
-&lt;/script&gt; --&gt;
+&lt;/script&gt;&lt;/p&gt;
 </description>
     </item>
     

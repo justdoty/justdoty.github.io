@@ -346,86 +346,7 @@
       ],
       "anchor": "x"
     },
-    "annotations": [
-      {
-        "x": 0.11,
-        "y": 0.9,
-        "text": "$(a)\\,\\tau_{\\xi}=0.1, \\tau_{r}=0.1$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      },
-      {
-        "x": 0.495,
-        "y": 0.9,
-        "text": "$(b)\\,\\tau_{\\xi}=0.1, \\tau_{r}=0.5$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      },
-      {
-        "x": 0.88,
-        "y": 0.9,
-        "text": "$(c)\\,\\tau_{\\xi}=0.1, \\tau_{r}=0.9$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      },
-      {
-        "x": 0.11,
-        "y": 0.45,
-        "text": "$(d)\\,\\tau_{\\xi}=0.9, \\tau_{r}=0.1$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      },
-      {
-        "x": 0.495,
-        "y": 0.45,
-        "text": "$(e)\\,\\tau_{\\xi}=0.9, \\tau_{r}=0.5$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      },
-      {
-        "x": 0.88,
-        "y": 0.45,
-        "text": "$(f)\\,\\tau_{\\xi}=0.9, \\tau_{r}=0.9$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      }
-    ],
+    "annotations": [],
     "shapes": [],
     "images": [],
     "margin": {
@@ -438,7 +359,7 @@
     "showlegend": false
   },
   "attrs": {
-    "3146dc44e49": {
+    "20c2771041c3": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -451,7 +372,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "3146dc44e49.1": {
+    "20c2771041c3.1": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -466,7 +387,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "3142c19dc2d": {
+    "20c23705abe1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -479,7 +400,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "3142c19dc2d.1": {
+    "20c23705abe1.1": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -494,7 +415,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "31411a1d7f2": {
+    "20c24620819f": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -507,7 +428,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "31411a1d7f2.1": {
+    "20c24620819f.1": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -522,7 +443,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "3144c447ad8": {
+    "20c29f5fd96": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -535,7 +456,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "3144c447ad8.1": {
+    "20c29f5fd96.1": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -550,7 +471,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "3143a90ca81": {
+    "20c24e358d56": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -563,7 +484,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "3143a90ca81.1": {
+    "20c24e358d56.1": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -578,7 +499,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "314642db77a": {
+    "20c2e5b1362": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -591,7 +512,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "314642db77a.1": {
+    "20c2e5b1362.1": {
       "x": {},
       "y": 0,
       "mode": "lines",

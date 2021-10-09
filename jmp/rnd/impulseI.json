@@ -502,86 +502,7 @@
       ],
       "anchor": "x"
     },
-    "annotations": [
-      {
-        "x": 0.11,
-        "y": 0.9,
-        "text": "$(a)\\,\\tau_{\\xi}=0.1, \\tau_{i}=0.1$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      },
-      {
-        "x": 0.495,
-        "y": 0.9,
-        "text": "$(b)\\,\\tau_{\\xi}=0.1, \\tau_{i}=0.5$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      },
-      {
-        "x": 0.88,
-        "y": 0.9,
-        "text": "$(c)\\,\\tau_{\\xi}=0.1, \\tau_{i}=0.9$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      },
-      {
-        "x": 0.11,
-        "y": 0.45,
-        "text": "$(d)\\,\\tau_{\\xi}=0.9, \\tau_{i}=0.1$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      },
-      {
-        "x": 0.495,
-        "y": 0.45,
-        "text": "$(e)\\,\\tau_{\\xi}=0.9, \\tau_{i}=0.5$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      },
-      {
-        "x": 0.88,
-        "y": 0.45,
-        "text": "$(f)\\,\\tau_{\\xi}=0.9, \\tau_{i}=0.9$",
-        "font": {
-          "size": 22
-        },
-        "xref": "paper",
-        "yref": "paper",
-        "xanchor": "center,",
-        "yanchor": "bottom",
-        "showarrow": false
-      }
-    ],
+    "annotations": [],
     "shapes": [],
     "images": [],
     "margin": {
@@ -594,7 +515,7 @@
     "showlegend": false
   },
   "attrs": {
-    "31437c4bf59": {
+    "20c27bf0dc8e": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -607,7 +528,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "31437c4bf59.1": {
+    "20c27bf0dc8e.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -622,7 +543,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "31437c4bf59.2": {
+    "20c27bf0dc8e.2": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -637,7 +558,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "31455ee88a9": {
+    "20c22202e34": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -650,7 +571,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "31455ee88a9.1": {
+    "20c22202e34.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -665,7 +586,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "31455ee88a9.2": {
+    "20c22202e34.2": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -680,7 +601,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "3141f4e3b52": {
+    "20c2eb95903": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -693,7 +614,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "3141f4e3b52.1": {
+    "20c2eb95903.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -708,7 +629,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "3141f4e3b52.2": {
+    "20c2eb95903.2": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -723,7 +644,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "3144918948c": {
+    "20c22a82db82": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -736,7 +657,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "3144918948c.1": {
+    "20c22a82db82.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -751,7 +672,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "3144918948c.2": {
+    "20c22a82db82.2": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -766,7 +687,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "3146cc098d1": {
+    "20c27519499b": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -779,7 +700,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "3146cc098d1.1": {
+    "20c27519499b.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -794,7 +715,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "3146cc098d1.2": {
+    "20c27519499b.2": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -809,7 +730,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "3145870f91e": {
+    "20c24f2f9b2c": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -822,7 +743,7 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "3145870f91e.1": {
+    "20c24f2f9b2c.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -837,7 +758,7 @@
       "type": "scatter",
       "inherit": true
     },
-    "3145870f91e.2": {
+    "20c24f2f9b2c.2": {
       "x": {},
       "y": 0,
       "mode": "lines",
