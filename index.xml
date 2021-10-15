@@ -310,11 +310,11 @@ Plotly.d3.json(&#34;/jmp/main/impulseM.json&#34;, function(err, fig) {
 
 &lt;h3 id=&#34;figure-18-productivity-persistence-for-non-performing-and-r-d-performing-firms&#34;&gt;Figure 18: Productivity Persistence for Non-performing and R&amp;amp;D Performing Firms&lt;/h3&gt;
 
-&lt;p&gt;The first panel is the estimate of the productivity persistence for non-R&amp;amp;D firms evaluated at percentiles of innovation shocks and percentiles of previous productivity levels.&lt;/p&gt;
+&lt;p&gt;Panel (a) is the estimate of the productivity persistence for non-R&amp;amp;D firms evaluated at percentiles of innovation shocks and percentiles of previous productivity levels.&lt;/p&gt;
 
-&lt;p&gt;The second panel is the estimate of the productivity persistence for R&amp;amp;D firms evaluated at percentiles of innovation shocks and percentiles of previous productivity levels averaged over R&amp;amp;D.&lt;/p&gt;
+&lt;p&gt;Panel (b) is the estimate of the productivity persistence for R&amp;amp;D firms evaluated at percentiles of innovation shocks and percentiles of previous productivity levels averaged over R&amp;amp;D.&lt;/p&gt;
 
-&lt;p&gt;The third panel is the estimate of the productivity persistence for R&amp;amp;D firms evaluated at percentiles of innovation shocks and percentiles of previous R&amp;amp;D levels averaged over productivity.&lt;/p&gt;
+&lt;p&gt;Panel (c) is the estimate of the productivity persistence for R&amp;amp;D firms evaluated at percentiles of innovation shocks and percentiles of previous R&amp;amp;D levels averaged over productivity.&lt;/p&gt;
 
 &lt;p&gt; 
 
@@ -327,7 +327,7 @@ Plotly.d3.json(&#34;/jmp/rnd/persplotly.json&#34;, function(err, fig) {
 
 &lt;h3 id=&#34;figure-19-returns-to-r-d&#34;&gt;Figure 19: Returns to R&amp;amp;D&lt;/h3&gt;
 
-&lt;p&gt;The first panel reports returns to productivity from R&amp;amp;D investment evaluated at percentiles of productivity and percentiles of innovation shocks averaged over R&amp;amp;D. The second panel reports similar estimates, evaluated over percentiles of innovation shocks and percentiles of R&amp;amp;D averaged over productivity.&lt;/p&gt;
+&lt;p&gt;Panel (a) reports returns to productivity from R&amp;amp;D investment evaluated at percentiles of productivity and percentiles of innovation shocks averaged over R&amp;amp;D. Panel (b) reports similar estimates, evaluated over percentiles of innovation shocks and percentiles of R&amp;amp;D averaged over productivity.&lt;/p&gt;
 
 &lt;p&gt; 
 
