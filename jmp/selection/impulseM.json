@@ -2,12 +2,14 @@
   "data": [
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, -0.742824792212899, -0.724433092132463, -0.703899258166493, -0.68436151915985, -0.665314699182139, -0.648725281562218, -0.634338889484543, -0.620321579650114, -0.606755648135819, -0.595046980944075, -0.584610236389242, -0.574551659704466, -0.565260145656426, -0.556770862226443, -0.549320218953275, -0.54347398004635, -0.536525093046532, -0.528934022960779, -0.526486243510078],
+      "y": [0, -0.742824792212899, -0.726337493236173, -0.707366913156089, -0.689357328737271, -0.67235135567796, -0.657982364913722, -0.644206458905074, -0.631934315387815, -0.619155452367132, -0.607510967064665, -0.598814420203349, -0.588031705071272, -0.579668982946591, -0.572764014764086, -0.563353788231405, -0.557351982104906, -0.550093559291526, -0.5442910931874, -0.539812601449362],
       "mode": "lines",
       "showlegend": false,
       "line": {
         "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Negative Shock<br>Low Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(31,119,180,1)",
@@ -34,6 +36,8 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Negative Shock<br>Low Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(255,127,14,1)",
@@ -53,13 +57,14 @@
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "y": [0, -0.810177870018295, -0.790886551687765, -0.77009564157946, -0.750230572469762, -0.731344121758915, -0.714911033602036, -0.69915168426895, -0.685171906090765, -0.670922613819227, -0.657356395611628, -0.647231148101167, -0.634765178792547, -0.624931849314249, -0.617179603613354, -0.606099076769851, -0.599097295142175, -0.590777256556225, -0.583817994046769, -0.578540129725959],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "red",
-        "dash": "dash"
+        "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Negative Shock<br>Medium Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(44,160,44,1)",
@@ -72,31 +77,6 @@
       },
       "error_x": {
         "color": "rgba(44,160,44,1)"
-      },
-      "xaxis": "x",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, -0.810177870018295, -0.787360763078778, -0.762619831049146, -0.74087989571649, -0.719745846433804, -0.699930394752017, -0.682893718739065, -0.66614823582714, -0.650533840245325, -0.637572813183222, -0.625227752270068, -0.614976662956676, -0.604936438874031, -0.593461297816814, -0.585021113611812, -0.578393081108347, -0.571143494077005, -0.56336259212392, -0.55864372958885],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "black"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(214,39,40,1)",
-        "line": {
-          "color": "rgba(214,39,40,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(214,39,40,1)"
-      },
-      "error_x": {
-        "color": "rgba(214,39,40,1)"
       },
       "xaxis": "x2",
       "yaxis": "y",
@@ -111,237 +91,8 @@
         "color": "blue",
         "dash": "dash"
       },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(148,103,189,1)",
-        "line": {
-          "color": "rgba(148,103,189,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(148,103,189,1)"
-      },
-      "error_x": {
-        "color": "rgba(148,103,189,1)"
-      },
-      "xaxis": "x2",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(140,86,75,1)",
-        "line": {
-          "color": "rgba(140,86,75,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(140,86,75,1)"
-      },
-      "error_x": {
-        "color": "rgba(140,86,75,1)"
-      },
-      "xaxis": "x2",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, -0.763232627792564, -0.745321278382921, -0.725778854149302, -0.707859859402923, -0.690797849487696, -0.675689864814954, -0.661178135176322, -0.648353177926217, -0.63556426784552, -0.624779389031759, -0.615099453111269, -0.606779471552009, -0.599252952776993, -0.590056086500342, -0.582454214170332, -0.576600022567379, -0.57075820061216, -0.56557706597258, -0.561322970668597],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "black"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(227,119,194,1)",
-        "line": {
-          "color": "rgba(227,119,194,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(227,119,194,1)"
-      },
-      "error_x": {
-        "color": "rgba(227,119,194,1)"
-      },
-      "xaxis": "x3",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, -0.572676304901892, -0.561740848545764, -0.549908676929706, -0.538994565225033, -0.528990596032643, -0.519475058810233, -0.510694185835821, -0.503058109797614, -0.49552848266031, -0.488669524843687, -0.482183137925157, -0.476441160901063, -0.471136312809611, -0.466244665772957, -0.461246751946298, -0.457171808330604, -0.453577256055739, -0.449643407538785, -0.446315238410943],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "blue",
-        "dash": "dash"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(127,127,127,1)",
-        "line": {
-          "color": "rgba(127,127,127,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(127,127,127,1)"
-      },
-      "error_x": {
-        "color": "rgba(127,127,127,1)"
-      },
-      "xaxis": "x3",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(188,189,34,1)",
-        "line": {
-          "color": "rgba(188,189,34,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(188,189,34,1)"
-      },
-      "error_x": {
-        "color": "rgba(188,189,34,1)"
-      },
-      "xaxis": "x3",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0.386806227649818, 0.373347455961778, 0.350171361699888, 0.331191194631412, 0.315004453803182, 0.300737530648746, 0.28726852706709, 0.275325377896159, 0.263373186628681, 0.252153481312493, 0.244355686767082, 0.235486141304493, 0.22746291688795, 0.219865855210842, 0.214332606433865, 0.207372995415336, 0.202461118143081, 0.198518018249331, 0.192682180859831],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "black"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(23,190,207,1)",
-        "line": {
-          "color": "rgba(23,190,207,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(23,190,207,1)"
-      },
-      "error_x": {
-        "color": "rgba(23,190,207,1)"
-      },
-      "xaxis": "x",
-      "yaxis": "y2",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0.336014202182202, 0.321114992238133, 0.305560974904969, 0.290806059166728, 0.277421246477763, 0.265458980608925, 0.254613360133185, 0.244586043079459, 0.234492899317854, 0.22642092733468, 0.218628435208507, 0.211455140166835, 0.204195590274044, 0.198043671166423, 0.192599331466704, 0.187015925577132, 0.181044811568585, 0.177803254645895, 0.173815600457133],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "blue",
-        "dash": "dash"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(31,119,180,1)",
-        "line": {
-          "color": "rgba(31,119,180,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(31,119,180,1)"
-      },
-      "error_x": {
-        "color": "rgba(31,119,180,1)"
-      },
-      "xaxis": "x",
-      "yaxis": "y2",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(255,127,14,1)",
-        "line": {
-          "color": "rgba(255,127,14,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(255,127,14,1)"
-      },
-      "error_x": {
-        "color": "rgba(255,127,14,1)"
-      },
-      "xaxis": "x",
-      "yaxis": "y2",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0.366091845891095, 0.355583816870216, 0.335128660559464, 0.318501849520024, 0.304704551838926, 0.291990516822199, 0.27897781400392, 0.268961818862595, 0.258904625873898, 0.248652231488892, 0.242088291376614, 0.233038752725991, 0.2257413040783, 0.219504733469618, 0.214157661963933, 0.208159210855605, 0.202641676937046, 0.198584225079351, 0.193353256510661],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "black"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(44,160,44,1)",
-        "line": {
-          "color": "rgba(44,160,44,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(44,160,44,1)"
-      },
-      "error_x": {
-        "color": "rgba(44,160,44,1)"
-      },
-      "xaxis": "x2",
-      "yaxis": "y2",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0.331956340800373, 0.318350242219378, 0.30388459570545, 0.289951789920374, 0.277242437144142, 0.265655748162811, 0.255079146990629, 0.245238533869413, 0.235543479772822, 0.227432881914279, 0.219743939657175, 0.212459657325945, 0.205258981803393, 0.199091892329708, 0.193664405290683, 0.188067815850594, 0.181938790049993, 0.178521822207057, 0.174596061221517],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "blue",
-        "dash": "dash"
-      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Negative Shock<br>Medium Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(214,39,40,1)",
@@ -356,18 +107,19 @@
         "color": "rgba(214,39,40,1)"
       },
       "xaxis": "x2",
-      "yaxis": "y2",
+      "yaxis": "y",
       "frame": null
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "y": [0, -0.763232627792564, -0.747728518886273, -0.730966362433024, -0.714975630591399, -0.699795814647915, -0.686600392336783, -0.673952322392346, -0.662742562578268, -0.651349420322287, -0.640475868246097, -0.632363429122601, -0.622391579584951, -0.614508262720536, -0.60835997718414, -0.599492785759653, -0.593904230998403, -0.587306586447204, -0.581705187034177, -0.57750964211529],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "red",
-        "dash": "dash"
+        "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Negative Shock<br>High Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(148,103,189,1)",
@@ -381,18 +133,21 @@
       "error_x": {
         "color": "rgba(148,103,189,1)"
       },
-      "xaxis": "x2",
-      "yaxis": "y2",
+      "xaxis": "x3",
+      "yaxis": "y",
       "frame": null
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0.331540041937362, 0.323194296810915, 0.306470619903187, 0.293059680670519, 0.281727704682091, 0.271317734814205, 0.261506890399144, 0.253095975622061, 0.24538636257712, 0.237308764302094, 0.231690310061188, 0.224885240605523, 0.219052045694709, 0.213745093178574, 0.210234565567002, 0.205388803988863, 0.201972755886314, 0.198470758565651, 0.195165328195326],
+      "y": [0, -0.572676304901892, -0.561740848545764, -0.549908676929706, -0.538994565225033, -0.528990596032643, -0.519475058810233, -0.510694185835821, -0.503058109797614, -0.49552848266031, -0.488669524843687, -0.482183137925157, -0.476441160901063, -0.471136312809611, -0.466244665772957, -0.461246751946298, -0.457171808330604, -0.453577256055739, -0.449643407538785, -0.446315238410943],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "black"
+        "color": "blue",
+        "dash": "dash"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Negative Shock<br>High Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(140,86,75,1)",
@@ -407,18 +162,19 @@
         "color": "rgba(140,86,75,1)"
       },
       "xaxis": "x3",
-      "yaxis": "y2",
+      "yaxis": "y",
       "frame": null
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0.303769546127066, 0.292093387184692, 0.279816148427559, 0.268100447790254, 0.257466075616303, 0.247867809541061, 0.239145103549436, 0.23106194023508, 0.223065227545863, 0.216475621871977, 0.210209293254613, 0.204320847171394, 0.198481241235531, 0.193499548155915, 0.189120406201487, 0.184617523484428, 0.179703495115374, 0.176967311843782, 0.173823908749321],
+      "y": [0, 0.386806227649818, 0.374133482396882, 0.353700505010242, 0.336313895412309, 0.31961407889104, 0.304593860932638, 0.29264297392707, 0.279658135715529, 0.269178334859295, 0.259051002469178, 0.2489855547311, 0.241436831264807, 0.233850228286765, 0.227339656217923, 0.221363409961254, 0.215153947350073, 0.209711951800889, 0.203725325332773, 0.199334979878188],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "blue",
-        "dash": "dash"
+        "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Positive Shock<br>Low Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(227,119,194,1)",
@@ -432,19 +188,21 @@
       "error_x": {
         "color": "rgba(227,119,194,1)"
       },
-      "xaxis": "x3",
+      "xaxis": "x",
       "yaxis": "y2",
       "frame": null
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "y": [0, 0.336014202182202, 0.321114992238133, 0.305560974904969, 0.290806059166728, 0.277421246477763, 0.265458980608925, 0.254613360133185, 0.244586043079459, 0.234492899317854, 0.22642092733468, 0.218628435208507, 0.211455140166835, 0.204195590274044, 0.198043671166423, 0.192599331466704, 0.187015925577132, 0.181044811568585, 0.177803254645895, 0.173815600457133],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "red",
+        "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Positive Shock<br>Low Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(127,127,127,1)",
@@ -457,6 +215,116 @@
       },
       "error_x": {
         "color": "rgba(127,127,127,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.366091845891095, 0.355952333040546, 0.339730318315478, 0.325823088771158, 0.312129155423763, 0.299179863252616, 0.28891723443655, 0.277430768400125, 0.268519477064768, 0.259277557769237, 0.24979168560186, 0.242945188093389, 0.235679135205517, 0.22971298900682, 0.224036295372491, 0.217972019729991, 0.212842307988618, 0.206677870185242, 0.202283185239104],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Positive Shock<br>Medium Materials",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(188,189,34,1)",
+        "line": {
+          "color": "rgba(188,189,34,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(188,189,34,1)"
+      },
+      "error_x": {
+        "color": "rgba(188,189,34,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.331956340800373, 0.318350242219378, 0.30388459570545, 0.289951789920374, 0.277242437144142, 0.265655748162811, 0.255079146990629, 0.245238533869413, 0.235543479772822, 0.227432881914279, 0.219743939657175, 0.212459657325945, 0.205258981803393, 0.199091892329708, 0.193664405290683, 0.188067815850594, 0.181938790049993, 0.178521822207057, 0.174596061221517],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue",
+        "dash": "dash"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Positive Shock<br>Medium Materials",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(23,190,207,1)",
+        "line": {
+          "color": "rgba(23,190,207,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(23,190,207,1)"
+      },
+      "error_x": {
+        "color": "rgba(23,190,207,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.331540041937362, 0.323143999826675, 0.309771384459022, 0.298394327058018, 0.287286949115332, 0.276868375929768, 0.268662255898088, 0.259530394157821, 0.252512208450062, 0.245249430808917, 0.237816676287816, 0.232512216939625, 0.22687106031588, 0.222304323197, 0.217960864805733, 0.213311387794399, 0.209448312974807, 0.204711611952018, 0.201387649236873],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Positive Shock<br>High Materials",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(31,119,180,1)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.303769546127066, 0.292093387184692, 0.279816148427559, 0.268100447790254, 0.257466075616303, 0.247867809541061, 0.239145103549436, 0.23106194023508, 0.223065227545863, 0.216475621871977, 0.210209293254613, 0.204320847171394, 0.198481241235531, 0.193499548155915, 0.189120406201487, 0.184617523484428, 0.179703495115374, 0.176967311843782, 0.173823908749321],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue",
+        "dash": "dash"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Positive Shock<br>High Materials",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(255,127,14,1)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,1)"
       },
       "xaxis": "x3",
       "yaxis": "y2",
@@ -503,7 +371,86 @@
       "anchor": "x"
     },
     "annotations": [],
-    "shapes": [],
+    "shapes": [
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0,
+        "x1": 0.313333333333333,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.353333333333333,
+        "x1": 0.646666666666667,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.686666666666667,
+        "x1": 1,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0,
+        "x1": 0.313333333333333,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.353333333333333,
+        "x1": 0.646666666666667,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.686666666666667,
+        "x1": 1,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      }
+    ],
     "images": [],
     "margin": {
       "b": 40,
@@ -515,7 +462,7 @@
     "showlegend": false
   },
   "attrs": {
-    "21291ba50a6f": {
+    "400210b61d2": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -523,12 +470,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Negative Shock<br>Low Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "21291ba50a6f.1": {
+    "400210b61d2.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -537,28 +486,15 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Negative Shock<br>Low Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "21291ba50a6f.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "21297c24df33": {
+    "4006e74f744": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -566,12 +502,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Negative Shock<br>Medium Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "21297c24df33.1": {
+    "4006e74f744.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -580,28 +518,15 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Negative Shock<br>Medium Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "21297c24df33.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "2129c7a41fd": {
+    "4004c598279": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -609,12 +534,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Negative Shock<br>High Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "2129c7a41fd.1": {
+    "4004c598279.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -623,28 +550,15 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Negative Shock<br>High Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "2129c7a41fd.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "21294d408496": {
+    "40039b8957e": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -652,12 +566,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Positive Shock<br>Low Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "21294d408496.1": {
+    "40039b8957e.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -666,28 +582,15 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Positive Shock<br>Low Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "21294d408496.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "2129165e6926": {
+    "4003a96a3c4": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -695,12 +598,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Positive Shock<br>Medium Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "2129165e6926.1": {
+    "4003a96a3c4.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -709,28 +614,15 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Positive Shock<br>Medium Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "2129165e6926.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "21295fbd9141": {
+    "4001d198e73": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -738,12 +630,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Positive Shock<br>High Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "21295fbd9141.1": {
+    "4001d198e73.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -752,21 +646,8 @@
         "color": "blue",
         "dash": "dash"
       },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "21295fbd9141.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Positive Shock<br>High Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],

@@ -2,12 +2,14 @@
   "data": [
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, -0.646140852999795, -0.620110459325822, -0.593748525392287, -0.568681023013407, -0.544925557121656, -0.523522089824173, -0.504110679869191, -0.486540435160927, -0.470750336423023, -0.457695821922459, -0.445102775303321, -0.43397023551957, -0.424426382049345, -0.414635115635551, -0.406807200517802, -0.402115865621815, -0.396161234896173, -0.388333178233831, -0.383962437533929],
+      "y": [0, -0.646140852999795, -0.625952456458818, -0.604787217148773, -0.584478608401453, -0.565423241341308, -0.548374431549405, -0.532418364968041, -0.518646466855539, -0.505343687074581, -0.493240798081775, -0.483668791109291, -0.472757279004244, -0.465270103255341, -0.458480567084445, -0.451537239319768, -0.442850411055469, -0.43963535745911, -0.431324807632027, -0.425652193922025],
       "mode": "lines",
       "showlegend": false,
       "line": {
         "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Negative Shock<br>Low Labor",
       "type": "scatter",
       "marker": {
         "color": "rgba(31,119,180,1)",
@@ -34,6 +36,8 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Negative Shock<br>Low Labor",
       "type": "scatter",
       "marker": {
         "color": "rgba(255,127,14,1)",
@@ -53,13 +57,14 @@
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "y": [0, -0.732550536732454, -0.70831629990152, -0.68044832714816, -0.653743121459048, -0.627821266634769, -0.60516198182041, -0.584152214778129, -0.564934286012766, -0.547648969507438, -0.529931130994788, -0.515440088767575, -0.501852432979542, -0.490389634777629, -0.480410166116857, -0.471566620083882, -0.460569553770241, -0.453111186740184, -0.446007612067137, -0.437994633059722],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "red",
-        "dash": "dash"
+        "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Negative Shock<br>Medium Labor",
       "type": "scatter",
       "marker": {
         "color": "rgba(44,160,44,1)",
@@ -72,31 +77,6 @@
       },
       "error_x": {
         "color": "rgba(44,160,44,1)"
-      },
-      "xaxis": "x",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, -0.732550536732454, -0.706025144373418, -0.675156697323656, -0.647564824985082, -0.620060016703302, -0.594121979341425, -0.572659594410387, -0.550554764965321, -0.530095525775717, -0.51321945983576, -0.496397745764116, -0.482892865603004, -0.470944692961559, -0.457806865099976, -0.44660133316644, -0.437983905382628, -0.428447538696336, -0.419565465797943, -0.415027442105554],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "black"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(214,39,40,1)",
-        "line": {
-          "color": "rgba(214,39,40,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(214,39,40,1)"
-      },
-      "error_x": {
-        "color": "rgba(214,39,40,1)"
       },
       "xaxis": "x2",
       "yaxis": "y",
@@ -111,237 +91,8 @@
         "color": "blue",
         "dash": "dash"
       },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(148,103,189,1)",
-        "line": {
-          "color": "rgba(148,103,189,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(148,103,189,1)"
-      },
-      "error_x": {
-        "color": "rgba(148,103,189,1)"
-      },
-      "xaxis": "x2",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(140,86,75,1)",
-        "line": {
-          "color": "rgba(140,86,75,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(140,86,75,1)"
-      },
-      "error_x": {
-        "color": "rgba(140,86,75,1)"
-      },
-      "xaxis": "x2",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, -0.677528904459133, -0.655879359720859, -0.631406721838724, -0.608842758212244, -0.58704950345914, -0.567934785608058, -0.549696903555704, -0.533162026456908, -0.516514471048678, -0.50248212033142, -0.489933900788426, -0.479259210920668, -0.469313879004391, -0.45731806035087, -0.447461539724416, -0.4395184554271, -0.43165068620563, -0.424657479329996, -0.4188116867881],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "black"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(227,119,194,1)",
-        "line": {
-          "color": "rgba(227,119,194,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(227,119,194,1)"
-      },
-      "error_x": {
-        "color": "rgba(227,119,194,1)"
-      },
-      "xaxis": "x3",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, -0.534657559340989, -0.517982938051414, -0.499960072781308, -0.483312764656963, -0.468020080755291, -0.45344527721813, -0.439685513792137, -0.427975904876845, -0.416268371975717, -0.405444254996945, -0.395409787181891, -0.386901288220274, -0.378617776520207, -0.371857549207297, -0.363838911487302, -0.357687335378764, -0.350507599577384, -0.345574642969924, -0.341014166457192],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "blue",
-        "dash": "dash"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(127,127,127,1)",
-        "line": {
-          "color": "rgba(127,127,127,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(127,127,127,1)"
-      },
-      "error_x": {
-        "color": "rgba(127,127,127,1)"
-      },
-      "xaxis": "x3",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(188,189,34,1)",
-        "line": {
-          "color": "rgba(188,189,34,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(188,189,34,1)"
-      },
-      "error_x": {
-        "color": "rgba(188,189,34,1)"
-      },
-      "xaxis": "x3",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0.271259812658928, 0.261388437691649, 0.246390988819988, 0.23299686340529, 0.222029674995263, 0.210310877215293, 0.198339111523883, 0.188946063267963, 0.17949950253986, 0.169800833664252, 0.163349971488544, 0.156766890464382, 0.148550624377418, 0.142726660971994, 0.137982876328397, 0.132643850920018, 0.129046534307719, 0.126102818521385, 0.123935068620304],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "black"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(23,190,207,1)",
-        "line": {
-          "color": "rgba(23,190,207,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(23,190,207,1)"
-      },
-      "error_x": {
-        "color": "rgba(23,190,207,1)"
-      },
-      "xaxis": "x",
-      "yaxis": "y2",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0.265379730364192, 0.253316608254844, 0.238295030295471, 0.22187925978871, 0.2070780241226, 0.192575614751357, 0.179337731562076, 0.167086383105215, 0.158404194204673, 0.14962458926352, 0.141226192053428, 0.133150191887439, 0.127117981525747, 0.12145827171895, 0.117857312869556, 0.114011024514852, 0.109281726883767, 0.106135227279275, 0.104005722231545],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "blue",
-        "dash": "dash"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(31,119,180,1)",
-        "line": {
-          "color": "rgba(31,119,180,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(31,119,180,1)"
-      },
-      "error_x": {
-        "color": "rgba(31,119,180,1)"
-      },
-      "xaxis": "x",
-      "yaxis": "y2",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(255,127,14,1)",
-        "line": {
-          "color": "rgba(255,127,14,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(255,127,14,1)"
-      },
-      "error_x": {
-        "color": "rgba(255,127,14,1)"
-      },
-      "xaxis": "x",
-      "yaxis": "y2",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0.403516558573072, 0.38905508702062, 0.360650723334999, 0.337177327550514, 0.317352677018107, 0.298988388692523, 0.280397287439918, 0.265388247219026, 0.249632443801403, 0.234803090618298, 0.224414082830378, 0.211862280648059, 0.200140731345078, 0.18972513254161, 0.181812647555426, 0.173459749611542, 0.16583053140014, 0.15986863015607, 0.1521059246176],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "black"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(44,160,44,1)",
-        "line": {
-          "color": "rgba(44,160,44,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(44,160,44,1)"
-      },
-      "error_x": {
-        "color": "rgba(44,160,44,1)"
-      },
-      "xaxis": "x2",
-      "yaxis": "y2",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0.398680968077073, 0.378192397655221, 0.355343626316092, 0.332681998415119, 0.310807008131732, 0.289551565521074, 0.271195708842567, 0.254929195878789, 0.237076750580396, 0.221343741096431, 0.208621821384953, 0.19656098418118, 0.185814252036735, 0.176677365054605, 0.167859489064647, 0.159737613406741, 0.151172898518482, 0.146022325765293, 0.140912979619817],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "blue",
-        "dash": "dash"
-      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Negative Shock<br>Medium Labor",
       "type": "scatter",
       "marker": {
         "color": "rgba(214,39,40,1)",
@@ -356,18 +107,19 @@
         "color": "rgba(214,39,40,1)"
       },
       "xaxis": "x2",
-      "yaxis": "y2",
+      "yaxis": "y",
       "frame": null
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "y": [0, -0.677528904459133, -0.65801707473676, -0.636115436548676, -0.615099259782785, -0.595173098771624, -0.57803405902572, -0.56149330256847, -0.546630646417216, -0.531257986090176, -0.516984320854057, -0.506350457944895, -0.492873724479194, -0.482442289671078, -0.473887293067235, -0.462601660552953, -0.454851873737403, -0.446279532084196, -0.438775377031194, -0.43246331941388],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "red",
-        "dash": "dash"
+        "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Negative Shock<br>High Labor",
       "type": "scatter",
       "marker": {
         "color": "rgba(148,103,189,1)",
@@ -381,18 +133,21 @@
       "error_x": {
         "color": "rgba(148,103,189,1)"
       },
-      "xaxis": "x2",
-      "yaxis": "y2",
+      "xaxis": "x3",
+      "yaxis": "y",
       "frame": null
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0.336044903353709, 0.325639331030938, 0.304960701057494, 0.288088698248501, 0.273671358891778, 0.260132267868992, 0.247177676517311, 0.235984870436543, 0.225581579620081, 0.21454502510767, 0.206770478455396, 0.197320503966212, 0.189115498369273, 0.181529250521145, 0.176371119124992, 0.169438270617626, 0.164352361650614, 0.159112065450238, 0.154312527639775],
+      "y": [0, -0.534657559340989, -0.517982938051414, -0.499960072781308, -0.483312764656963, -0.468020080755291, -0.45344527721813, -0.439685513792137, -0.427975904876845, -0.416268371975717, -0.405444254996945, -0.395409787181891, -0.386901288220274, -0.378617776520207, -0.371857549207297, -0.363838911487302, -0.357687335378764, -0.350507599577384, -0.345574642969924, -0.341014166457192],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "black"
+        "color": "blue",
+        "dash": "dash"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Negative Shock<br>High Labor",
       "type": "scatter",
       "marker": {
         "color": "rgba(140,86,75,1)",
@@ -407,18 +162,19 @@
         "color": "rgba(140,86,75,1)"
       },
       "xaxis": "x3",
-      "yaxis": "y2",
+      "yaxis": "y",
       "frame": null
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0.341930526258349, 0.325945728875787, 0.308630273468829, 0.291707427191568, 0.275934469795695, 0.26147825843362, 0.248526216003198, 0.23577215146826, 0.223425709643433, 0.21263057821308, 0.203020120086455, 0.193805611292902, 0.18517246842796, 0.17705474774078, 0.170126083174635, 0.162804624834431, 0.155751300075531, 0.150947311733116, 0.145623742329923],
+      "y": [0, 0.271259812658928, 0.264636041396152, 0.253614780074624, 0.24301776999134, 0.231975316870169, 0.219361715909678, 0.208958503597743, 0.198442140568019, 0.188849123569319, 0.179545151573366, 0.171108485236768, 0.163786815285325, 0.156048076791986, 0.15109208054443, 0.1459460239944, 0.141647850498537, 0.136956429755495, 0.133183323465966, 0.130013647182562],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "blue",
-        "dash": "dash"
+        "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Positive Shock<br>Low Labor",
       "type": "scatter",
       "marker": {
         "color": "rgba(227,119,194,1)",
@@ -432,19 +188,21 @@
       "error_x": {
         "color": "rgba(227,119,194,1)"
       },
-      "xaxis": "x3",
+      "xaxis": "x",
       "yaxis": "y2",
       "frame": null
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "y": [0, 0.265379730364192, 0.253316608254844, 0.238295030295471, 0.22187925978871, 0.2070780241226, 0.192575614751357, 0.179337731562076, 0.167086383105215, 0.158404194204673, 0.14962458926352, 0.141226192053428, 0.133150191887439, 0.127117981525747, 0.12145827171895, 0.117857312869556, 0.114011024514852, 0.109281726883767, 0.106135227279275, 0.104005722231545],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "red",
+        "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Positive Shock<br>Low Labor",
       "type": "scatter",
       "marker": {
         "color": "rgba(127,127,127,1)",
@@ -457,6 +215,116 @@
       },
       "error_x": {
         "color": "rgba(127,127,127,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.403516558573072, 0.389643551867342, 0.366885659784289, 0.346539990033332, 0.32610978247627, 0.306395528986977, 0.289965924950362, 0.272154183081232, 0.255921281003102, 0.241703465055423, 0.22792386639941, 0.216004678814091, 0.204759668231612, 0.195138372380026, 0.185754102184781, 0.178367208694534, 0.169932594169632, 0.163492501369399, 0.157365396249164],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Positive Shock<br>Medium Labor",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(188,189,34,1)",
+        "line": {
+          "color": "rgba(188,189,34,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(188,189,34,1)"
+      },
+      "error_x": {
+        "color": "rgba(188,189,34,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.398680968077073, 0.378192397655221, 0.355343626316092, 0.332681998415119, 0.310807008131732, 0.289551565521074, 0.271195708842567, 0.254929195878789, 0.237076750580396, 0.221343741096431, 0.208621821384953, 0.19656098418118, 0.185814252036735, 0.176677365054605, 0.167859489064647, 0.159737613406741, 0.151172898518482, 0.146022325765293, 0.140912979619817],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue",
+        "dash": "dash"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Positive Shock<br>Medium Labor",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(23,190,207,1)",
+        "line": {
+          "color": "rgba(23,190,207,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(23,190,207,1)"
+      },
+      "error_x": {
+        "color": "rgba(23,190,207,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.336044903353709, 0.326082891202063, 0.309974867469968, 0.29588077615221, 0.281660362366583, 0.268024093159437, 0.257017485137299, 0.244581672854642, 0.234860940355647, 0.224696972235566, 0.214199928810741, 0.206576541284171, 0.198467940033759, 0.191305299766423, 0.185022729541884, 0.178292165114172, 0.172064605355771, 0.16541431469669, 0.160478312942326],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Positive Shock<br>High Labor",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(31,119,180,1)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.341930526258349, 0.325945728875787, 0.308630273468829, 0.291707427191568, 0.275934469795695, 0.26147825843362, 0.248526216003198, 0.23577215146826, 0.223425709643433, 0.21263057821308, 0.203020120086455, 0.193805611292902, 0.18517246842796, 0.17705474774078, 0.170126083174635, 0.162804624834431, 0.155751300075531, 0.150947311733116, 0.145623742329923],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue",
+        "dash": "dash"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Positive Shock<br>High Labor",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(255,127,14,1)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,1)"
       },
       "xaxis": "x3",
       "yaxis": "y2",
@@ -503,7 +371,86 @@
       "anchor": "x"
     },
     "annotations": [],
-    "shapes": [],
+    "shapes": [
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0,
+        "x1": 0.313333333333333,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.353333333333333,
+        "x1": 0.646666666666667,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.686666666666667,
+        "x1": 1,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0,
+        "x1": 0.313333333333333,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.353333333333333,
+        "x1": 0.646666666666667,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.686666666666667,
+        "x1": 1,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      }
+    ],
     "images": [],
     "margin": {
       "b": 40,
@@ -515,7 +462,7 @@
     "showlegend": false
   },
   "attrs": {
-    "21293e585e83": {
+    "4004cea2889": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -523,12 +470,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Negative Shock<br>Low Labor",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "21293e585e83.1": {
+    "4004cea2889.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -537,28 +486,15 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Negative Shock<br>Low Labor",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "21293e585e83.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "21291728de75": {
+    "40019c5652b": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -566,12 +502,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Negative Shock<br>Medium Labor",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "21291728de75.1": {
+    "40019c5652b.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -580,28 +518,15 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Negative Shock<br>Medium Labor",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "21291728de75.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "2129e3e0fb9": {
+    "4007d81ac56": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -609,12 +534,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Negative Shock<br>High Labor",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "2129e3e0fb9.1": {
+    "4007d81ac56.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -623,28 +550,15 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Negative Shock<br>High Labor",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "2129e3e0fb9.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "21296d2d9b91": {
+    "40053043706": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -652,12 +566,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Positive Shock<br>Low Labor",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "21296d2d9b91.1": {
+    "40053043706.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -666,28 +582,15 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Positive Shock<br>Low Labor",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "21296d2d9b91.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "212917542939": {
+    "40078ef57c": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -695,12 +598,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Positive Shock<br>Medium Labor",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "212917542939.1": {
+    "40078ef57c.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -709,28 +614,15 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Positive Shock<br>Medium Labor",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "212917542939.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "21293b68d60f": {
+    "400767776d0": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -738,12 +630,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Positive Shock<br>High Labor",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "21293b68d60f.1": {
+    "400767776d0.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -752,21 +646,8 @@
         "color": "blue",
         "dash": "dash"
       },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "21293b68d60f.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Labor Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Positive Shock<br>High Labor",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],

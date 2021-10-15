@@ -8,6 +8,8 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Negative Shock<br>Low Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(31,119,180,1)",
@@ -34,6 +36,8 @@
         "color": "red",
         "dash": "dash"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Negative Shock<br>Low Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(255,127,14,1)",
@@ -59,6 +63,8 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Negative Shock<br>Medium Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(44,160,44,1)",
@@ -85,6 +91,8 @@
         "color": "red",
         "dash": "dash"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Negative Shock<br>Medium Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(214,39,40,1)",
@@ -110,6 +118,8 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Negative Shock<br>High Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(148,103,189,1)",
@@ -136,6 +146,8 @@
         "color": "red",
         "dash": "dash"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Negative Shock<br>High Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(140,86,75,1)",
@@ -161,6 +173,8 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Positive Shock<br>Low Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(227,119,194,1)",
@@ -187,6 +201,8 @@
         "color": "red",
         "dash": "dash"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Positive Shock<br>Low Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(127,127,127,1)",
@@ -212,6 +228,8 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Positive Shock<br>Medium Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(188,189,34,1)",
@@ -238,6 +256,8 @@
         "color": "red",
         "dash": "dash"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Positive Shock<br>Medium Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(23,190,207,1)",
@@ -263,6 +283,8 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Positive Shock<br>High Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(31,119,180,1)",
@@ -289,6 +311,8 @@
         "color": "red",
         "dash": "dash"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}"],
+      "name": "Positive Shock<br>High Materials",
       "type": "scatter",
       "marker": {
         "color": "rgba(255,127,14,1)",
@@ -347,7 +371,86 @@
       "anchor": "x"
     },
     "annotations": [],
-    "shapes": [],
+    "shapes": [
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0,
+        "x1": 0.313333333333333,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.353333333333333,
+        "x1": 0.646666666666667,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.686666666666667,
+        "x1": 1,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0,
+        "x1": 0.313333333333333,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.353333333333333,
+        "x1": 0.646666666666667,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.686666666666667,
+        "x1": 1,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      }
+    ],
     "images": [],
     "margin": {
       "b": 40,
@@ -359,7 +462,7 @@
     "showlegend": false
   },
   "attrs": {
-    "1f5a28c07548": {
+    "6b5f48248f43": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -367,12 +470,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Negative Shock<br>Low Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "1f5a28c07548.1": {
+    "6b5f48248f43.1": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -381,13 +486,15 @@
         "color": "red",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Negative Shock<br>Low Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "1f5a4f329c2d": {
+    "6b5f76a664ed": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -395,12 +502,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Negative Shock<br>Medium Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "1f5a4f329c2d.1": {
+    "6b5f76a664ed.1": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -409,13 +518,15 @@
         "color": "red",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Negative Shock<br>Medium Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "1f5a62d73894": {
+    "6b5f3decd6b4": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -423,12 +534,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Negative Shock<br>High Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "1f5a62d73894.1": {
+    "6b5f3decd6b4.1": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -437,13 +550,15 @@
         "color": "red",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Negative Shock<br>High Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "1f5a1eeda50f": {
+    "6b5f47796bd5": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -451,12 +566,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Positive Shock<br>Low Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "1f5a1eeda50f.1": {
+    "6b5f47796bd5.1": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -465,13 +582,15 @@
         "color": "red",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Positive Shock<br>Low Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "1f5a176e9b08": {
+    "6b5f55a42489": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -479,12 +598,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Positive Shock<br>Medium Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "1f5a176e9b08.1": {
+    "6b5f55a42489.1": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -493,13 +614,15 @@
         "color": "red",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Positive Shock<br>Medium Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "1f5a11575dd4": {
+    "6b5f1f5403da": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -507,12 +630,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Positive Shock<br>High Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "1f5a11575dd4.1": {
+    "6b5f1f5403da.1": {
       "x": {},
       "y": 0,
       "mode": "lines",
@@ -521,6 +646,8 @@
         "color": "red",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Materials Change: %{y:.2f}",
+      "name": "Positive Shock<br>High Materials",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],

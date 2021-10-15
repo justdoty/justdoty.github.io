@@ -2,12 +2,14 @@
   "data": [
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, -0.000167605053515762, -0.0898398598347276, -0.174025172498248, -0.25346978588313, -0.326973183823367, -0.395762957178859, -0.459289722480064, -0.519886739892708, -0.575719524241078, -0.629650957735854, -0.679597295527733, -0.726893967999855, -0.771231685477991, -0.811324010176758, -0.848965078616253, -0.883154244488238, -0.912447118806698, -0.940190755070486, -0.963694829937445],
+      "y": [0, -0.000167605053515762, -0.0898634511262806, -0.174006948990646, -0.253627979861364, -0.327217703743377, -0.396041235942972, -0.459168618647614, -0.520492277065359, -0.576409325718923, -0.630108827063463, -0.680341695276085, -0.727334525598834, -0.771535659328044, -0.812371546960417, -0.849396615714531, -0.884517581438484, -0.912941460534558, -0.94145270545717, -0.965013647117652],
       "mode": "lines",
       "showlegend": false,
       "line": {
         "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Negative Shock<br>Low Investment",
       "type": "scatter",
       "marker": {
         "color": "rgba(31,119,180,1)",
@@ -34,6 +36,8 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Negative Shock<br>Low Investment",
       "type": "scatter",
       "marker": {
         "color": "rgba(255,127,14,1)",
@@ -53,13 +57,14 @@
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "y": [0, -0.0002084204705953, -0.0971253970531656, -0.173302258608593, -0.232032362193457, -0.278661415060234, -0.315698623481207, -0.346977559629897, -0.373961179644043, -0.399827715542213, -0.425815240418365, -0.453343320446213, -0.483776103975221, -0.51827148110964, -0.558410488675849, -0.602942456637223, -0.540141639799181, -0.0825159324394189, 0, 0],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "red",
-        "dash": "dash"
+        "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Negative Shock<br>Medium Investment",
       "type": "scatter",
       "marker": {
         "color": "rgba(44,160,44,1)",
@@ -72,31 +77,6 @@
       },
       "error_x": {
         "color": "rgba(44,160,44,1)"
-      },
-      "xaxis": "x",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, -0.0002084204705953, -0.0971052476027429, -0.17329237347498, -0.23200949719345, -0.278549092806787, -0.315711622838948, -0.346961280938045, -0.374228129388487, -0.399610374203411, -0.425342293133757, -0.453288510048996, -0.483654616913644, -0.517715997401992, -0.558235600595425, -0.602020815885083, -0.536362924099359, -0.0771838406689849, 0, 0],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "black"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(214,39,40,1)",
-        "line": {
-          "color": "rgba(214,39,40,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(214,39,40,1)"
-      },
-      "error_x": {
-        "color": "rgba(214,39,40,1)"
       },
       "xaxis": "x2",
       "yaxis": "y",
@@ -111,237 +91,8 @@
         "color": "blue",
         "dash": "dash"
       },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(148,103,189,1)",
-        "line": {
-          "color": "rgba(148,103,189,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(148,103,189,1)"
-      },
-      "error_x": {
-        "color": "rgba(148,103,189,1)"
-      },
-      "xaxis": "x2",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(140,86,75,1)",
-        "line": {
-          "color": "rgba(140,86,75,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(140,86,75,1)"
-      },
-      "error_x": {
-        "color": "rgba(140,86,75,1)"
-      },
-      "xaxis": "x2",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, -0.000136254879585462, -0.0150520652240083, -0.0111565386256118, -0.00494482985016909, 0.00339312390717783, 0.0123997914448655, 0.0174423989498811, 0.0156745008701087, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "black"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(227,119,194,1)",
-        "line": {
-          "color": "rgba(227,119,194,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(227,119,194,1)"
-      },
-      "error_x": {
-        "color": "rgba(227,119,194,1)"
-      },
-      "xaxis": "x3",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, -0.0152756040374076, -0.0170511465751435, -0.0179905037748798, -0.020061510610021, -0.0259692473243165, -0.0383738163623759, -0.0610665598328559, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "blue",
-        "dash": "dash"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(127,127,127,1)",
-        "line": {
-          "color": "rgba(127,127,127,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(127,127,127,1)"
-      },
-      "error_x": {
-        "color": "rgba(127,127,127,1)"
-      },
-      "xaxis": "x3",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(188,189,34,1)",
-        "line": {
-          "color": "rgba(188,189,34,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(188,189,34,1)"
-      },
-      "error_x": {
-        "color": "rgba(188,189,34,1)"
-      },
-      "xaxis": "x3",
-      "yaxis": "y",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0.05521039780953, 0.108624044313048, 0.160213763051878, 0.208995214808495, 0.255596355134234, 0.300119990327719, 0.341920997854653, 0.381980460060274, 0.419662857719107, 0.45495528754536, 0.486157104236321, 0.516305813837456, 0.544474185588329, 0.570155237479267, 0.593832400838554, 0.615027221221682, 0.63496872551714, 0.653391878862976],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "black"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(23,190,207,1)",
-        "line": {
-          "color": "rgba(23,190,207,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(23,190,207,1)"
-      },
-      "error_x": {
-        "color": "rgba(23,190,207,1)"
-      },
-      "xaxis": "x",
-      "yaxis": "y2",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0.0530044940265154, 0.103569022825558, 0.151000168714307, 0.195930644532808, 0.238253476992035, 0.277988682125928, 0.315168454223248, 0.349985822280705, 0.381482626773187, 0.410687054863272, 0.436380371630291, 0.458855230458158, 0.478990111634058, 0.496679931886441, 0.510993343620309, 0.523559113703073, 0.535054629655699, 0.544761355130829],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "blue",
-        "dash": "dash"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(31,119,180,1)",
-        "line": {
-          "color": "rgba(31,119,180,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(31,119,180,1)"
-      },
-      "error_x": {
-        "color": "rgba(31,119,180,1)"
-      },
-      "xaxis": "x",
-      "yaxis": "y2",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(255,127,14,1)",
-        "line": {
-          "color": "rgba(255,127,14,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(255,127,14,1)"
-      },
-      "error_x": {
-        "color": "rgba(255,127,14,1)"
-      },
-      "xaxis": "x",
-      "yaxis": "y2",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0.0645365164807512, 0.119108858539183, 0.16506751183325, 0.204176252790073, 0.238010039582573, 0.267492359406877, 0.294909924090348, 0.319961143765171, 0.34557529182315, 0.371235932040936, 0.399837545887144, 0.433020407563126, 0.470130860097813, 0.392152285480094, 0, 0, 0, 0],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "black"
-      },
-      "type": "scatter",
-      "marker": {
-        "color": "rgba(44,160,44,1)",
-        "line": {
-          "color": "rgba(44,160,44,1)"
-        }
-      },
-      "error_y": {
-        "color": "rgba(44,160,44,1)"
-      },
-      "error_x": {
-        "color": "rgba(44,160,44,1)"
-      },
-      "xaxis": "x2",
-      "yaxis": "y2",
-      "frame": null
-    },
-    {
-      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0.062113031033189, 0.11337441162977, 0.156407839918087, 0.193142115289944, 0.225149710690957, 0.253969059316486, 0.279937969709311, 0.304694481673311, 0.329633422443638, 0.356027538934166, 0.384513798216627, 0.416281529235265, 0.452832058302487, 0.109965813366992, 0, 0, 0, 0],
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "blue",
-        "dash": "dash"
-      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Negative Shock<br>Medium Investment",
       "type": "scatter",
       "marker": {
         "color": "rgba(214,39,40,1)",
@@ -356,18 +107,19 @@
         "color": "rgba(214,39,40,1)"
       },
       "xaxis": "x2",
-      "yaxis": "y2",
+      "yaxis": "y",
       "frame": null
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "y": [0, -0.000136254879585462, -0.0150592843081025, -0.0111195301064235, -0.0048624987106467, 0.00358565681170298, 0.0126304480365302, 0.0177345352093763, 0.0160279420872822, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "red",
-        "dash": "dash"
+        "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Negative Shock<br>High Investment",
       "type": "scatter",
       "marker": {
         "color": "rgba(148,103,189,1)",
@@ -381,18 +133,21 @@
       "error_x": {
         "color": "rgba(148,103,189,1)"
       },
-      "xaxis": "x2",
-      "yaxis": "y2",
+      "xaxis": "x3",
+      "yaxis": "y",
       "frame": null
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0.034539022894047, 0.0575065985510697, 0.0741719254138284, 0.0917943870784619, 0.112403334377401, 0.14010899452554, 0.178766235948284, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "y": [0, 0, -0.0152756040374076, -0.0170511465751435, -0.0179905037748798, -0.020061510610021, -0.0259692473243165, -0.0383738163623759, -0.0610665598328559, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "black"
+        "color": "blue",
+        "dash": "dash"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Negative Shock<br>High Investment",
       "type": "scatter",
       "marker": {
         "color": "rgba(140,86,75,1)",
@@ -407,18 +162,19 @@
         "color": "rgba(140,86,75,1)"
       },
       "xaxis": "x3",
-      "yaxis": "y2",
+      "yaxis": "y",
       "frame": null
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0.0324025750256556, 0.0532341914418621, 0.0698077722001895, 0.0889510275110954, 0.114462269947132, 0.15064340096879, 0.202595628237175, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "y": [0, 0, 0.0552102092792466, 0.108692652310012, 0.160289158365655, 0.209109318208467, 0.255834521564467, 0.300721010740377, 0.342250482538589, 0.382522898375826, 0.420015606856359, 0.455381876313635, 0.486649449758145, 0.51712472402102, 0.544979413013904, 0.571038301045673, 0.594251856782972, 0.616357299588175, 0.635802556805175, 0.6541156896721],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "blue",
-        "dash": "dash"
+        "color": "black"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Positive Shock<br>Low Investment",
       "type": "scatter",
       "marker": {
         "color": "rgba(227,119,194,1)",
@@ -432,19 +188,21 @@
       "error_x": {
         "color": "rgba(227,119,194,1)"
       },
-      "xaxis": "x3",
+      "xaxis": "x",
       "yaxis": "y2",
       "frame": null
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "y": [0, 0, 0.0530044940265154, 0.103569022825558, 0.151000168714307, 0.195930644532808, 0.238253476992035, 0.277988682125928, 0.315168454223248, 0.349985822280705, 0.381482626773187, 0.410687054863272, 0.436380371630291, 0.458855230458158, 0.478990111634058, 0.496679931886441, 0.510993343620309, 0.523559113703073, 0.535054629655699, 0.544761355130829],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "red",
+        "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Positive Shock<br>Low Investment",
       "type": "scatter",
       "marker": {
         "color": "rgba(127,127,127,1)",
@@ -457,6 +215,116 @@
       },
       "error_x": {
         "color": "rgba(127,127,127,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0, 0.0645363529894176, 0.119130817379782, 0.165159850704702, 0.204240207979484, 0.238077633350836, 0.267793066380734, 0.2952645117779, 0.320083797203622, 0.345852705083075, 0.37145368346882, 0.400248995397203, 0.433308176116193, 0.470820306163537, 0.395000640672131, 0, 0, 0, 0],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Positive Shock<br>Medium Investment",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(188,189,34,1)",
+        "line": {
+          "color": "rgba(188,189,34,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(188,189,34,1)"
+      },
+      "error_x": {
+        "color": "rgba(188,189,34,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0, 0.062113031033189, 0.11337441162977, 0.156407839918087, 0.193142115289944, 0.225149710690957, 0.253969059316486, 0.279937969709311, 0.304694481673311, 0.329633422443638, 0.356027538934166, 0.384513798216627, 0.416281529235265, 0.452832058302487, 0.109965813366992, 0, 0, 0, 0],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue",
+        "dash": "dash"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Positive Shock<br>Medium Investment",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(23,190,207,1)",
+        "line": {
+          "color": "rgba(23,190,207,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(23,190,207,1)"
+      },
+      "error_x": {
+        "color": "rgba(23,190,207,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0, 0.0345389638426872, 0.0575031822752901, 0.0741161927161169, 0.0916667994886025, 0.112276483501315, 0.139853149262079, 0.178406279137376, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "black"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}"],
+      "name": "Selection-Corrected<br>Positive Shock<br>High Investment",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(31,119,180,1)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0, 0.0324025750256556, 0.0532341914418621, 0.0698077722001895, 0.0889510275110954, 0.114462269947132, 0.15064340096879, 0.202595628237175, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue",
+        "dash": "dash"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}", "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}"],
+      "name": "Conditional on Staying<br>Positive Shock<br>High Investment",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(255,127,14,1)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,1)"
       },
       "xaxis": "x3",
       "yaxis": "y2",
@@ -487,8 +355,8 @@
       "automargin": true,
       "title": "Capital",
       "range": [
-        -0.963694829937445,
-        0.653391878862976
+        -0.965013647117652,
+        0.6541156896721
       ],
       "anchor": "x"
     },
@@ -497,13 +365,92 @@
       "automargin": true,
       "title": "Capital",
       "range": [
-        -0.963694829937445,
-        0.653391878862976
+        -0.965013647117652,
+        0.6541156896721
       ],
       "anchor": "x"
     },
     "annotations": [],
-    "shapes": [],
+    "shapes": [
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0,
+        "x1": 0.313333333333333,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.353333333333333,
+        "x1": 0.646666666666667,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.686666666666667,
+        "x1": 1,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0,
+        "x1": 0.313333333333333,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.353333333333333,
+        "x1": 0.646666666666667,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.686666666666667,
+        "x1": 1,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      }
+    ],
     "images": [],
     "margin": {
       "b": 40,
@@ -515,7 +462,7 @@
     "showlegend": false
   },
   "attrs": {
-    "21294f4aa7e6": {
+    "40078d72ef1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -523,12 +470,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Negative Shock<br>Low Investment",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "21294f4aa7e6.1": {
+    "40078d72ef1.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -537,28 +486,15 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Negative Shock<br>Low Investment",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "21294f4aa7e6.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "21292e5515b5": {
+    "400774b0e31": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -566,12 +502,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Negative Shock<br>Medium Investment",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "21292e5515b5.1": {
+    "400774b0e31.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -580,28 +518,15 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Negative Shock<br>Medium Investment",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "21292e5515b5.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "2129540435d6": {
+    "4006090f026": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -609,12 +534,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Negative Shock<br>High Investment",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "2129540435d6.1": {
+    "4006090f026.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -623,28 +550,15 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Negative Shock<br>High Investment",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "2129540435d6.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "2129606a9fb1": {
+    "4004b868051": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -652,12 +566,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Positive Shock<br>Low Investment",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "2129606a9fb1.1": {
+    "4004b868051.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -666,28 +582,15 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Positive Shock<br>Low Investment",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "2129606a9fb1.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "2129781a4eea": {
+    "4006b526c93": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -695,12 +598,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Positive Shock<br>Medium Investment",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "2129781a4eea.1": {
+    "4006b526c93.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -709,28 +614,15 @@
         "color": "blue",
         "dash": "dash"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Positive Shock<br>Medium Investment",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter",
       "inherit": true
     },
-    "2129781a4eea.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "21297332240": {
+    "40070565df0": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -738,12 +630,14 @@
       "line": {
         "color": "black"
       },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}",
+      "name": "Selection-Corrected<br>Positive Shock<br>High Investment",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
       "type": "scatter"
     },
-    "21297332240.1": {
+    "40070565df0.1": {
       "x": {},
       "y": {},
       "mode": "lines",
@@ -752,21 +646,8 @@
         "color": "blue",
         "dash": "dash"
       },
-      "alpha_stroke": 1,
-      "sizes": [10, 100],
-      "spans": [1, 20],
-      "type": "scatter",
-      "inherit": true
-    },
-    "21297332240.2": {
-      "x": {},
-      "y": 0,
-      "mode": "lines",
-      "showlegend": false,
-      "line": {
-        "color": "red",
-        "dash": "dash"
-      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Capital Change: %{y:.2f}",
+      "name": "Conditional on Staying<br>Positive Shock<br>High Investment",
       "alpha_stroke": 1,
       "sizes": [10, 100],
       "spans": [1, 20],
