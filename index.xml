@@ -128,7 +128,7 @@ Plotly.d3.json(&#34;/jmp/mainext/hminpq3dplotly.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h4 id=&#34;figure-16-input-marginal-productivities-over-percentiles-of-capital&#34;&gt;Figure 16: Input Marginal Productivities over Percentiles of Capital&lt;/h4&gt;
+&lt;h4 id=&#34;figure-16-input-demand-responses-to-productivity-over-percentiles-of-capital&#34;&gt;Figure 16: Input Demand Responses to Productivity over Percentiles of Capital&lt;/h4&gt;
 
 &lt;p&gt; 
 
@@ -221,7 +221,7 @@ Plotly.d3.json(&#34;/jmp/main/omgplotly.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-5-input-marginal-productivities&#34;&gt;Figure 5: Input Marginal Productivities&lt;/h3&gt;
+&lt;h3 id=&#34;figure-5-input-demand-responses-to-productivity&#34;&gt;Figure 5: Input Demand Responses to Productivity&lt;/h3&gt;
 
 &lt;p&gt;Panel (a) is the estimate of the investment response to productivity evaluated at percentiles of investment demand and percentiles of productivity averaged over capital.&lt;/p&gt;
 
@@ -485,7 +485,7 @@ Plotly.d3.json(&#34;/jmp/selection/omgplotly.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-29-input-marginal-productivities&#34;&gt;Figure 29: Input Marginal Productivities&lt;/h3&gt;
+&lt;h3 id=&#34;figure-29-input-demand-responses-to-productivity&#34;&gt;Figure 29: Input Demand Responses to Productivity&lt;/h3&gt;
 
 &lt;p&gt;Panel (a) is the estimate of the investment response to productivity evaluated at percentiles of investment demand and percentiles of productivity averaged over capital.&lt;/p&gt;
 
