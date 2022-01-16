@@ -2,11 +2,11 @@
   "data": [
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, -0.124583439220353, -0.116518976900402, -0.106360089022418, -0.0969376918881312, -0.0884579821815758, -0.0810052888368292, -0.0745793633916264, -0.0685540146579905, -0.0623941155177372, -0.057871975572535, -0.0532396715403551, -0.0490657313163602, -0.0452662341813048, -0.0421918470587561, -0.0385531373150891, -0.0357333617213668, -0.0326661282995815, -0.0307706285191793, -0.0281833191585558],
+      "y": [0, -0.125207779147898, -0.116942845638067, -0.106806369305191, -0.0980067466555496, -0.0887908196790543, -0.0820651013317638, -0.0756577837486981, -0.0698311607785081, -0.0629876385248404, -0.0587967209904519, -0.0550532773203935, -0.0483804008555555, -0.0452319833035369, -0.0424013056676815, -0.0390253204571315, -0.0353680897379561, -0.0338594064256668, -0.0310865984806624, -0.0283975533609192],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "black"
+        "color": "red"
       },
       "hovertemplate": ["<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}"],
       "name": "Negative Shock<br>Low Productivity",
@@ -29,11 +29,11 @@
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, -0.13228797584247, -0.123600982660696, -0.114140973445377, -0.105347155161652, -0.0973674578468142, -0.0899840708519, -0.0828263517750313, -0.0770785381943702, -0.0708898996905874, -0.0657024751710799, -0.0605699450782584, -0.0565066866806497, -0.0520382639114417, -0.0485080818424206, -0.0447038706233752, -0.0414385813320238, -0.0383845495914589, -0.0356032293275931, -0.0335386287249314],
+      "y": [0, -0.132443564719351, -0.123906462125995, -0.114735245722532, -0.105506812626965, -0.0980751039526523, -0.0894070208263768, -0.0828785040585666, -0.0771144104357813, -0.0716399021240484, -0.066191804007831, -0.0622656624528548, -0.0572855902700466, -0.0519690830569032, -0.0483958916312964, -0.0444082426216792, -0.0430890457712404, -0.0389270823015588, -0.03594347624935, -0.0331926298002842],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "black"
+        "color": "green"
       },
       "hovertemplate": ["<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}"],
       "name": "Negative Shock<br>Medium Productivity",
@@ -56,11 +56,11 @@
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, -0.151585180071603, -0.143395293327335, -0.133821897428729, -0.124712416659901, -0.116095326195206, -0.108632558890543, -0.100958589675621, -0.0940450008910099, -0.0876161564331015, -0.0819508978031721, -0.0762196767648767, -0.070584407601292, -0.0657483328777377, -0.0610051457354962, -0.0572094411795673, -0.052931447025029, -0.0493354954641818, -0.0458221665396266, -0.04326698558866],
+      "y": [0, -0.152193327332108, -0.144060606966498, -0.13427903233639, -0.125219067063282, -0.116346786576333, -0.10888732385348, -0.102179420665307, -0.0934772621454688, -0.0866649718310407, -0.0844457082856395, -0.0757095421535211, -0.0719542971915755, -0.0650696149480428, -0.0638854264140433, -0.0603221596273597, -0.0545177099276804, -0.0494883988864515, -0.0463294164215653, -0.0451498641174421],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "black"
+        "color": "blue"
       },
       "hovertemplate": ["<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}"],
       "name": "Negative Shock<br>High Productivity",
@@ -83,11 +83,11 @@
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0.145302710730064, 0.135640051414233, 0.124264583517403, 0.113907179644245, 0.104694477829573, 0.0960113074256617, 0.0884897463865274, 0.0815589065496459, 0.075054941485733, 0.0693531554356724, 0.0640432127777331, 0.0591217403074362, 0.0542634099802748, 0.0504610650706065, 0.0464642807055829, 0.04292541412108, 0.0395610850652745, 0.037075372563712, 0.0341161984302353],
+      "y": [0, 0.144922788712994, 0.135298527133916, 0.123527760372102, 0.114028339538648, 0.1050975803582, 0.0955794313432023, 0.0890257222405818, 0.0815180484292684, 0.077429849751389, 0.0704254476169039, 0.062929163853963, 0.0594095269093203, 0.0552570608134793, 0.0517053834181068, 0.0467779631887614, 0.0447021882059307, 0.0397942518574485, 0.0372021661070981, 0.035055088480805],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "black"
+        "color": "red"
       },
       "hovertemplate": ["<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}"],
       "name": "Positive Shock<br>Low Productivity",
@@ -110,11 +110,11 @@
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0.135235306007364, 0.12674220882465, 0.117491027175208, 0.108843958251022, 0.100736527260221, 0.0934469840324502, 0.0868654746406441, 0.0805335209019616, 0.0746771256513911, 0.0690380565572244, 0.0644894968628185, 0.0595943290604791, 0.0552338966477204, 0.0510368040266707, 0.0476566123192181, 0.0440810197186046, 0.0405824326926598, 0.038241724660336, 0.0355411553769119],
+      "y": [0, 0.135324526915301, 0.126996728901576, 0.11747097841939, 0.108504077559258, 0.101453923443778, 0.0929270287674765, 0.0881353012300898, 0.0799940034018966, 0.0747824415405483, 0.0700263333365703, 0.0637865623673702, 0.0618336942943476, 0.0563815749554509, 0.0520739432228115, 0.0495167128405337, 0.0450678502972202, 0.0405589710995302, 0.0378478642191445, 0.0351244248908613],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "black"
+        "color": "green"
       },
       "hovertemplate": ["<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}"],
       "name": "Positive Shock<br>Medium Productivity",
@@ -137,11 +137,11 @@
     },
     {
       "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
-      "y": [0, 0.139572152522765, 0.133209114985281, 0.124844819369998, 0.116863986736542, 0.109518872338938, 0.10199902321979, 0.0955766923676873, 0.0891905581433193, 0.083593575788425, 0.0781394445938419, 0.0728161370758257, 0.0683095539701691, 0.0633697872208691, 0.0587382105430694, 0.0550786174294174, 0.051241055492849, 0.0475786885960831, 0.0444851756650961, 0.0421403409198939],
+      "y": [0, 0.139995620068395, 0.133507865605006, 0.12544529694439, 0.116671239780486, 0.108361072092636, 0.102346462435464, 0.0944567649482304, 0.0905526249578306, 0.0834509360716335, 0.0785174653948528, 0.072823273231801, 0.0695009305951781, 0.0634943982291528, 0.0613786392019774, 0.0537456702887689, 0.0520235151881163, 0.0474471665464588, 0.0437870675168973, 0.0419461536651613],
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "black"
+        "color": "blue"
       },
       "hovertemplate": ["<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}"],
       "name": "Positive Shock<br>High Productivity",
@@ -204,32 +204,32 @@
       "domain": [0, 0.48],
       "automargin": true,
       "title": "Productivity",
-      "range": [
-        -0.151585180071603,
-        0.145302710730064
-      ],
       "titlefont": {
         "size": 18
       },
       "tickfont": {
         "size": 14
       },
+      "range": [
+        -0.152193327332108,
+        0.144922788712994
+      ],
       "anchor": "x"
     },
     "yaxis": {
       "domain": [0.52, 1],
       "automargin": true,
       "title": "Productivity",
-      "range": [
-        -0.151585180071603,
-        0.145302710730064
-      ],
       "titlefont": {
         "size": 18
       },
       "tickfont": {
         "size": 14
       },
+      "range": [
+        -0.152193327332108,
+        0.144922788712994
+      ],
       "anchor": "x"
     },
     "annotations": [],
@@ -324,13 +324,13 @@
     "showlegend": false
   },
   "attrs": {
-    "13be3420405c": {
+    "69dab2b67b7": {
       "x": {},
       "y": {},
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "black"
+        "color": "red"
       },
       "hovertemplate": "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}",
       "name": "Negative Shock<br>Low Productivity",
@@ -339,13 +339,13 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "13be3bb5ac1": {
+    "69da24f6f4c8": {
       "x": {},
       "y": {},
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "black"
+        "color": "green"
       },
       "hovertemplate": "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}",
       "name": "Negative Shock<br>Medium Productivity",
@@ -354,13 +354,13 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "13be4d92788f": {
+    "69da52298c8d": {
       "x": {},
       "y": {},
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "black"
+        "color": "blue"
       },
       "hovertemplate": "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}",
       "name": "Negative Shock<br>High Productivity",
@@ -369,13 +369,13 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "13be32fe6fcb": {
+    "69da5b715d48": {
       "x": {},
       "y": {},
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "black"
+        "color": "red"
       },
       "hovertemplate": "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}",
       "name": "Positive Shock<br>Low Productivity",
@@ -384,13 +384,13 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "13be5d6e278b": {
+    "69da1db5e244": {
       "x": {},
       "y": {},
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "black"
+        "color": "green"
       },
       "hovertemplate": "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}",
       "name": "Positive Shock<br>Medium Productivity",
@@ -399,13 +399,13 @@
       "spans": [1, 20],
       "type": "scatter"
     },
-    "13be5fe69822": {
+    "69da5ce00ded": {
       "x": {},
       "y": {},
       "mode": "lines",
       "showlegend": false,
       "line": {
-        "color": "black"
+        "color": "blue"
       },
       "hovertemplate": "<i>Year<i>: %{x} <br>Productivity Change: %{y:.3f}",
       "name": "Positive Shock<br>High Productivity",

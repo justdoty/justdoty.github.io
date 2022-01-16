@@ -25,9 +25,9 @@
 
 &lt;p&gt;by Justin Doty (2021)&lt;/p&gt;
 
-&lt;h2 id=&#34;appendix-c-2-labor-dynamics&#34;&gt;Appendix C.2: Labor Dynamics&lt;/h2&gt;
+&lt;h2 id=&#34;appendix-d-2-labor-dynamics&#34;&gt;Appendix D.2: Labor Dynamics&lt;/h2&gt;
 
-&lt;h3 id=&#34;figure-17-impulse-response-of-adjustment-shocks-to-labor&#34;&gt;Figure 17: Impulse Response of Adjustment Shocks to Labor&lt;/h3&gt;
+&lt;h3 id=&#34;figure-39-impulse-response-of-adjustment-shocks-to-labor&#34;&gt;Figure 39: Impulse Response of Adjustment Shocks to Labor&lt;/h3&gt;
 
 &lt;p&gt;This plot reports the difference in labor demand between firms hit with low, medium-low, medium-high and high labor shocks and medium labor shocks at different levels labor demand. The first row corresponds to firms hit by low labor shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of labor demand. The second row corresponds to firms hit by medium-low labor shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of labor demand. The third row corresponds to firms hit by medium-high labor shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of labor demand. The last row corresponds to firms hit by high labor shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of labor demand.&lt;/p&gt;
 
@@ -37,105 +37,6 @@
 &lt;script&gt;
 Plotly.d3.json(&#34;/jmp/labor/impulseL.json&#34;, function(err, fig) {
     Plotly.plot(&#39;\/jmp\/labor\/impulseL.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://justdoty.github.io/mainext/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://justdoty.github.io/mainext/</guid>
-      <description>
-
-&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-
-&lt;h1 id=&#34;a-dynamic-framework-for-identification-and-estimation-of-nonseparable-production-functions&#34;&gt;A Dynamic Framework for Identification and Estimation of Nonseparable Production Functions&lt;/h1&gt;
-
-&lt;p&gt;by Justin Doty (2021)&lt;/p&gt;
-
-&lt;h2 id=&#34;appendix-c-1-extension-of-heterogeneous-estimates-from-the-main-model&#34;&gt;Appendix C.1: Extension of Heterogeneous Estimates from the Main Model&lt;/h2&gt;
-
-&lt;h3 id=&#34;output-elasticities&#34;&gt;Output Elasticities&lt;/h3&gt;
-
-&lt;h4 id=&#34;figure-10-capital-elasticity-over-percentiles-of-labor-and-materials&#34;&gt;Figure 10: Capital Elasticity over Percentiles of Labor and Materials&lt;/h4&gt;
-
-&lt;p&gt; 
-
-&lt;div id=&#34;/jmp/mainext/kinpq3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/mainext/kinpq3dplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/mainext\/kinpq3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;figure-11-labor-elasticity-over-percentiles-of-capital-and-materials&#34;&gt;Figure 11: Labor Elasticity over Percentiles of Capital and Materials&lt;/h4&gt;
-
-&lt;p&gt; 
-
-&lt;div id=&#34;/jmp/mainext/linpq3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/mainext/linpq3dplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/mainext\/linpq3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;figure-12-materials-elasticity-over-percentiles-of-capital-and-labor&#34;&gt;Figure 12: Materials Elasticity over Percentiles of Capital and Labor&lt;/h4&gt;
-
-&lt;p&gt; 
-
-&lt;div id=&#34;/jmp/mainext/minpq3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/mainext/minpq3dplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/mainext\/minpq3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;input-efficiencies&#34;&gt;Input Efficiencies&lt;/h3&gt;
-
-&lt;h4 id=&#34;figure-13-capital-efficiency-over-percentiles-of-labor-and-materials&#34;&gt;Figure 13: Capital Efficiency over Percentiles of Labor and Materials&lt;/h4&gt;
-
-&lt;p&gt; 
-
-&lt;div id=&#34;/jmp/mainext/hkinpq3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/mainext/hkinpq3dplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/mainext\/hkinpq3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;figure-14-labor-efficiency-over-percentiles-of-capital-and-materials&#34;&gt;Figure 14: Labor Efficiency over Percentiles of Capital and Materials&lt;/h4&gt;
-
-&lt;p&gt; 
-
-&lt;div id=&#34;/jmp/mainext/hlinpq3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/mainext/hlinpq3dplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/mainext\/hlinpq3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;figure-15-materials-efficiency-over-percentiles-of-capital-and-labor&#34;&gt;Figure 15: Materials Efficiency over Percentiles of Capital and Labor&lt;/h4&gt;
-
-&lt;p&gt; 
-
-&lt;div id=&#34;/jmp/mainext/hminpq3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/mainext/hminpq3dplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/mainext\/hminpq3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;h4 id=&#34;figure-16-input-demand-responses-to-productivity-over-percentiles-of-capital&#34;&gt;Figure 16: Input Demand Responses to Productivity over Percentiles of Capital&lt;/h4&gt;
-
-&lt;p&gt; 
-
-&lt;div id=&#34;/jmp/mainext/lmiwkq3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/mainext/lmiwkq3dplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/mainext\/lmiwkq3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
 });
 &lt;/script&gt;&lt;/p&gt;
 </description>
@@ -159,12 +60,6 @@ Plotly.d3.json(&#34;/jmp/mainext/lmiwkq3dplotly.json&#34;, function(err, fig) {
 
 &lt;h3 id=&#34;figure-1-output-elasticities&#34;&gt;Figure 1: Output Elasticities&lt;/h3&gt;
 
-&lt;p&gt;Panel (a) is the estimate of the output elasticity with respect to capital evaluated at percentiles of the conditional output distribution and percentiles of capital averaged over values of labor and materials that correspond to the percentiles of capital.&lt;/p&gt;
-
-&lt;p&gt;Panel (b) is the estimate of the output elasticity with respect to labor evaluated at percentiles of the conditional output distribution and percentiles of labor averaged over values of capital and materials that correspond to the percentiles of labor.&lt;/p&gt;
-
-&lt;p&gt;Panel (c) is the estimate of the output elasticity with respect to materials evaluated at percentiles of the conditional output distribution and percentiles of materials averaged over values of capital and labor.&lt;/p&gt;
-
 &lt;p&gt; 
 
 &lt;div id=&#34;/jmp/main/klm3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
@@ -176,12 +71,6 @@ Plotly.d3.json(&#34;/jmp/main/klm3dplotly.json&#34;, function(err, fig) {
 
 &lt;h3 id=&#34;figure-2-output-elasticities-over-productivity&#34;&gt;Figure 2: Output Elasticities (over productivity)&lt;/h3&gt;
 
-&lt;p&gt;Panel (a) is the estimate of the output elasticity with respect to capital evaluated at percentiles of the conditional output distribution and percentiles of productivity averaged over values of capital, labor, and materials.&lt;/p&gt;
-
-&lt;p&gt;Panel (b) is the estimate of the output elasticity with respect to labor evaluated at percentiles of the conditional output distribution and percentiles of productivity averaged over values of capital, labor, and materials.&lt;/p&gt;
-
-&lt;p&gt;Panel (c) is the estimate of the output elasticity with respect to materials evaluated at percentiles of the conditional output distribution and percentiles of productivity averaged over values of capital, labor, and materials.&lt;/p&gt;
-
 &lt;p&gt; 
 
 &lt;div id=&#34;/jmp/main/klmwq3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
@@ -191,13 +80,7 @@ Plotly.d3.json(&#34;/jmp/main/klmwq3dplotly.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-3-input-efficiencies&#34;&gt;Figure 3: Input Efficiencies&lt;/h3&gt;
-
-&lt;p&gt;Panel (a) is the estimate of capital efficiency evaluated at percentiles of the conditional output distribution and percentiles of capital averaged over values of labor and materials that correspond to the percentiles of capital.&lt;/p&gt;
-
-&lt;p&gt;Panel (b) is the estimate of labor efficiency evaluated at percentiles of the conditional output distribution and percentiles of labor averaged over values of capital and materials that correspond to the percentiles of labor.&lt;/p&gt;
-
-&lt;p&gt;Panel (c) is the estimate of the materials efficiency evaluated at percentiles of the conditional output distribution and percentiles of materials averaged over values of capital and labor.&lt;/p&gt;
+&lt;h3 id=&#34;figure-3-effect-of-productivity-on-output-elasticities&#34;&gt;Figure 3: Effect of Productivity on Output Elasticities&lt;/h3&gt;
 
 &lt;p&gt; 
 
@@ -208,9 +91,29 @@ Plotly.d3.json(&#34;/jmp/main/hklm3dplotly.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-4-persistence-of-productivity&#34;&gt;Figure 4: Persistence of Productivity&lt;/h3&gt;
+&lt;h3 id=&#34;figure-4-effects-of-input-composition-of-productivity&#34;&gt;Figure 4: Effects of Input Composition of Productivity&lt;/h3&gt;
 
-&lt;p&gt;These are the estimates of average productivity persistence evaluated at percentiles of the innovation shocks and percentiles of previous productivity.&lt;/p&gt;
+&lt;p&gt; 
+
+&lt;div id=&#34;/jmp/main/ratioplots.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Plotly.d3.json(&#34;/jmp/main/ratioplots.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/main\/ratioplots.json&#39;, fig.data, fig.layout, {responsive: true});
+});
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;figure-5-effects-of-scale-of-productivity&#34;&gt;Figure 5: Effects of Scale of Productivity&lt;/h3&gt;
+
+&lt;p&gt; 
+
+&lt;div id=&#34;/jmp/main/hsplot.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Plotly.d3.json(&#34;/jmp/main/hsplot.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/main\/hsplot.json&#39;, fig.data, fig.layout, {responsive: true});
+});
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;figure-6-persistence-of-productivity&#34;&gt;Figure 6: Persistence of Productivity&lt;/h3&gt;
 
 &lt;p&gt; 
 
@@ -221,13 +124,18 @@ Plotly.d3.json(&#34;/jmp/main/omgplotly.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-5-input-demand-responses-to-productivity&#34;&gt;Figure 5: Input Demand Responses to Productivity&lt;/h3&gt;
+&lt;h3 id=&#34;figure-7-higher-moments-of-the-conditional-productivity-distribution&#34;&gt;Figure 7: Higher Moments of the Conditional Productivity Distribution&lt;/h3&gt;
 
-&lt;p&gt;Panel (a) is the estimate of the investment response to productivity evaluated at percentiles of investment demand and percentiles of productivity averaged over capital.&lt;/p&gt;
+&lt;p&gt; 
 
-&lt;p&gt;Panel (b) is the estimate of the labor response to productivity evaluated at percentiles of labor demand and percentiles of productivity averaged over capital.&lt;/p&gt;
+&lt;div id=&#34;/jmp/main/omgdist.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Plotly.d3.json(&#34;/jmp/main/omgdist.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/main\/omgdist.json&#39;, fig.data, fig.layout, {responsive: true});
+});
+&lt;/script&gt;&lt;/p&gt;
 
-&lt;p&gt;Panel (c) is the estimate of the materials response to productivity evaluated at percentiles of investment demand and percentiles of productivity averaged over capital and labor.&lt;/p&gt;
+&lt;h3 id=&#34;figure-8-input-demand-responses-to-productivity&#34;&gt;Figure 8: Input Demand Responses to Productivity&lt;/h3&gt;
 
 &lt;p&gt; 
 
@@ -238,9 +146,7 @@ Plotly.d3.json(&#34;/jmp/main/lmiw3dplotly.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-6-impulse-response-of-an-innovation-shock-to-productivity&#34;&gt;Figure 6: Impulse Response of an Innovation Shock to Productivity&lt;/h3&gt;
-
-&lt;p&gt;This plot reports the difference in productivity between firms hit with low and high productivity shocks and medium productivity shock at different levels of initial productivity. The first row corresponds to firms hit by low productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of initial productivity. The second row corresponds to firms hit by high productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of initial productivity.&lt;/p&gt;
+&lt;h3 id=&#34;figure-9-impulse-response-of-an-innovation-shock-to-productivity&#34;&gt;Figure 9: Impulse Response of an Innovation Shock to Productivity&lt;/h3&gt;
 
 &lt;p&gt; 
 
@@ -251,22 +157,18 @@ Plotly.d3.json(&#34;/jmp/main/impulseW.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-7-impulse-response-of-an-innovation-shock-to-capital&#34;&gt;Figure 7: Impulse Response of an Innovation Shock to Capital&lt;/h3&gt;
-
-&lt;p&gt;This plot reports the difference in capital between firms hit with low and high productivity shocks and medium productivity shock at different levels investment demand. The first row corresponds to firms hit by low productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of investment demand. The second row corresponds to firms hit by high productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of investment demand.&lt;/p&gt;
+&lt;h3 id=&#34;figure-10-impulse-response-of-an-innovation-shock-to-investment&#34;&gt;Figure 10: Impulse Response of an Innovation Shock to Investment&lt;/h3&gt;
 
 &lt;p&gt; 
 
-&lt;div id=&#34;/jmp/main/impulseK.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;/jmp/main/impulseI.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
-Plotly.d3.json(&#34;/jmp/main/impulseK.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/main\/impulseK.json&#39;, fig.data, fig.layout, {responsive: true});
+Plotly.d3.json(&#34;/jmp/main/impulseI.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/main\/impulseI.json&#39;, fig.data, fig.layout, {responsive: true});
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-8-impulse-response-of-an-innovation-shock-to-labor&#34;&gt;Figure 8: Impulse Response of an Innovation Shock to Labor&lt;/h3&gt;
-
-&lt;p&gt;This plot reports the difference in labor demand between firms hit with low and high productivity shocks and medium productivity shock at different levels labor demand. The first row corresponds to firms hit by low productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of labor demand. The second row corresponds to firms hit by high productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of labor demand.&lt;/p&gt;
+&lt;h3 id=&#34;figure-11-impulse-response-of-an-innovation-shock-to-labor&#34;&gt;Figure 11: Impulse Response of an Innovation Shock to Labor&lt;/h3&gt;
 
 &lt;p&gt; 
 
@@ -277,9 +179,7 @@ Plotly.d3.json(&#34;/jmp/main/impulseL.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-9-impulse-response-of-an-innovation-shock-to-materials&#34;&gt;Figure 9: Impulse Response of an Innovation Shock to Materials&lt;/h3&gt;
-
-&lt;p&gt;This plot reports the difference in materials demand between firms hit with low and high productivity shocks and medium productivity shock at different levels materials demand. The first row corresponds to firms hit by low productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of materials demand. The second row corresponds to firms hit by high productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of materials demand.&lt;/p&gt;
+&lt;h3 id=&#34;figure-12-impulse-response-of-an-innovation-shock-to-materials&#34;&gt;Figure 12: Impulse Response of an Innovation Shock to Materials&lt;/h3&gt;
 
 &lt;p&gt; 
 
@@ -287,6 +187,17 @@ Plotly.d3.json(&#34;/jmp/main/impulseL.json&#34;, function(err, fig) {
 &lt;script&gt;
 Plotly.d3.json(&#34;/jmp/main/impulseM.json&#34;, function(err, fig) {
     Plotly.plot(&#39;\/jmp\/main\/impulseM.json&#39;, fig.data, fig.layout, {responsive: true});
+});
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;figure-13-impulse-response-of-an-innovation-shock-to-input-misallocation&#34;&gt;Figure 13: Impulse Response of an Innovation Shock to Input Misallocation&lt;/h3&gt;
+
+&lt;p&gt; 
+
+&lt;div id=&#34;/jmp/main/impulseMis.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Plotly.d3.json(&#34;/jmp/main/impulseMis.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/main\/impulseMis.json&#39;, fig.data, fig.layout, {responsive: true});
 });
 &lt;/script&gt;&lt;/p&gt;
 </description>
@@ -306,15 +217,9 @@ Plotly.d3.json(&#34;/jmp/main/impulseM.json&#34;, function(err, fig) {
 
 &lt;p&gt;by Justin Doty (2021)&lt;/p&gt;
 
-&lt;h2 id=&#34;appendix-c-3-r-d-activities&#34;&gt;Appendix C.3: R&amp;amp;D Activities&lt;/h2&gt;
+&lt;h2 id=&#34;appendix-d-1-r-d-activities&#34;&gt;Appendix D.1: R&amp;amp;D Activities&lt;/h2&gt;
 
-&lt;h3 id=&#34;figure-18-productivity-persistence-for-non-performing-and-r-d-performing-firms&#34;&gt;Figure 18: Productivity Persistence for Non-performing and R&amp;amp;D Performing Firms&lt;/h3&gt;
-
-&lt;p&gt;Panel (a) is the estimate of the productivity persistence for non-R&amp;amp;D firms evaluated at percentiles of innovation shocks and percentiles of previous productivity levels.&lt;/p&gt;
-
-&lt;p&gt;Panel (b) is the estimate of the productivity persistence for R&amp;amp;D firms evaluated at percentiles of innovation shocks and percentiles of previous productivity levels averaged over R&amp;amp;D.&lt;/p&gt;
-
-&lt;p&gt;Panel (c) is the estimate of the productivity persistence for R&amp;amp;D firms evaluated at percentiles of innovation shocks and percentiles of previous R&amp;amp;D levels averaged over productivity.&lt;/p&gt;
+&lt;h3 id=&#34;figure-27-productivity-persistence-for-non-performing-and-r-d-performing-firms&#34;&gt;Figure 27: Productivity Persistence for Non-performing and R&amp;amp;D Performing Firms&lt;/h3&gt;
 
 &lt;p&gt; 
 
@@ -325,9 +230,29 @@ Plotly.d3.json(&#34;/jmp/rnd/persplotly.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-19-returns-to-r-d&#34;&gt;Figure 19: Returns to R&amp;amp;D&lt;/h3&gt;
+&lt;h3 id=&#34;figure-28-higher-moments-of-the-conditional-productivity-distribution-non-r-d&#34;&gt;Figure 28: Higher Moments of the Conditional Productivity Distribution (Non R&amp;amp;D)&lt;/h3&gt;
 
-&lt;p&gt;Panel (a) reports returns to productivity from R&amp;amp;D investment evaluated at percentiles of productivity and percentiles of innovation shocks averaged over R&amp;amp;D. Panel (b) reports similar estimates, evaluated over percentiles of innovation shocks and percentiles of R&amp;amp;D averaged over productivity.&lt;/p&gt;
+&lt;p&gt; 
+
+&lt;div id=&#34;/jmp/rnd/omgdist.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Plotly.d3.json(&#34;/jmp/rnd/omgdist.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/rnd\/omgdist.json&#39;, fig.data, fig.layout, {responsive: true});
+});
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;figure-29-higher-moments-of-the-conditional-productivity-distribution-r-d&#34;&gt;Figure 29: Higher Moments of the Conditional Productivity Distribution (R&amp;amp;D)&lt;/h3&gt;
+
+&lt;p&gt; 
+
+&lt;div id=&#34;/jmp/rnd/romgdist.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Plotly.d3.json(&#34;/jmp/rnd/romgdist.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/rnd\/romgdist.json&#39;, fig.data, fig.layout, {responsive: true});
+});
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;figure-30-returns-to-r-d&#34;&gt;Figure 30: Returns to R&amp;amp;D&lt;/h3&gt;
 
 &lt;p&gt; 
 
@@ -338,9 +263,7 @@ Plotly.d3.json(&#34;/jmp/rnd/rdplot.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-20-impulse-response-of-an-innovation-shock-to-productivity&#34;&gt;Figure 20: Impulse Response of an Innovation Shock to Productivity&lt;/h3&gt;
-
-&lt;p&gt;This plot reports the difference in productivity between firms hit with low and high productivity shocks and medium productivity shock at different levels of initial productivity. The solid black line denotes the productivity response of non-R&amp;amp;D firms whereas the dashed green line denotes the response of R&amp;amp;D firms. The first row corresponds to firms hit by low productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of initial productivity. The second row corresponds to firms hit by high productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of initial productivity.&lt;/p&gt;
+&lt;h3 id=&#34;figure-31-impulse-response-of-an-innovation-shock-to-productivity-non-r-d&#34;&gt;Figure 31: Impulse Response of an Innovation Shock to Productivity (non R&amp;amp;D)&lt;/h3&gt;
 
 &lt;p&gt; 
 
@@ -351,35 +274,40 @@ Plotly.d3.json(&#34;/jmp/rnd/impulseW.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-21-impulse-response-of-an-innovation-shock-to-productivity-for-different-levels-of-r-d&#34;&gt;Figure 21: Impulse Response of an Innovation Shock to Productivity for Different Levels of R&amp;amp;D&lt;/h3&gt;
-
-&lt;p&gt;This plot reports the difference in productivity between firms hit with low and high productivity shocks and medium productivity shock at different levels of R&amp;amp;D expenditure. The first row corresponds to firms hit by low productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of R&amp;amp;D. The second row corresponds to firms hit by high productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of R&amp;amp;D.&lt;/p&gt;
+&lt;h3 id=&#34;figure-32-impulse-response-of-an-innovation-shock-to-productivity-r-d&#34;&gt;Figure 32: Impulse Response of an Innovation Shock to Productivity (R&amp;amp;D)&lt;/h3&gt;
 
 &lt;p&gt; 
 
-&lt;div id=&#34;/jmp/rnd/impulseRW.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;/jmp/rnd/rimpulseW.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
-Plotly.d3.json(&#34;/jmp/rnd/impulseRW.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/rnd\/impulseRW.json&#39;, fig.data, fig.layout, {responsive: true});
+Plotly.d3.json(&#34;/jmp/rnd/rimpulseW.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/rnd\/rimpulseW.json&#39;, fig.data, fig.layout, {responsive: true});
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-22-impulse-response-of-an-innovation-shock-to-capital&#34;&gt;Figure 22: Impulse Response of an Innovation Shock to Capital&lt;/h3&gt;
-
-&lt;p&gt;This plot reports the difference in capital between firms hit with low and high productivity shocks and medium productivity shock at different levels of investment demand. The solid black line denotes the productivity response of non-R&amp;amp;D firms whereas the dashed green line denotes the response of R&amp;amp;D firms. The first row corresponds to firms hit by low productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of investment demand. The second row corresponds to firms hit by high productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of investment demand.&lt;/p&gt;
+&lt;h3 id=&#34;figure-33-impulse-response-of-an-innovation-shock-to-investment-non-r-d&#34;&gt;Figure 33: Impulse Response of an Innovation Shock to Investment (non R&amp;amp;D)&lt;/h3&gt;
 
 &lt;p&gt; 
 
-&lt;div id=&#34;/jmp/rnd/impulseK.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;/jmp/rnd/impulseI.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
-Plotly.d3.json(&#34;/jmp/rnd/impulseK.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/rnd\/impulseK.json&#39;, fig.data, fig.layout, {responsive: true});
+Plotly.d3.json(&#34;/jmp/rnd/impulseI.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/rnd\/impulseI.json&#39;, fig.data, fig.layout, {responsive: true});
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-23-impulse-response-of-an-innovation-shock-to-labor&#34;&gt;Figure 23: Impulse Response of an Innovation Shock to Labor&lt;/h3&gt;
+&lt;h3 id=&#34;figure-34-impulse-response-of-an-innovation-shock-to-investment-r-d&#34;&gt;Figure 34: Impulse Response of an Innovation Shock to Investment (R&amp;amp;D)&lt;/h3&gt;
 
-&lt;p&gt;This plot reports the difference in labor between firms hit with low and high productivity shocks and medium productivity shock at different levels of labor demand. The solid black line denotes the productivity response of non-R&amp;amp;D firms whereas the dashed green line denotes the response of R&amp;amp;D firms. The first row corresponds to firms hit by low productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of labor demand. The second row corresponds to firms hit by high productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of labor demand.&lt;/p&gt;
+&lt;p&gt; 
+
+&lt;div id=&#34;/jmp/rnd/rimpulseI.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Plotly.d3.json(&#34;/jmp/rnd/rimpulseI.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/rnd\/rimpulseI.json&#39;, fig.data, fig.layout, {responsive: true});
+});
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;figure-35-impulse-response-of-an-innovation-shock-to-labor-non-r-d&#34;&gt;Figure 35: Impulse Response of an Innovation Shock to Labor (non R&amp;amp;D)&lt;/h3&gt;
 
 &lt;p&gt; 
 
@@ -390,9 +318,18 @@ Plotly.d3.json(&#34;/jmp/rnd/impulseL.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-24-impulse-response-of-an-innovation-shock-to-materials&#34;&gt;Figure 24: Impulse Response of an Innovation Shock to Materials&lt;/h3&gt;
+&lt;h3 id=&#34;figure-36-impulse-response-of-an-innovation-shock-to-productivity-r-d&#34;&gt;Figure 36: Impulse Response of an Innovation Shock to Productivity (R&amp;amp;D)&lt;/h3&gt;
 
-&lt;p&gt;This plot reports the difference in materials between firms hit with low and high productivity shocks and medium productivity shock at different levels of materials demand. The solid black line denotes the productivity response of non-R&amp;amp;D firms whereas the dashed green line denotes the response of R&amp;amp;D firms. The first row corresponds to firms hit by low productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of materials demand. The second row corresponds to firms hit by high productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of materials demand.&lt;/p&gt;
+&lt;p&gt; 
+
+&lt;div id=&#34;/jmp/rnd/rimpulseL.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Plotly.d3.json(&#34;/jmp/rnd/rimpulseL.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/rnd\/rimpulseL.json&#39;, fig.data, fig.layout, {responsive: true});
+});
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;figure-37-impulse-response-of-an-innovation-shock-to-materials-non-r-d&#34;&gt;Figure 37: Impulse Response of an Innovation Shock to Materials (non R&amp;amp;D)&lt;/h3&gt;
 
 &lt;p&gt; 
 
@@ -400,6 +337,17 @@ Plotly.d3.json(&#34;/jmp/rnd/impulseL.json&#34;, function(err, fig) {
 &lt;script&gt;
 Plotly.d3.json(&#34;/jmp/rnd/impulseM.json&#34;, function(err, fig) {
     Plotly.plot(&#39;\/jmp\/rnd\/impulseM.json&#39;, fig.data, fig.layout, {responsive: true});
+});
+&lt;/script&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;figure-38-impulse-response-of-an-innovation-shock-to-materials-r-d&#34;&gt;Figure 38: Impulse Response of an Innovation Shock to Materials (R&amp;amp;D)&lt;/h3&gt;
+
+&lt;p&gt; 
+
+&lt;div id=&#34;/jmp/rnd/rimpulseM.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Plotly.d3.json(&#34;/jmp/rnd/rimpulseM.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/rnd\/rimpulseM.json&#39;, fig.data, fig.layout, {responsive: true});
 });
 &lt;/script&gt;&lt;/p&gt;
 </description>
@@ -419,15 +367,9 @@ Plotly.d3.json(&#34;/jmp/rnd/impulseM.json&#34;, function(err, fig) {
 
 &lt;p&gt;by Justin Doty (2021)&lt;/p&gt;
 
-&lt;h2 id=&#34;appendix-c-4-correcting-for-selection-bias&#34;&gt;Appendix C.4: Correcting for Selection Bias&lt;/h2&gt;
+&lt;h2 id=&#34;appendix-d-3-correcting-for-selection-bias&#34;&gt;Appendix D.3: Correcting for Selection Bias&lt;/h2&gt;
 
-&lt;h3 id=&#34;figure-25-output-elasticities&#34;&gt;Figure 25: Output Elasticities&lt;/h3&gt;
-
-&lt;p&gt;Panel (a) is the estimate of the output elasticity with respect to capital evaluated at percentiles of the conditional output distribution and percentiles of capital averaged over values of labor and materials that correspond to the percentiles of capital.&lt;/p&gt;
-
-&lt;p&gt;Panel (b) is the estimate of the output elasticity with respect to labor evaluated at percentiles of the conditional output distribution and percentiles of labor averaged over values of capital and materials that correspond to the percentiles of labor.&lt;/p&gt;
-
-&lt;p&gt;Panel (c) is the estimate of the output elasticity with respect to materials evaluated at percentiles of the conditional output distribution and percentiles of materials averaged over values of capital and labor.&lt;/p&gt;
+&lt;h3 id=&#34;figure-40-output-elasticities&#34;&gt;Figure 40: Output Elasticities&lt;/h3&gt;
 
 &lt;p&gt; 
 
@@ -438,43 +380,7 @@ Plotly.d3.json(&#34;/jmp/selection/klm3dplotly.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-26-output-elasticities-over-productivity&#34;&gt;Figure 26: Output Elasticities (over productivity)&lt;/h3&gt;
-
-&lt;p&gt;Panel (a) is the estimate of the output elasticity with respect to capital evaluated at percentiles of the conditional output distribution and percentiles of productivity averaged over values of capital, labor, and materials.&lt;/p&gt;
-
-&lt;p&gt;Panel (b) is the estimate of the output elasticity with respect to labor evaluated at percentiles of the conditional output distribution and percentiles of productivity averaged over values of capital, labor, and materials.&lt;/p&gt;
-
-&lt;p&gt;Panel (c) is the estimate of the output elasticity with respect to materials evaluated at percentiles of the conditional output distribution and percentiles of productivity averaged over values of capital, labor, and materials.&lt;/p&gt;
-
-&lt;p&gt; 
-
-&lt;div id=&#34;/jmp/selection/klmwq3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/selection/klmwq3dplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/selection\/klmwq3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;figure-27-input-efficiencies&#34;&gt;Figure 27: Input Efficiencies&lt;/h3&gt;
-
-&lt;p&gt;Panel (a) is the estimate of capital efficiency evaluated at percentiles of the conditional output distribution and percentiles of capital averaged over values of labor and materials that correspond to the percentiles of capital.&lt;/p&gt;
-
-&lt;p&gt;Panel (b) is the estimate of labor efficiency evaluated at percentiles of the conditional output distribution and percentiles of labor averaged over values of capital and materials that correspond to the percentiles of labor.&lt;/p&gt;
-
-&lt;p&gt;Panel (c) is the estimate of the materials efficiency evaluated at percentiles of the conditional output distribution and percentiles of materials averaged over values of capital and labor.&lt;/p&gt;
-
-&lt;p&gt; 
-
-&lt;div id=&#34;/jmp/selection/hklm3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
-&lt;script&gt;
-Plotly.d3.json(&#34;/jmp/selection/hklm3dplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/selection\/hklm3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
-});
-&lt;/script&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;figure-28-persistence-of-productivity&#34;&gt;Figure 28: Persistence of Productivity&lt;/h3&gt;
-
-&lt;p&gt;These are the estimates of average productivity persistence evaluated at percentiles of the innovation shocks and percentiles of previous productivity.&lt;/p&gt;
+&lt;h3 id=&#34;figure-41-persistence-of-productivity&#34;&gt;Figure 41: Persistence of Productivity&lt;/h3&gt;
 
 &lt;p&gt; 
 
@@ -485,26 +391,18 @@ Plotly.d3.json(&#34;/jmp/selection/omgplotly.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-29-input-demand-responses-to-productivity&#34;&gt;Figure 29: Input Demand Responses to Productivity&lt;/h3&gt;
-
-&lt;p&gt;Panel (a) is the estimate of the investment response to productivity evaluated at percentiles of investment demand and percentiles of productivity averaged over capital.&lt;/p&gt;
-
-&lt;p&gt;Panel (b) is the estimate of the labor response to productivity evaluated at percentiles of labor demand and percentiles of productivity averaged over capital.&lt;/p&gt;
-
-&lt;p&gt;Panel (c) is the estimate of the materials response to productivity evaluated at percentiles of investment demand and percentiles of productivity averaged over capital and labor.&lt;/p&gt;
+&lt;h3 id=&#34;figure-42-higher-moments-of-the-conditional-productivity-distribution-selection-corrected&#34;&gt;Figure 42: Higher Moments of the Conditional Productivity Distribution (Selection Corrected)&lt;/h3&gt;
 
 &lt;p&gt; 
 
-&lt;div id=&#34;/jmp/selection/lmiw3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;/jmp/selection/omgdist.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
-Plotly.d3.json(&#34;/jmp/selection/lmiw3dplotly.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/selection\/lmiw3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
+Plotly.d3.json(&#34;/jmp/selection/omgdist.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/selection\/omgdist.json&#39;, fig.data, fig.layout, {responsive: true});
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-30-impulse-response-of-an-innovation-shock-to-productivity&#34;&gt;Figure 30: Impulse Response of an Innovation Shock to Productivity&lt;/h3&gt;
-
-&lt;p&gt;This plot reports the difference in productivity between firms hit with low and high productivity shocks and medium productivity shock at different levels of initial productivity. The solid black line denotes the selection-corrected productivity response whereas the dashed blue dashed line denotes the response conditional on staying. The first row corresponds to firms hit by low productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of initial productivity. The second row corresponds to firms hit by high productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of initial productivity.&lt;/p&gt;
+&lt;h3 id=&#34;figure-43-impulse-response-of-an-innovation-shock-to-productivity&#34;&gt;Figure 43: Impulse Response of an Innovation Shock to Productivity&lt;/h3&gt;
 
 &lt;p&gt; 
 
@@ -515,22 +413,18 @@ Plotly.d3.json(&#34;/jmp/selection/impulseW.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-31-impulse-response-of-an-innovation-shock-to-capital&#34;&gt;Figure 31: Impulse Response of an Innovation Shock to Capital&lt;/h3&gt;
-
-&lt;p&gt;This plot reports the difference in capital between firms hit with low and high productivity shocks and medium productivity shock at different levels of investment demand. The solid black line denotes the selection-corrected productivity response whereas the dashed blue dashed line denotes the response conditional on staying. The first row corresponds to firms hit by low productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of investment demand. The second row corresponds to firms hit by high productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of investment demand.&lt;/p&gt;
+&lt;h3 id=&#34;figure-44-impulse-response-of-an-innovation-shock-to-investment&#34;&gt;Figure 44: Impulse Response of an Innovation Shock to Investment&lt;/h3&gt;
 
 &lt;p&gt; 
 
-&lt;div id=&#34;/jmp/selection/impulseK.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;/jmp/selection/impulseI.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
-Plotly.d3.json(&#34;/jmp/selection/impulseK.json&#34;, function(err, fig) {
-    Plotly.plot(&#39;\/jmp\/selection\/impulseK.json&#39;, fig.data, fig.layout, {responsive: true});
+Plotly.d3.json(&#34;/jmp/selection/impulseI.json&#34;, function(err, fig) {
+    Plotly.plot(&#39;\/jmp\/selection\/impulseI.json&#39;, fig.data, fig.layout, {responsive: true});
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-32-impulse-response-of-an-innovation-shock-to-labor&#34;&gt;Figure 32: Impulse Response of an Innovation Shock to Labor&lt;/h3&gt;
-
-&lt;p&gt;This plot reports the difference in labor between firms hit with low and high productivity shocks and medium productivity shock at different levels of labor demand. The solid black line denotes the selection-corrected productivity response whereas the dashed blue dashed line denotes the response conditional on staying. The first row corresponds to firms hit by low productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of labor demand. The second row corresponds to firms hit by high productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of labor demand.&lt;/p&gt;
+&lt;h3 id=&#34;figure-45-impulse-response-of-an-innovation-shock-to-labor&#34;&gt;Figure 45: Impulse Response of an Innovation Shock to Labor&lt;/h3&gt;
 
 &lt;p&gt; 
 
@@ -541,9 +435,7 @@ Plotly.d3.json(&#34;/jmp/selection/impulseL.json&#34;, function(err, fig) {
 });
 &lt;/script&gt;&lt;/p&gt;
 
-&lt;h3 id=&#34;figure-33-impulse-response-of-an-innovation-shock-to-materials&#34;&gt;Figure 33: Impulse Response of an Innovation Shock to Materials&lt;/h3&gt;
-
-&lt;p&gt;This plot reports the difference in materials between firms hit with low and high productivity shocks and medium productivity shock at different levels of materials demand. The solid black line denotes the selection-corrected productivity response whereas the dashed blue dashed line denotes the response conditional on staying. The first row corresponds to firms hit by low productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of materials demand. The second row corresponds to firms hit by high productivity shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of materials demand.&lt;/p&gt;
+&lt;h3 id=&#34;figure-46-impulse-response-of-an-innovation-shock-to-materials&#34;&gt;Figure 46: Impulse Response of an Innovation Shock to Materials&lt;/h3&gt;
 
 &lt;p&gt; 
 

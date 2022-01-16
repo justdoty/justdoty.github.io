@@ -1,0 +1,952 @@
+{
+  "data": [
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.228629390792733, -0.215141996889893, -0.190546504790053, -0.166619270600101, -0.149258097227144, -0.138111649855282, -0.120161192785414, -0.10765364528701, -0.0942696964725487, -0.0914541617092559, -0.0837629026673148, -0.0791096064400105, -0.0734139881741451, -0.0656624719179395, -0.0596627666451734, -0.0607911869730766, -0.052660720590394, -0.0482074873160343, -0.0460831335668153],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Negative Shock<br>Low Output<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(31,119,180,1)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.219289986488708, -0.203471230132667, -0.177999711884526, -0.159576151285753, -0.149798762593055, -0.130770026109882, -0.110942437110928, -0.100634796309809, -0.0937741561803205, -0.0874398079518794, -0.0801730147784681, -0.0749482087803131, -0.0709424843799722, -0.0649348626135495, -0.0591007871114275, -0.0538198384643507, -0.0525729417024281, -0.0456922943464892, -0.0439966463118657],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Negative Shock<br>Low Output<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(255,127,14,1)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.22662210638397, -0.21260528344466, -0.183373053090961, -0.171758858416408, -0.161883110859915, -0.134667543096095, -0.112809488043801, -0.101525974620472, -0.0951899106204546, -0.0913148344115373, -0.0850041311652503, -0.078378216221985, -0.0765674783993737, -0.0681468743919975, -0.0647300871018843, -0.057669828945615, -0.0557989187189141, -0.0494963578468721, -0.0460306524982994],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Negative Shock<br>Low Output<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(44,160,44,1)",
+        "line": {
+          "color": "rgba(44,160,44,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(44,160,44,1)"
+      },
+      "error_x": {
+        "color": "rgba(44,160,44,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.243169776035764, -0.222850883719693, -0.20295101544294, -0.184799124642246, -0.157482140453959, -0.146732775077892, -0.12761459541581, -0.119992372770327, -0.105911841695598, -0.0997962688189595, -0.0898155368714053, -0.0865134168364707, -0.0803498015668689, -0.0770169556871934, -0.0709418372317638, -0.0636724438954381, -0.0599784138676127, -0.0529176633748918, -0.0467777341256785],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Negative Shock<br>Median Output<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(214,39,40,1)",
+        "line": {
+          "color": "rgba(214,39,40,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(214,39,40,1)"
+      },
+      "error_x": {
+        "color": "rgba(214,39,40,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.23506810144509, -0.214216313719561, -0.198005159754193, -0.176074623712547, -0.16132012258128, -0.145890968454442, -0.125536463405101, -0.116291215254364, -0.105138012884776, -0.0963150837016507, -0.0926737350462203, -0.0864569968582156, -0.0804138942712802, -0.0706570313832451, -0.0680505404463418, -0.0614814768206924, -0.0569386032937951, -0.0497877084069422, -0.0472292459639694],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Negative Shock<br>Median Output<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(148,103,189,1)",
+        "line": {
+          "color": "rgba(148,103,189,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(148,103,189,1)"
+      },
+      "error_x": {
+        "color": "rgba(148,103,189,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.242095906817345, -0.227081666173399, -0.202413027641949, -0.189629242049245, -0.174265879067075, -0.151487393475098, -0.130265897586775, -0.116947352810249, -0.107804116635192, -0.101259301192791, -0.0952457841321155, -0.0862836074600977, -0.0819573654474044, -0.0782812786160694, -0.072646882970882, -0.0668844772400496, -0.0621094779434896, -0.0551789631231818, -0.0510823858972871],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Negative Shock<br>Median Output<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(140,86,75,1)",
+        "line": {
+          "color": "rgba(140,86,75,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(140,86,75,1)"
+      },
+      "error_x": {
+        "color": "rgba(140,86,75,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.259364005327144, -0.242311419200211, -0.219262218828338, -0.202673776781343, -0.184700297830416, -0.167399738554089, -0.14971698765964, -0.13493666855772, -0.124429601165303, -0.114590187118794, -0.107899200175999, -0.0998568658019274, -0.0949890853640709, -0.0872267146130485, -0.0804127255661991, -0.0767709989493817, -0.0697643183620151, -0.0601332584144769, -0.0559452238999127],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Negative Shock<br>High Output<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(227,119,194,1)",
+        "line": {
+          "color": "rgba(227,119,194,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(227,119,194,1)"
+      },
+      "error_x": {
+        "color": "rgba(227,119,194,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.249051137607468, -0.23230587765715, -0.220845578871881, -0.19801051797185, -0.185260762941286, -0.16997872113324, -0.147671385618378, -0.133986741082816, -0.118927317606134, -0.115482049841922, -0.107259686966647, -0.100301968865169, -0.0954261746148459, -0.0883411801841389, -0.080549916273692, -0.0756545730418274, -0.0696150867647862, -0.0611542837750454, -0.0556617043885277],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Negative Shock<br>High Output<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(127,127,127,1)",
+        "line": {
+          "color": "rgba(127,127,127,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(127,127,127,1)"
+      },
+      "error_x": {
+        "color": "rgba(127,127,127,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.260275374326938, -0.247482100940764, -0.223474753499933, -0.214418152787222, -0.196980923561542, -0.177545622951838, -0.156077063448209, -0.142847212738614, -0.126454248472085, -0.123284601251279, -0.113076341077945, -0.1106263625216, -0.0962927180013646, -0.0929733288262709, -0.0839144509630838, -0.0752100879299258, -0.071152324186909, -0.0674453616698609, -0.0608187568202951],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Negative Shock<br>High Output<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(188,189,34,1)",
+        "line": {
+          "color": "rgba(188,189,34,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(188,189,34,1)"
+      },
+      "error_x": {
+        "color": "rgba(188,189,34,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.162962471633466, 0.150173666012574, 0.134748383295212, 0.119697648218651, 0.112255150058743, 0.0958623750510563, 0.0839856892316524, 0.0781220881687452, 0.0692312689158436, 0.0633189654622139, 0.0602578842054635, 0.0555215645324556, 0.0533237664811037, 0.0512063146909254, 0.0462826618226426, 0.0417811356722981, 0.0376356168701117, 0.0366405698415608, 0.0297109547982304],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Positive Shock<br>Low Output<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(23,190,207,1)",
+        "line": {
+          "color": "rgba(23,190,207,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(23,190,207,1)"
+      },
+      "error_x": {
+        "color": "rgba(23,190,207,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.152822011699312, 0.142604144517408, 0.128618230562443, 0.118137151819731, 0.103669475209093, 0.0932993248403338, 0.0797144803005145, 0.0721962260944764, 0.0642232896025705, 0.0607537734824022, 0.0553345131447212, 0.0523300232438912, 0.0480505213054219, 0.0477842062248448, 0.0450348306096497, 0.041018646853884, 0.0383829084972227, 0.0327064592881681, 0.0305081284724582],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Positive Shock<br>Low Output<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(31,119,180,1)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.15118772218086, 0.144997246282731, 0.129332760118364, 0.115897344522987, 0.104900248037727, 0.0920023842919346, 0.0731902569136809, 0.0678370765530376, 0.064455623215387, 0.0573886458573876, 0.0583824543563134, 0.0532504598008066, 0.0471918085413932, 0.0448086433411343, 0.0458648084656712, 0.0396850838367686, 0.0383790380641438, 0.0348815503504447, 0.0315804009144345],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Positive Shock<br>Low Output<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(255,127,14,1)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.173571978024585, 0.158744715871834, 0.145522185065461, 0.131673337310462, 0.12075420108663, 0.107449724894112, 0.0947946948291496, 0.0839224830971488, 0.0753538675470584, 0.0722948461877744, 0.0675749847895628, 0.0627851099885386, 0.0570650560796921, 0.0542984606336643, 0.0491018724185146, 0.0471144217280961, 0.0434331918196293, 0.0375662710198568, 0.0351425465930948],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Positive Shock<br>Median Output<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(44,160,44,1)",
+        "line": {
+          "color": "rgba(44,160,44,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(44,160,44,1)"
+      },
+      "error_x": {
+        "color": "rgba(44,160,44,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.166135318954931, 0.154285206884908, 0.13811436136242, 0.12646180333244, 0.113873584064271, 0.100805956824231, 0.086452962659505, 0.0778524869801633, 0.0726595163062731, 0.0673118635697638, 0.0654405858602685, 0.0593627560815779, 0.0582436526969135, 0.0491801594728876, 0.0477569417577683, 0.0445782187896437, 0.0417231393066166, 0.0375194234974039, 0.0334758782780762],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Positive Shock<br>Median Output<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(214,39,40,1)",
+        "line": {
+          "color": "rgba(214,39,40,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(214,39,40,1)"
+      },
+      "error_x": {
+        "color": "rgba(214,39,40,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.16425540180852, 0.152068109239216, 0.136681745090091, 0.128428873696211, 0.116518667955497, 0.100075350149521, 0.0873050356288969, 0.0803408443019857, 0.0710216933835035, 0.0700992536094946, 0.0616955342145005, 0.0587849499076065, 0.0556283431951181, 0.0511696265532238, 0.0481138583289304, 0.0440160998010226, 0.0427296507336741, 0.0399846160003148, 0.0347473197925012],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Positive Shock<br>Median Output<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(148,103,189,1)",
+        "line": {
+          "color": "rgba(148,103,189,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(148,103,189,1)"
+      },
+      "error_x": {
+        "color": "rgba(148,103,189,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.187730840528839, 0.172507795890338, 0.160003024467548, 0.147488320749627, 0.136292418335759, 0.12573812173401, 0.110639737425684, 0.0992307324477242, 0.0900263634281506, 0.084810157958656, 0.0786252942054348, 0.0736233467862117, 0.0684120211331796, 0.0631793020240363, 0.0587662673598448, 0.0542803510385101, 0.0514495414526976, 0.0473320730841267, 0.0429530519311005],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Positive Shock<br>High Output<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(140,86,75,1)",
+        "line": {
+          "color": "rgba(140,86,75,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(140,86,75,1)"
+      },
+      "error_x": {
+        "color": "rgba(140,86,75,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.178151216775721, 0.167298491708716, 0.153858877088768, 0.138416466593489, 0.133081467537146, 0.115535799441306, 0.103566874062776, 0.0965245057720105, 0.0865535939326092, 0.0808150382035167, 0.0778156529448504, 0.0719187717968794, 0.0658458669795845, 0.0604286289639595, 0.0566553440329352, 0.0523130498212474, 0.0487259081380844, 0.0436768614849945, 0.0393410937303385],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Positive Shock<br>High Output<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(227,119,194,1)",
+        "line": {
+          "color": "rgba(227,119,194,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(227,119,194,1)"
+      },
+      "error_x": {
+        "color": "rgba(227,119,194,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.177948274017695, 0.166536956053865, 0.149702701192955, 0.14032077023824, 0.132873646797008, 0.118697939377053, 0.106613924637114, 0.096723119100067, 0.0859367836455966, 0.0841166865786627, 0.0747949355324402, 0.0721771689509363, 0.0689147511540558, 0.0618596546312293, 0.0595906945132039, 0.0533619309624478, 0.0503249364998886, 0.0441906710374531, 0.0409555347686168],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}"],
+      "name": "Positive Shock<br>High Output<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(127,127,127,1)",
+        "line": {
+          "color": "rgba(127,127,127,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(127,127,127,1)"
+      },
+      "error_x": {
+        "color": "rgba(127,127,127,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y2",
+      "frame": null
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "domain": [0, 0.313333333333333],
+      "automargin": true,
+      "title": "Years",
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 14
+      },
+      "anchor": "y2"
+    },
+    "xaxis2": {
+      "domain": [0.353333333333333, 0.646666666666667],
+      "automargin": true,
+      "title": "Years",
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 14
+      },
+      "anchor": "y2"
+    },
+    "xaxis3": {
+      "domain": [0.686666666666667, 1],
+      "automargin": true,
+      "title": "Years",
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 14
+      },
+      "anchor": "y2"
+    },
+    "yaxis2": {
+      "domain": [0, 0.48],
+      "automargin": true,
+      "title": "Output",
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 14
+      },
+      "range": [
+        -0.260275374326938,
+        0.187730840528839
+      ],
+      "anchor": "x"
+    },
+    "yaxis": {
+      "domain": [0.52, 1],
+      "automargin": true,
+      "title": "Output",
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 14
+      },
+      "range": [
+        -0.260275374326938,
+        0.187730840528839
+      ],
+      "anchor": "x"
+    },
+    "annotations": [],
+    "shapes": [
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0,
+        "x1": 0.313333333333333,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.353333333333333,
+        "x1": 0.646666666666667,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.686666666666667,
+        "x1": 1,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0,
+        "x1": 0.313333333333333,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.353333333333333,
+        "x1": 0.646666666666667,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.686666666666667,
+        "x1": 1,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      }
+    ],
+    "images": [],
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "hovermode": "closest",
+    "showlegend": false
+  },
+  "attrs": {
+    "69da127378c1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Negative Shock<br>Low Output<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69da127378c1.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Negative Shock<br>Low Output<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da127378c1.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Negative Shock<br>Low Output<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da339af025": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Negative Shock<br>Median Output<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69da339af025.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Negative Shock<br>Median Output<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da339af025.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Negative Shock<br>Median Output<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da79b5c6e7": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Negative Shock<br>High Output<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69da79b5c6e7.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Negative Shock<br>High Output<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da79b5c6e7.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Negative Shock<br>High Output<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da69746287": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Positive Shock<br>Low Output<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69da69746287.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Positive Shock<br>Low Output<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da69746287.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Positive Shock<br>Low Output<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da29150ab9": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Positive Shock<br>Median Output<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69da29150ab9.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Positive Shock<br>Median Output<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da29150ab9.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Positive Shock<br>Median Output<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da8e6b815": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Positive Shock<br>High Output<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69da8e6b815.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Positive Shock<br>High Output<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da8e6b815.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Output Change: %{y:.3f}",
+      "name": "Positive Shock<br>High Output<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    }
+  },
+  "source": "A",
+  "config": {
+    "showSendToCloud": false
+  },
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "subplot": true,
+  "shinyEvents": ["plotly_hover", "plotly_click", "plotly_selected", "plotly_relayout", "plotly_brushed", "plotly_brushing", "plotly_clickannotation", "plotly_doubleclick", "plotly_deselect", "plotly_afterplot", "plotly_sunburstclick"],
+  "base_url": "https://plot.ly"
+}
