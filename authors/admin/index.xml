@@ -11,15 +11,5 @@
 	    <atom:link href="https://justdoty.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
     
-    <item>
-      <title></title>
-      <link>https://justdoty.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://justdoty.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am currently a PhD Candidate in Economics at the University of Iowa. My research interests include econometrics, empirical industrial organization, and applied econometrics. In particular, I am interested in semi-parametric and non-parametric models with endogeneity and unobserved heterogeneity. I am interested in applying these econometric techniques to the literature on firm productivity heterogeneity.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>
