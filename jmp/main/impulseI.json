@@ -1,0 +1,952 @@
+{
+  "data": [
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.0250026479920512, -0.030254886356438, -0.0371108073405138, -0.0410374564685352, -0.0483109272177946, -0.0579082187111104, -0.058357725269564, -0.0353098075761222, -0.0137423076229308, -0.0087278421152841, -0.00606807925212038, -0.00343497954499572, -0.00343068463481044, -0.00258512352827323, -0.00167566856731094, -0.00131561839521899, -0.00132187023397012, -0.00119091905569313, -0.00135192761780223],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Negative Shock<br>Low Investment<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(31,119,180,1)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.0215131898949626, -0.0294388598895953, -0.0348113206572574, -0.0401961350455975, -0.0468609451491044, -0.045645476954713, -0.0518204479555333, -0.00856652098171207, -0.00419676793936308, -0.00184235201594252, -0.000349160419669037, -0.00048587774811093, -0.000316993323544512, 3.83943222415084e-06, -4.40428309165242e-05, -0.0005665940791868, -0.000115127545895266, -0.000395053878809559, -0.000432124652507859],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Negative Shock<br>Low Investment<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(255,127,14,1)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.0200271905762434, -0.0275372638919471, -0.0337154815708746, -0.0370855621526416, -0.0366662685723822, -0.0340781712457803, -0.00860909584223002, 0.00811963993879772, 0.00325670285157331, 0.00294573972078815, 0.00320629388684024, 0.00317633693071162, 0.00206688687917378, 0.00211486933427008, 0.0020605686188957, 0.00236335941298371, 0.00159421913347124, 0.000206129269466615, 0.000240331783427639],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Negative Shock<br>Low Investment<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(44,160,44,1)",
+        "line": {
+          "color": "rgba(44,160,44,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(44,160,44,1)"
+      },
+      "error_x": {
+        "color": "rgba(44,160,44,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.0138017678862839, -0.0167010798197742, -0.0205808491783952, -0.0256082136902536, -0.0345739452910312, -0.0383873553095282, -0.0188364607687324, -0.0145187415433763, -0.0119477460896329, -0.0107504594754353, -0.00997620097718288, -0.00859152210785297, -0.00784853851785128, -0.00729758079394216, -0.00665325485554424, -0.0058287552008438, -0.00536688320835266, -0.00470679603655855, -0.00427735606782109],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Negative Shock<br>Median Investment<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(214,39,40,1)",
+        "line": {
+          "color": "rgba(214,39,40,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(214,39,40,1)"
+      },
+      "error_x": {
+        "color": "rgba(214,39,40,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.013613132917611, -0.0178144959892981, -0.0218642828987305, -0.0270789067195265, -0.0327242319555978, -0.0284399654157683, -0.0134788616448271, -0.0108872199770911, -0.00954019598955558, -0.00880090485458362, -0.00820813780193097, -0.00750982108065745, -0.00676208987703619, -0.0063390974871389, -0.00586562908085897, -0.00560038946336761, -0.00497774098595904, -0.00456552819550193, -0.00426004361753884],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Negative Shock<br>Median Investment<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(148,103,189,1)",
+        "line": {
+          "color": "rgba(148,103,189,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(148,103,189,1)"
+      },
+      "error_x": {
+        "color": "rgba(148,103,189,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.0148522707627074, -0.0209709501218699, -0.0267904512541068, -0.0316544239719154, -0.0348722192086988, -0.0187695270208859, -0.0102253683900178, -0.00844940383841575, -0.00783884541520319, -0.00772002698428942, -0.00680666006170716, -0.0064935961151722, -0.00594784482537447, -0.00594691055668717, -0.00577764857073237, -0.00527442141041501, -0.0048691361283737, -0.00478711257850906, -0.00478819572382205],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Negative Shock<br>Median Investment<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(140,86,75,1)",
+        "line": {
+          "color": "rgba(140,86,75,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(140,86,75,1)"
+      },
+      "error_x": {
+        "color": "rgba(140,86,75,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.000537988097859321, -0.000345115845050703, -0.00211186172083089, -0.00573433822347758, -0.00837331998910873, -0.00955033844812636, -0.0094183788156621, -0.00908383084011177, -0.00822718897107633, -0.00809768906545338, -0.00825634876560111, -0.00751564831725382, -0.00720040944058686, -0.00690646138731221, -0.00643172027669525, -0.0058663598698625, -0.00564058002880286, -0.00476893363243747, -0.00429759212164171],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Negative Shock<br>High Investment<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(227,119,194,1)",
+        "line": {
+          "color": "rgba(227,119,194,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(227,119,194,1)"
+      },
+      "error_x": {
+        "color": "rgba(227,119,194,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.0034756282481393, -0.00563908408906921, -0.0100349796575898, -0.0171998212046272, -0.0145193882936527, -0.0138442143174391, -0.0128913996284794, -0.0122616039965475, -0.0112527268165232, -0.0107421224737747, -0.0107405065089634, -0.0100955372525111, -0.00928466878190282, -0.00875743223675762, -0.00806217076796845, -0.00782170703085372, -0.00704182385754359, -0.00598891435088333, -0.00543075898078493],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Negative Shock<br>High Investment<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(127,127,127,1)",
+        "line": {
+          "color": "rgba(127,127,127,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(127,127,127,1)"
+      },
+      "error_x": {
+        "color": "rgba(127,127,127,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.00706611580704064, -0.0119794644301972, -0.0176415947209314, -0.0296173869867227, -0.0219442722174339, -0.0209548773820343, -0.0194770598351242, -0.017938440606021, -0.0162495996414251, -0.0161178573505105, -0.0151010252074024, -0.0145135214972529, -0.0131630599152075, -0.012983565700365, -0.0122021510500825, -0.0109438071753876, -0.0098089816951501, -0.00844301004137682, -0.00805145258365725],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Negative Shock<br>High Investment<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(188,189,34,1)",
+        "line": {
+          "color": "rgba(188,189,34,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(188,189,34,1)"
+      },
+      "error_x": {
+        "color": "rgba(188,189,34,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.0267504572364133, 0.0339385427883357, 0.041016698369846, 0.0463876272612838, 0.049935763501898, 0.0564047899945797, 0.0652027051382564, 0.02770869162693, 0.0110513635641425, 0.00630927389612079, 0.00349512193541734, 0.00219705383553981, 0.00197329837786864, 0.00142763487490116, 0.000946338227229226, 0.00059069554530522, 0.000473483580787804, 0.000997439799542033, 0.00098056518248324],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Positive Shock<br>Low Investment<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(23,190,207,1)",
+        "line": {
+          "color": "rgba(23,190,207,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(23,190,207,1)"
+      },
+      "error_x": {
+        "color": "rgba(23,190,207,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.0203450592770128, 0.0271459612213446, 0.0327620579594154, 0.0367577532881653, 0.0387676722941677, 0.0424173934259762, 0.0376872017568393, 0.00166203891456274, 0.000711317716914017, 0.00026653328021542, -0.000556223370398179, -0.000286863404723725, -0.000539532936886467, -0.00112102786506352, -0.00024487317519295, -0.000319130904530063, 0.00010923712125388, 0.000170705580716746, -6.58515089226874e-05],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Positive Shock<br>Low Investment<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(31,119,180,1)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.0170018193759719, 0.023470131340142, 0.0295114074668121, 0.0321230639039523, 0.0325281079867503, 0.0270663055599596, -8.47833918204977e-05, -0.0112986406764848, -0.00688266069955823, -0.00558495352906085, -0.00568331626848462, -0.00491394585121308, -0.00459991824971073, -0.00474879966098385, -0.00377154960932868, -0.00341899570757365, -0.00251750328604894, -0.00169528441887712, -0.0014350448389604],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Positive Shock<br>Low Investment<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(255,127,14,1)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.0155504010798462, 0.019552823138194, 0.0238903938555637, 0.029544408150932, 0.036268841713587, 0.0436286522021465, 0.0186499431167553, 0.0151215232865032, 0.0126273530548899, 0.0113680569558494, 0.0101183757518721, 0.00942490136008756, 0.00861109209066857, 0.00802694124274961, 0.00725165736978184, 0.00674155953135003, 0.00581520949128711, 0.00527028446490618, 0.00496999100760442],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Positive Shock<br>Median Investment<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(44,160,44,1)",
+        "line": {
+          "color": "rgba(44,160,44,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(44,160,44,1)"
+      },
+      "error_x": {
+        "color": "rgba(44,160,44,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.0136296954002486, 0.0186653496576636, 0.0226771733267066, 0.0282130573726875, 0.0360176718630392, 0.0243224385437153, 0.012127728965019, 0.00965578584225613, 0.00870843731089233, 0.00810792593428022, 0.00733315404794688, 0.00709114367931329, 0.00648004248685075, 0.00606151442080582, 0.00585158657120699, 0.00528063849075266, 0.00472990489203395, 0.00446713809970589, 0.00421865718397063],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Positive Shock<br>Median Investment<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(214,39,40,1)",
+        "line": {
+          "color": "rgba(214,39,40,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(214,39,40,1)"
+      },
+      "error_x": {
+        "color": "rgba(214,39,40,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.0134475254820171, 0.0193035228501994, 0.0239628649062631, 0.0296448183167466, 0.0329470551286302, 0.0129951291918746, 0.00806732125301002, 0.00687186132864692, 0.00671328242733571, 0.00619698256330237, 0.00559764848965871, 0.0053581299961305, 0.0050052210103475, 0.00491553324091187, 0.00447664983292961, 0.00442538877258025, 0.00416245191410924, 0.00414139609818154, 0.00409203928195678],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Positive Shock<br>Median Investment<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(148,103,189,1)",
+        "line": {
+          "color": "rgba(148,103,189,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(148,103,189,1)"
+      },
+      "error_x": {
+        "color": "rgba(148,103,189,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.00193383309918393, 0.00315052962558426, 0.00531346747027817, 0.011935039588336, 0.0113060173332884, 0.0126069929519819, 0.0121375307496203, 0.0115761335484561, 0.0108991799573279, 0.0103579657131596, 0.00997656417530912, 0.00969562302107763, 0.00920250032056114, 0.00877871535804253, 0.00800414223569179, 0.00767854068430962, 0.00684631525978929, 0.00589387064784352, 0.00546835209465479],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Positive Shock<br>High Investment<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(140,86,75,1)",
+        "line": {
+          "color": "rgba(140,86,75,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(140,86,75,1)"
+      },
+      "error_x": {
+        "color": "rgba(140,86,75,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.00461084763855668, 0.00746359325251311, 0.0121290560619878, 0.0207072851196872, 0.0168273513864303, 0.0158023632709008, 0.0146487630531036, 0.0136527320845485, 0.0125561805536658, 0.0120753677846044, 0.011611244811871, 0.0114573729796041, 0.0105391439953797, 0.00982317140031519, 0.00934528234068699, 0.00848484154760998, 0.00758343775657311, 0.00651498970369957, 0.0059253660231593],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Positive Shock<br>High Investment<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(227,119,194,1)",
+        "line": {
+          "color": "rgba(227,119,194,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(227,119,194,1)"
+      },
+      "error_x": {
+        "color": "rgba(227,119,194,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.00749898360045875, 0.0128107232581927, 0.0206851699391519, 0.0360398849589738, 0.0237659747537657, 0.0213103314773617, 0.0194889715302935, 0.0186572184930012, 0.0167246905359355, 0.0159717888452962, 0.0153824912965064, 0.0148037301441213, 0.0134976985493664, 0.013091750645013, 0.0113631892376924, 0.0108854865558179, 0.00976902617597331, 0.00828045885898732, 0.00775651318338966],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}"],
+      "name": "Positive Shock<br>High Investment<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(127,127,127,1)",
+        "line": {
+          "color": "rgba(127,127,127,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(127,127,127,1)"
+      },
+      "error_x": {
+        "color": "rgba(127,127,127,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y2",
+      "frame": null
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "domain": [0, 0.313333333333333],
+      "automargin": true,
+      "title": "Years",
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 14
+      },
+      "anchor": "y2"
+    },
+    "xaxis2": {
+      "domain": [0.353333333333333, 0.646666666666667],
+      "automargin": true,
+      "title": "Years",
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 14
+      },
+      "anchor": "y2"
+    },
+    "xaxis3": {
+      "domain": [0.686666666666667, 1],
+      "automargin": true,
+      "title": "Years",
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 14
+      },
+      "anchor": "y2"
+    },
+    "yaxis2": {
+      "domain": [0, 0.48],
+      "automargin": true,
+      "title": "Investment",
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 14
+      },
+      "range": [
+        -0.058357725269564,
+        0.0652027051382564
+      ],
+      "anchor": "x"
+    },
+    "yaxis": {
+      "domain": [0.52, 1],
+      "automargin": true,
+      "title": "Investment",
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 14
+      },
+      "range": [
+        -0.058357725269564,
+        0.0652027051382564
+      ],
+      "anchor": "x"
+    },
+    "annotations": [],
+    "shapes": [
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0,
+        "x1": 0.313333333333333,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.353333333333333,
+        "x1": 0.646666666666667,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.686666666666667,
+        "x1": 1,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0,
+        "x1": 0.313333333333333,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.353333333333333,
+        "x1": 0.646666666666667,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.686666666666667,
+        "x1": 1,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      }
+    ],
+    "images": [],
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "hovermode": "closest",
+    "showlegend": false
+  },
+  "attrs": {
+    "69da7301694c": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Negative Shock<br>Low Investment<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69da7301694c.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Negative Shock<br>Low Investment<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da7301694c.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Negative Shock<br>Low Investment<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da6dbb730b": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Negative Shock<br>Median Investment<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69da6dbb730b.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Negative Shock<br>Median Investment<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da6dbb730b.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Negative Shock<br>Median Investment<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da58b2201a": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Negative Shock<br>High Investment<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69da58b2201a.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Negative Shock<br>High Investment<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da58b2201a.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Negative Shock<br>High Investment<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da2686ef49": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Positive Shock<br>Low Investment<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69da2686ef49.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Positive Shock<br>Low Investment<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da2686ef49.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Positive Shock<br>Low Investment<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da2154af8d": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Positive Shock<br>Median Investment<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69da2154af8d.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Positive Shock<br>Median Investment<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da2154af8d.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Positive Shock<br>Median Investment<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da3841877f": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Positive Shock<br>High Investment<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69da3841877f.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Positive Shock<br>High Investment<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da3841877f.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Investment Change: %{y:.3f}",
+      "name": "Positive Shock<br>High Investment<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    }
+  },
+  "source": "A",
+  "config": {
+    "showSendToCloud": false
+  },
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "subplot": true,
+  "shinyEvents": ["plotly_hover", "plotly_click", "plotly_selected", "plotly_relayout", "plotly_brushed", "plotly_brushing", "plotly_clickannotation", "plotly_doubleclick", "plotly_deselect", "plotly_afterplot", "plotly_sunburstclick"],
+  "base_url": "https://plot.ly"
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Justin Doty</title>
+    <link>https://justdoty.github.io/authors/</link>
+    <description>Recent content in Authors on Justin Doty</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Justin Doty {year}</copyright>
+    
+	    <atom:link href="https://justdoty.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://justdoty.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://justdoty.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am currently a research economist at the Center for Enterprise Dissemination - Disclosure Avoidance (CED-DA), Research and Applications Group at the U.S. Census Bureau*.
+&lt;a href=&#34;https://www.census.gov/about/policies/privacy/statistical_safeguards/working-papers.html&#34;&gt;Our work&lt;/a&gt; aims to modernize legacy statistical disclosure methods using formal privacy frameworks, such as &lt;a href=&#34;https://en.wikipedia.org/wiki/Differential_privacy&#34;&gt;differential privacy&lt;/a&gt;.
+&lt;br&gt;
+&lt;br&gt;
+My research interests include how differential privacy and other noise-injection methods affect downstream inference for estimators that are widely used by econometricians (e.g., &lt;a href=&#34;https://en.wikipedia.org/wiki/Ordinary_least_squares&#34;&gt;OLS&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Instrumental_variables_estimation&#34;&gt;2SLS&lt;/a&gt;, and &lt;a href=&#34;https://en.wikipedia.org/wiki/Generalized_method_of_moments&#34;&gt;GMM&lt;/a&gt;) and how these methods can be used to protect training data participation and reconstruction in classification algorithms.
+&lt;br&gt;
+&lt;br&gt;
+I received my Ph.D. in Economics in 2022 at the University of Iowa, where I specialized in econometrics and empirical industrial organization. My dissertation examined identification and estimation of production functions with unobserved heterogeneity.
+&lt;br&gt;
+&lt;br&gt;
+*Any views expressed are my own and do not necessarily reflect those of the U.S. Census Bureau&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

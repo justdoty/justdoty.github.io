@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justin Doty</title>
+    <link>https://justdoty.github.io/</link>
+    <description>Recent content on Justin Doty</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Justin Doty {year}</copyright>
+    
+	    <atom:link href="https://justdoty.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://justdoty.github.io/labor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://justdoty.github.io/labor/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h1 id=&#34;a-dynamic-framework-for-identification-and-estimation-of-nonseparable-production-functions&#34;&gt;A Dynamic Framework for Identification and Estimation of Nonseparable Production Functions&lt;/h1&gt;
+&lt;p&gt;by Justin Doty (2021)&lt;/p&gt;
+&lt;h2 id=&#34;appendix-d2-labor-dynamics&#34;&gt;Appendix D.2: Labor Dynamics&lt;/h2&gt;
+&lt;h3 id=&#34;figure-39-impulse-response-of-adjustment-shocks-to-labor&#34;&gt;Figure 39: Impulse Response of Adjustment Shocks to Labor&lt;/h3&gt;
+&lt;p&gt;This plot reports the difference in labor demand between firms hit with low, medium-low, medium-high and high labor shocks and medium labor shocks at different levels labor demand. The first row corresponds to firms hit by low labor shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of labor demand. The second row corresponds to firms hit by medium-low labor shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of labor demand. The third row corresponds to firms hit by medium-high labor shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of labor demand. The last row corresponds to firms hit by high labor shocks at year 2. From left to right, these correspond to firms with low, medium, and high levels of labor demand.&lt;/p&gt;
+&lt;p&gt;
+  
+  &lt;script src=&#34;https://cdn.plot.ly/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+ 
+ 
+ &lt;div id=&#34;/jmp/labor/impulseL.json&#34; class=&#34;plotly&#34; style=&#34;height:1200px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/labor/impulseL.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/labor\/impulseL.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://justdoty.github.io/mainresults/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://justdoty.github.io/mainresults/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h1 id=&#34;a-dynamic-framework-for-identification-and-estimation-of-nonseparable-production-functions&#34;&gt;A Dynamic Framework for Identification and Estimation of Nonseparable Production Functions&lt;/h1&gt;
+&lt;p&gt;by Justin Doty (2021)&lt;/p&gt;
+&lt;h2 id=&#34;empirical-application-with-interactive-plots&#34;&gt;Empirical Application with Interactive Plots&lt;/h2&gt;
+&lt;h3 id=&#34;figure-1-output-elasticities&#34;&gt;Figure 1: Output Elasticities&lt;/h3&gt;
+&lt;p&gt;
+  
+  &lt;script src=&#34;https://cdn.plot.ly/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+ 
+ 
+ &lt;div id=&#34;/jmp/main/klm3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/main/klm3dplotly.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/main\/klm3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-2-output-elasticities-over-productivity&#34;&gt;Figure 2: Output Elasticities (over productivity)&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/main/klmwq3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/main/klmwq3dplotly.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/main\/klmwq3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-3-effect-of-productivity-on-output-elasticities&#34;&gt;Figure 3: Effect of Productivity on Output Elasticities&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/main/hklm3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/main/hklm3dplotly.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/main\/hklm3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-4-effects-of-input-composition-of-productivity&#34;&gt;Figure 4: Effects of Input Composition of Productivity&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/main/ratioplots.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/main/ratioplots.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/main\/ratioplots.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-5-effects-of-scale-of-productivity&#34;&gt;Figure 5: Effects of Scale of Productivity&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/main/hsplot.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/main/hsplot.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/main\/hsplot.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-6-persistence-of-productivity&#34;&gt;Figure 6: Persistence of Productivity&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/main/omgplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/main/omgplotly.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/main\/omgplotly.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-7-higher-moments-of-the-conditional-productivity-distribution&#34;&gt;Figure 7: Higher Moments of the Conditional Productivity Distribution&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/main/omgdist.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/main/omgdist.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/main\/omgdist.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-8-input-demand-responses-to-productivity&#34;&gt;Figure 8: Input Demand Responses to Productivity&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/main/lmiw3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/main/lmiw3dplotly.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/main\/lmiw3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-9-impulse-response-of-an-innovation-shock-to-productivity&#34;&gt;Figure 9: Impulse Response of an Innovation Shock to Productivity&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/main/impulseW.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/main/impulseW.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/main\/impulseW.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-10-impulse-response-of-an-innovation-shock-to-investment&#34;&gt;Figure 10: Impulse Response of an Innovation Shock to Investment&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/main/impulseI.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/main/impulseI.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/main\/impulseI.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-11-impulse-response-of-an-innovation-shock-to-labor&#34;&gt;Figure 11: Impulse Response of an Innovation Shock to Labor&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/main/impulseL.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/main/impulseL.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/main\/impulseL.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-12-impulse-response-of-an-innovation-shock-to-materials&#34;&gt;Figure 12: Impulse Response of an Innovation Shock to Materials&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/main/impulseM.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/main/impulseM.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/main\/impulseM.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-13-impulse-response-of-an-innovation-shock-to-input-misallocation&#34;&gt;Figure 13: Impulse Response of an Innovation Shock to Input Misallocation&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/main/impulseMis.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/main/impulseMis.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/main\/impulseMis.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://justdoty.github.io/rnd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://justdoty.github.io/rnd/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h1 id=&#34;a-dynamic-framework-for-identification-and-estimation-of-nonseparable-production-functions&#34;&gt;A Dynamic Framework for Identification and Estimation of Nonseparable Production Functions&lt;/h1&gt;
+&lt;p&gt;by Justin Doty (2021)&lt;/p&gt;
+&lt;h2 id=&#34;appendix-d1-rd-activities&#34;&gt;Appendix D.1: R&amp;amp;D Activities&lt;/h2&gt;
+&lt;h3 id=&#34;figure-27-productivity-persistence-for-non-performing-and-rd-performing-firms&#34;&gt;Figure 27: Productivity Persistence for Non-performing and R&amp;amp;D Performing Firms&lt;/h3&gt;
+&lt;p&gt;
+  
+  &lt;script src=&#34;https://cdn.plot.ly/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+ 
+ 
+ &lt;div id=&#34;/jmp/rnd/persplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/rnd/persplotly.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/rnd\/persplotly.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-28-higher-moments-of-the-conditional-productivity-distribution-non-rd&#34;&gt;Figure 28: Higher Moments of the Conditional Productivity Distribution (Non R&amp;amp;D)&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/rnd/omgdist.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/rnd/omgdist.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/rnd\/omgdist.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-29-higher-moments-of-the-conditional-productivity-distribution-rd&#34;&gt;Figure 29: Higher Moments of the Conditional Productivity Distribution (R&amp;amp;D)&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/rnd/romgdist.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/rnd/romgdist.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/rnd\/romgdist.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-30-returns-to-rd&#34;&gt;Figure 30: Returns to R&amp;amp;D&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/rnd/rdplot.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/rnd/rdplot.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/rnd\/rdplot.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-31-impulse-response-of-an-innovation-shock-to-productivity-non-rd&#34;&gt;Figure 31: Impulse Response of an Innovation Shock to Productivity (non R&amp;amp;D)&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/rnd/impulseW.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/rnd/impulseW.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/rnd\/impulseW.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-32-impulse-response-of-an-innovation-shock-to-productivity-rd&#34;&gt;Figure 32: Impulse Response of an Innovation Shock to Productivity (R&amp;amp;D)&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/rnd/rimpulseW.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/rnd/rimpulseW.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/rnd\/rimpulseW.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-33-impulse-response-of-an-innovation-shock-to-investment-non-rd&#34;&gt;Figure 33: Impulse Response of an Innovation Shock to Investment (non R&amp;amp;D)&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/rnd/impulseI.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/rnd/impulseI.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/rnd\/impulseI.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-34-impulse-response-of-an-innovation-shock-to-investment-rd&#34;&gt;Figure 34: Impulse Response of an Innovation Shock to Investment (R&amp;amp;D)&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/rnd/rimpulseI.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/rnd/rimpulseI.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/rnd\/rimpulseI.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-35-impulse-response-of-an-innovation-shock-to-labor-non-rd&#34;&gt;Figure 35: Impulse Response of an Innovation Shock to Labor (non R&amp;amp;D)&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/rnd/impulseL.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/rnd/impulseL.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/rnd\/impulseL.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-36-impulse-response-of-an-innovation-shock-to-productivity-rd&#34;&gt;Figure 36: Impulse Response of an Innovation Shock to Productivity (R&amp;amp;D)&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/rnd/rimpulseL.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/rnd/rimpulseL.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/rnd\/rimpulseL.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-37-impulse-response-of-an-innovation-shock-to-materials-non-rd&#34;&gt;Figure 37: Impulse Response of an Innovation Shock to Materials (non R&amp;amp;D)&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/rnd/impulseM.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/rnd/impulseM.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/rnd\/impulseM.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-38-impulse-response-of-an-innovation-shock-to-materials-rd&#34;&gt;Figure 38: Impulse Response of an Innovation Shock to Materials (R&amp;amp;D)&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/rnd/rimpulseM.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/rnd/rimpulseM.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/rnd\/rimpulseM.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://justdoty.github.io/selection/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://justdoty.github.io/selection/</guid>
+      <description>&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;h1 id=&#34;a-dynamic-framework-for-identification-and-estimation-of-nonseparable-production-functions&#34;&gt;A Dynamic Framework for Identification and Estimation of Nonseparable Production Functions&lt;/h1&gt;
+&lt;p&gt;by Justin Doty (2021)&lt;/p&gt;
+&lt;h2 id=&#34;appendix-d3-correcting-for-selection-bias&#34;&gt;Appendix D.3: Correcting for Selection Bias&lt;/h2&gt;
+&lt;h3 id=&#34;figure-40-output-elasticities&#34;&gt;Figure 40: Output Elasticities&lt;/h3&gt;
+&lt;p&gt;
+  
+  &lt;script src=&#34;https://cdn.plot.ly/plotly-latest.min.js&#34;&gt;&lt;/script&gt;
+ 
+ 
+ &lt;div id=&#34;/jmp/selection/klm3dplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/selection/klm3dplotly.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/selection\/klm3dplotly.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-41-persistence-of-productivity&#34;&gt;Figure 41: Persistence of Productivity&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/selection/omgplotly.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/selection/omgplotly.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/selection\/omgplotly.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-42-higher-moments-of-the-conditional-productivity-distribution-selection-corrected&#34;&gt;Figure 42: Higher Moments of the Conditional Productivity Distribution (Selection Corrected)&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/selection/omgdist.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/selection/omgdist.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/selection\/omgdist.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-43-impulse-response-of-an-innovation-shock-to-productivity&#34;&gt;Figure 43: Impulse Response of an Innovation Shock to Productivity&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/selection/impulseW.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/selection/impulseW.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/selection\/impulseW.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-44-impulse-response-of-an-innovation-shock-to-investment&#34;&gt;Figure 44: Impulse Response of an Innovation Shock to Investment&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/selection/impulseI.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/selection/impulseI.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/selection\/impulseI.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-45-impulse-response-of-an-innovation-shock-to-labor&#34;&gt;Figure 45: Impulse Response of an Innovation Shock to Labor&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/selection/impulseL.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/selection/impulseL.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/selection\/impulseL.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+&lt;h3 id=&#34;figure-46-impulse-response-of-an-innovation-shock-to-materials&#34;&gt;Figure 46: Impulse Response of an Innovation Shock to Materials&lt;/h3&gt;
+&lt;p&gt; 
+ 
+ &lt;div id=&#34;/jmp/selection/impulseM.json&#34; class=&#34;plotly&#34; style=&#34;height:550px&#34;&gt;&lt;/div&gt;
+ &lt;script&gt;
+ Plotly.d3.json(&#34;/jmp/selection/impulseM.json&#34;, function(err, fig) {
+     Plotly.plot(&#39;\/jmp\/selection\/impulseM.json&#39;, fig.data, fig.layout, {responsive: true});
+ });
+ &lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Posts</title>
+      <link>https://justdoty.github.io/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://justdoty.github.io/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://justdoty.github.io/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://justdoty.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://justdoty.github.io/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://justdoty.github.io/talk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

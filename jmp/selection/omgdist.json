@@ -1,0 +1,347 @@
+{
+  "data": [
+    {
+      "x": [0.0833333333333333, 0.166666666666667, 0.25, 0.333333333333333, 0.416666666666667, 0.5, 0.583333333333333, 0.666666666666667, 0.75, 0.833333333333333, 0.916666666666667],
+      "y": [0.392600857244706, 0.377580728550368, 0.370997170679255, 0.36762246692577, 0.366066118971191, 0.365781449540618, 0.366594799446972, 0.368583961464345, 0.372041406253656, 0.377964114756022, 0.39003416267425],
+      "mode": "lines",
+      "line": {
+        "color": "black"
+      },
+      "showlegend": false,
+      "hovertemplate": ["<i>𝛕-productivity<i>: %{x} <br>Conditional Dispersion: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Dispersion: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Dispersion: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Dispersion: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Dispersion: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Dispersion: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Dispersion: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Dispersion: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Dispersion: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Dispersion: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Dispersion: %{y:.3f}"],
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(31,119,180,1)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [0.0833333333333333, 0.166666666666667, 0.25, 0.333333333333333, 0.416666666666667, 0.5, 0.583333333333333, 0.666666666666667, 0.75, 0.833333333333333, 0.916666666666667],
+      "y": [-0.16910760429956, -0.165764126361515, -0.164785265459717, -0.164877093948373, -0.165679800674447, -0.167110095261164, -0.169142792070287, -0.171984160201145, -0.175904155202339, -0.181777891519045, -0.192620194425659],
+      "mode": "lines",
+      "line": {
+        "color": "black"
+      },
+      "showlegend": false,
+      "hovertemplate": ["<i>𝛕-productivity<i>: %{x} <br>Conditional Skewness: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Skewness: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Skewness: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Skewness: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Skewness: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Skewness: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Skewness: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Skewness: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Skewness: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Skewness: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Skewness: %{y:.3f}"],
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(255,127,14,1)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [0.0833333333333333, 0.166666666666667, 0.25, 0.333333333333333, 0.416666666666667, 0.5, 0.583333333333333, 0.666666666666667, 0.75, 0.833333333333333, 0.916666666666667],
+      "y": [1.67597094044151, 1.66492955827289, 1.66067615834267, 1.65939143554477, 1.66002451103911, 1.66226731728306, 1.66605355962456, 1.67182554733906, 1.68026871498275, 1.69354952310283, 1.71936455792718],
+      "mode": "lines",
+      "line": {
+        "color": "black"
+      },
+      "showlegend": false,
+      "hovertemplate": ["<i>𝛕-productivity<i>: %{x} <br>Conditional Kurtosis: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Kurtosis: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Kurtosis: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Kurtosis: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Kurtosis: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Kurtosis: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Kurtosis: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Kurtosis: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Kurtosis: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Kurtosis: %{y:.3f}", "<i>𝛕-productivity<i>: %{x} <br>Conditional Kurtosis: %{y:.3f}"],
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(44,160,44,1)",
+        "line": {
+          "color": "rgba(44,160,44,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(44,160,44,1)"
+      },
+      "error_x": {
+        "color": "rgba(44,160,44,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y3",
+      "frame": null
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "domain": [0, 0.313333333333333],
+      "automargin": true,
+      "title": "𝛕-productivity",
+      "titlefont": {
+        "size": 30
+      },
+      "tickfont": {
+        "size": 25
+      },
+      "anchor": "y"
+    },
+    "xaxis2": {
+      "domain": [0.353333333333333, 0.646666666666667],
+      "automargin": true,
+      "title": "𝛕-productivity",
+      "titlefont": {
+        "size": 30
+      },
+      "tickfont": {
+        "size": 25
+      },
+      "anchor": "y2"
+    },
+    "xaxis3": {
+      "domain": [0.686666666666667, 1],
+      "automargin": true,
+      "title": "𝛕-productivity",
+      "titlefont": {
+        "size": 30
+      },
+      "tickfont": {
+        "size": 25
+      },
+      "anchor": "y3"
+    },
+    "yaxis3": {
+      "domain": [0, 1],
+      "automargin": true,
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 25
+      },
+      "anchor": "x3"
+    },
+    "yaxis2": {
+      "domain": [0, 1],
+      "automargin": true,
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 25
+      },
+      "anchor": "x2"
+    },
+    "yaxis": {
+      "domain": [0, 1],
+      "automargin": true,
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 25
+      },
+      "anchor": "x"
+    },
+    "annotations": [
+      {
+        "x": 0.05,
+        "y": 0.95,
+        "text": "(a) Conditional Dispersion",
+        "font": {
+          "size": 18,
+          "family": "Times New Roman"
+        },
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center,",
+        "yanchor": "bottom",
+        "showarrow": false
+      },
+      {
+        "x": 0.5,
+        "y": 0.95,
+        "text": "(b) Conditional Skewness",
+        "font": {
+          "size": 18,
+          "family": "Times New Roman"
+        },
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center,",
+        "yanchor": "bottom",
+        "showarrow": false
+      },
+      {
+        "x": 0.95,
+        "y": 0.95,
+        "text": "(c) Conditional Kurtosis",
+        "font": {
+          "size": 18,
+          "family": "Times New Roman"
+        },
+        "xref": "paper",
+        "yref": "paper",
+        "xanchor": "center,",
+        "yanchor": "bottom",
+        "showarrow": false
+      }
+    ],
+    "shapes": [],
+    "images": [],
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "hovermode": "closest",
+    "showlegend": false,
+    "scene": {
+      "aspectratio": {
+        "x": 0.6,
+        "y": 0.6,
+        "z": 0.6
+      },
+      "xaxis": {
+        "title": "𝛕-productivity",
+        "titlefont": {
+          "size": 25
+        },
+        "tickfont": {
+          "size": 25
+        }
+      },
+      "yaxis": {
+        "title": "Conditional Dispersion",
+        "titlefont": {
+          "size": 18
+        },
+        "tickfont": {
+          "size": 20
+        }
+      }
+    },
+    "scene2": {
+      "aspectratio": {
+        "x": 0.6,
+        "y": 0.6,
+        "z": 0.6
+      },
+      "xaxis": {
+        "title": "𝛕-productivity",
+        "titlefont": {
+          "size": 25
+        },
+        "tickfont": {
+          "size": 25
+        }
+      },
+      "yaxis": {
+        "title": "Conditional Skewness",
+        "titlefont": {
+          "size": 18
+        },
+        "tickfont": {
+          "size": 25
+        }
+      }
+    },
+    "scene3": {
+      "aspectratio": {
+        "x": 0.6,
+        "y": 0.6,
+        "z": 0.6
+      },
+      "xaxis": {
+        "title": "𝛕-productivity",
+        "titlefont": {
+          "size": 25
+        },
+        "tickfont": {
+          "size": 25
+        }
+      },
+      "yaxis": {
+        "title": "Conditional Kurtosis",
+        "titlefont": {
+          "size": 18
+        },
+        "tickfont": {
+          "size": 25
+        }
+      }
+    }
+  },
+  "attrs": {
+    "2d32269995a2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "line": {
+        "color": "black"
+      },
+      "showlegend": false,
+      "hovertemplate": "<i>𝛕-productivity<i>: %{x} <br>Conditional Dispersion: %{y:.3f}",
+      "name": "",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "2d322d2ed27a": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "line": {
+        "color": "black"
+      },
+      "showlegend": false,
+      "hovertemplate": "<i>𝛕-productivity<i>: %{x} <br>Conditional Skewness: %{y:.3f}",
+      "name": "",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "2d325cfc5ec2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "line": {
+        "color": "black"
+      },
+      "showlegend": false,
+      "hovertemplate": "<i>𝛕-productivity<i>: %{x} <br>Conditional Kurtosis: %{y:.3f}",
+      "name": "",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    }
+  },
+  "source": "A",
+  "config": {
+    "showSendToCloud": false
+  },
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "subplot": true,
+  "shinyEvents": ["plotly_hover", "plotly_click", "plotly_selected", "plotly_relayout", "plotly_brushed", "plotly_brushing", "plotly_clickannotation", "plotly_doubleclick", "plotly_deselect", "plotly_afterplot", "plotly_sunburstclick"],
+  "base_url": "https://plot.ly"
+}

@@ -1,0 +1,952 @@
+{
+  "data": [
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.00037760726120023, 0.00614968341382138, 0.00628961520813059, 0.00723209917355894, 0.00401766439023427, 0.00274567843777951, -0.000400612712404991, -0.00249527899151336, -0.000292596181208471, -0.000821000827896212, -0.00217756455576235, -0.001856531226614, -0.00210672085443708, -0.0025945809216108, -0.00218353476206201, -0.000743403614988758, -0.000778010356030812, 0.00030784899812486, 0.000354736346744489],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Negative Shock<br>MPK<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(31,119,180,1)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.00897773144449379, -0.00238862863124606, -0.000759853536958399, 0.00237512302936932, 0.00225782495581445, 0.00281438079594903, 0.00105004533815606, 0.000143278795081914, 0.000859850804690199, 0.000237175700455339, -0.000445958195607443, -0.000883321743993359, -0.00104939733384862, -0.001852006927058, -0.00175672160795065, -0.000483573434252704, -0.00064167853204844, 2.42913390680055e-07, -4.64993421844806e-05],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Negative Shock<br>MPK<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(255,127,14,1)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.0165292230287719, -0.00966622690804667, -0.00702202434353894, -0.00250649707425832, -0.000679944423883083, 0.00151554947474536, 0.000925198979619402, 0.00114682427649732, 0.000856156970925059, 0.000494662752929198, 0.000471600677474981, -0.000128212348468992, -0.000265395643951505, -0.0011287454316386, -0.00123581694903907, -0.000576916359795399, -0.000687993364998418, -0.000359889723082929, -0.000607451225971778],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Negative Shock<br>MPK<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(44,160,44,1)",
+        "line": {
+          "color": "rgba(44,160,44,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(44,160,44,1)"
+      },
+      "error_x": {
+        "color": "rgba(44,160,44,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.0182134078037309, 0.0166127195534524, 0.00881208442937448, 0.00240257191087689, -0.00519403433219051, -0.00151298963916874, 0.000493979035418146, 0.00305976637630068, 0.00467783714717984, 0.00358572576244032, 0.00432173001453651, 0.00378782314938653, 0.00273390827066056, 0.00327154654528539, 0.00235706065279606, 0.00392711387430611, 0.00365893348764135, 0.00453580616382754, 0.00376094181060316],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Negative Shock<br>MPL<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(214,39,40,1)",
+        "line": {
+          "color": "rgba(214,39,40,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(214,39,40,1)"
+      },
+      "error_x": {
+        "color": "rgba(214,39,40,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.0101205154665748, 0.0107900680483338, 0.00551143214645589, 0.000564005549633539, -0.00516306285151019, -0.00141480004535471, 0.000711071563690546, 0.00291644700242322, 0.00357146224384597, 0.00210705908709541, 0.00336968960537265, 0.00306316646397853, 0.00257948308477329, 0.00275371874589769, 0.00237464347511385, 0.00306927252983169, 0.00293337803890403, 0.00347538772307432, 0.00299406551428927],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Negative Shock<br>MPL<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(148,103,189,1)",
+        "line": {
+          "color": "rgba(148,103,189,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(148,103,189,1)"
+      },
+      "error_x": {
+        "color": "rgba(148,103,189,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.0015421254947367, 0.00438500053168017, 0.00224251531435771, -0.000692255406221198, -0.00488062968968073, -0.00153659953612612, 0.000165665806462267, 0.00183126188570681, 0.00230578516100877, 0.000675890696158143, 0.00198671241431037, 0.00235557916975682, 0.00190501902396112, 0.00228090745295995, 0.00193379059832477, 0.00266561043416835, 0.00232875553362066, 0.00280436116476046, 0.00226689999293705],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Negative Shock<br>MPL<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(140,86,75,1)",
+        "line": {
+          "color": "rgba(140,86,75,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(140,86,75,1)"
+      },
+      "error_x": {
+        "color": "rgba(140,86,75,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.0107588634289045, -0.00354892415738914, -0.000236411234574657, 0.00197374904911524, 0.00165059845314389, 0.00261413919554596, 0.00193130403536274, 0.00236889431474796, 0.00306839306095924, 0.0027043037036108, 0.00193939219092387, 0.00256674084312619, 0.00239480424378841, 0.00237891204447116, 0.00212009376601668, 0.00238742017742305, 0.00200738796030708, 0.00240976775837115, 0.00248441348008488],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Negative Shock<br>MPM<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(227,119,194,1)",
+        "line": {
+          "color": "rgba(227,119,194,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(227,119,194,1)"
+      },
+      "error_x": {
+        "color": "rgba(227,119,194,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.0119799167525458, -0.00777549920785739, -0.00577325657177183, -0.00417456171090852, -0.00402996347742304, -0.00287061467800656, -0.00259762051679446, -0.00190051037756012, -0.000893892689873443, -0.000784255216409735, -0.00102767108925872, -0.000181261085094475, -3.59290298431736e-05, 9.03661565453961e-05, 0.000214530237525046, 0.000575810779369301, 0.000331835873768782, 0.000813574932817029, 0.00105511236586858],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Negative Shock<br>MPM<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(127,127,127,1)",
+        "line": {
+          "color": "rgba(127,127,127,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(127,127,127,1)"
+      },
+      "error_x": {
+        "color": "rgba(127,127,127,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.0139119570231116, -0.0114680784798672, -0.0104757787331503, -0.00914605309086816, -0.0083489803456612, -0.0067419354005962, -0.00564470510130138, -0.00486717657140717, -0.00374291707495022, -0.0032452750000273, -0.00307730878781809, -0.00208911638773024, -0.00171768986957066, -0.0015635208321394, -0.00108268382613053, -0.00074340085653879, -0.000870980261993781, -0.000456954771222984, -1.3331466830302e-05],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Negative Shock<br>MPM<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(188,189,34,1)",
+        "line": {
+          "color": "rgba(188,189,34,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(188,189,34,1)"
+      },
+      "error_x": {
+        "color": "rgba(188,189,34,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.00346456782936991, -0.00121634675409549, -0.00190258409950617, -0.00352530339240326, -0.00243447063706803, -0.00221552596778324, -0.000341247899782959, 0.00079163289726053, -0.000213097942174278, 0.000222270443343331, 0.00101053861226275, 0.00103971944687015, 0.00110142441494981, 0.00171997624358533, 0.00149054199305065, 0.000400865749392521, 0.000516089972544875, -6.7090578915463e-05, -0.000145400610786994],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Positive Shock<br>MPK<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(23,190,207,1)",
+        "line": {
+          "color": "rgba(23,190,207,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(23,190,207,1)"
+      },
+      "error_x": {
+        "color": "rgba(23,190,207,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.00894804192291432, 0.00415315910298195, 0.00261916761032066, -9.80143882816087e-05, -0.000732674465599104, -0.00169749857433937, -0.000958862049633136, -0.000634510842045466, -0.000689291092007605, -0.00036631178282881, -6.64980652346769e-05, 0.000336445949429776, 0.000450838415703703, 0.00102968617051075, 0.00099794760375399, 0.000374364784757442, 0.000412853716872552, 7.25439023653851e-05, 0.000245221306037102],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Positive Shock<br>MPK<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(31,119,180,1)",
+        "line": {
+          "color": "rgba(31,119,180,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "error_x": {
+        "color": "rgba(31,119,180,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.0129352788849882, 0.0084666793733309, 0.00655077161603723, 0.00335361313094923, 0.00176659499159848, 1.95962330156729e-05, -1.78792110593351e-05, -0.000580659937697181, -0.000232552306725586, -7.88393186582637e-05, -0.000322051236569698, -1.19229753446359e-05, 8.80124433781937e-05, 0.000573959030912063, 0.00072627170695766, 0.000417652573685867, 0.000482567593533767, 0.000486566699091195, 0.000528144840850675],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Positive Shock<br>MPK<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(255,127,14,1)",
+        "line": {
+          "color": "rgba(255,127,14,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "error_x": {
+        "color": "rgba(255,127,14,1)"
+      },
+      "xaxis": "x",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.010439311524438, -0.0101237713373065, -0.00526631839621011, -0.00103241955342209, 0.00393830437168996, 0.00124415313030068, -0.000315036767961296, -0.0022947882108314, -0.00296775432342822, -0.00207013615844054, -0.00283010009165763, -0.0025339827309262, -0.00189647936727588, -0.00221487903733908, -0.0017653531230456, -0.00251608393019787, -0.00240048970303774, -0.00295807687173577, -0.00242136413577054],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Positive Shock<br>MPL<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(44,160,44,1)",
+        "line": {
+          "color": "rgba(44,160,44,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(44,160,44,1)"
+      },
+      "error_x": {
+        "color": "rgba(44,160,44,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, -0.00429275997406409, -0.00558802072996251, -0.002939457747902, -0.000104793758139821, 0.00342682692959434, 0.000917688641888459, -0.000461478890480205, -0.00181794988692163, -0.00218702828075323, -0.00108371559198006, -0.00192787841762243, -0.00191551647678112, -0.00165699505627848, -0.00182005702128762, -0.00148559250480129, -0.00207869806537098, -0.00183422226091989, -0.00214796905568526, -0.00187851062169497],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Positive Shock<br>MPL<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(214,39,40,1)",
+        "line": {
+          "color": "rgba(214,39,40,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(214,39,40,1)"
+      },
+      "error_x": {
+        "color": "rgba(214,39,40,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.00209943338534457, -0.000256815840666669, 3.15018311117243e-05, 0.00111510512092466, 0.00343822474776412, 0.00159831951459, 0.000662482699459455, -0.000428346765171783, -0.000642751986156376, 0.000262708161219871, -0.000762610733383351, -0.00122174847956902, -0.000917943410512989, -0.0012444718206257, -0.00112430938062413, -0.00146767435142425, -0.00132213492399313, -0.00162567550220416, -0.00118209145095494],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Positive Shock<br>MPL<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(148,103,189,1)",
+        "line": {
+          "color": "rgba(148,103,189,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(148,103,189,1)"
+      },
+      "error_x": {
+        "color": "rgba(148,103,189,1)"
+      },
+      "xaxis": "x2",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.00837270315527935, 0.00427585120070145, 0.00232957996106686, 0.000937307126081866, 0.00103455960367338, 0.000247667252719991, 0.000367953087403672, -4.77818383228246e-05, -0.000699095861397159, -0.00061322427199384, -0.000231094031541257, -0.000782772652492214, -0.000805489963288053, -0.000847061983675401, -0.000787404502009981, -0.00103962306798339, -0.000814176147384049, -0.00114978046658742, -0.00127939428909962],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Positive Shock<br>MPM<br>Low Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(140,86,75,1)",
+        "line": {
+          "color": "rgba(140,86,75,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(140,86,75,1)"
+      },
+      "error_x": {
+        "color": "rgba(140,86,75,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.00886284206847338, 0.00659099319742565, 0.00556064589578523, 0.00457297764579831, 0.00427560152877457, 0.00337614725086033, 0.00289929424113905, 0.00238174537970709, 0.00163386921048636, 0.00142596117919158, 0.00145118973899477, 0.000802172701798942, 0.000628021042051896, 0.000522231745867352, 0.000305203282130184, 6.41523983811454e-05, 0.000191440629870865, -0.000135207261850068, -0.000367440539945196],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Positive Shock<br>MPM<br>Median Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(227,119,194,1)",
+        "line": {
+          "color": "rgba(227,119,194,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(227,119,194,1)"
+      },
+      "error_x": {
+        "color": "rgba(227,119,194,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y2",
+      "frame": null
+    },
+    {
+      "x": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20],
+      "y": [0, 0.00994630493759885, 0.0086837087314236, 0.00826797356042794, 0.00735697381974887, 0.00666102767443449, 0.0053687990762516, 0.00441462084901673, 0.00385869190389099, 0.00311523524111135, 0.00269827525790856, 0.00248215133648205, 0.00183943010419979, 0.00151170472021561, 0.00142813610490711, 0.00103095004178649, 0.000819339499218918, 0.000872364856712993, 0.000661483946258756, 0.000311019724656691],
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": ["<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}", "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}"],
+      "name": "Positive Shock<br>MPM<br>High Productivity",
+      "type": "scatter",
+      "marker": {
+        "color": "rgba(127,127,127,1)",
+        "line": {
+          "color": "rgba(127,127,127,1)"
+        }
+      },
+      "error_y": {
+        "color": "rgba(127,127,127,1)"
+      },
+      "error_x": {
+        "color": "rgba(127,127,127,1)"
+      },
+      "xaxis": "x3",
+      "yaxis": "y2",
+      "frame": null
+    }
+  ],
+  "layout": {
+    "xaxis": {
+      "domain": [0, 0.313333333333333],
+      "automargin": true,
+      "title": "Years",
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 14
+      },
+      "anchor": "y2"
+    },
+    "xaxis2": {
+      "domain": [0.353333333333333, 0.646666666666667],
+      "automargin": true,
+      "title": "Years",
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 14
+      },
+      "anchor": "y2"
+    },
+    "xaxis3": {
+      "domain": [0.686666666666667, 1],
+      "automargin": true,
+      "title": "Years",
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 14
+      },
+      "anchor": "y2"
+    },
+    "yaxis2": {
+      "domain": [0, 0.48],
+      "automargin": true,
+      "title": "Misallocation",
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 14
+      },
+      "range": [
+        -0.0165292230287719,
+        0.0182134078037309
+      ],
+      "anchor": "x"
+    },
+    "yaxis": {
+      "domain": [0.52, 1],
+      "automargin": true,
+      "title": "Misallocation",
+      "titlefont": {
+        "size": 18
+      },
+      "tickfont": {
+        "size": 14
+      },
+      "range": [
+        -0.0165292230287719,
+        0.0182134078037309
+      ],
+      "anchor": "x"
+    },
+    "annotations": [],
+    "shapes": [
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0,
+        "x1": 0.313333333333333,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.353333333333333,
+        "x1": 0.646666666666667,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.686666666666667,
+        "x1": 1,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0,
+        "x1": 0.313333333333333,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.353333333333333,
+        "x1": 0.646666666666667,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      },
+      {
+        "type": "line",
+        "y0": 0,
+        "y1": 0,
+        "xref": "paper",
+        "x0": 0.686666666666667,
+        "x1": 1,
+        "line": {
+          "color": "red",
+          "dash": "dot"
+        },
+        "yref": "y2"
+      }
+    ],
+    "images": [],
+    "margin": {
+      "b": 40,
+      "l": 60,
+      "t": 25,
+      "r": 10
+    },
+    "hovermode": "closest",
+    "showlegend": false
+  },
+  "attrs": {
+    "69da5afcd05d": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Negative Shock<br>MPK<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69da5afcd05d.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Negative Shock<br>MPK<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da5afcd05d.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Negative Shock<br>MPK<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da10c279b": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Negative Shock<br>MPL<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69da10c279b.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Negative Shock<br>MPL<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da10c279b.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Negative Shock<br>MPL<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69dad15a61e": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Negative Shock<br>MPM<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69dad15a61e.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Negative Shock<br>MPM<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69dad15a61e.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Negative Shock<br>MPM<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da57f0c327": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Positive Shock<br>MPK<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69da57f0c327.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Positive Shock<br>MPK<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da57f0c327.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Positive Shock<br>MPK<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da24730cc1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Positive Shock<br>MPL<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69da24730cc1.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Positive Shock<br>MPL<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da24730cc1.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Positive Shock<br>MPL<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da633f6f43": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "red"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Positive Shock<br>MPM<br>Low Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter"
+    },
+    "69da633f6f43.1": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "green"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Positive Shock<br>MPM<br>Median Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    },
+    "69da633f6f43.2": {
+      "x": {},
+      "y": {},
+      "mode": "lines",
+      "showlegend": false,
+      "line": {
+        "color": "blue"
+      },
+      "hovertemplate": "<i>Year<i>: %{x} <br>Misallocation Change: %{y:.3f}",
+      "name": "Positive Shock<br>MPM<br>High Productivity",
+      "alpha_stroke": 1,
+      "sizes": [10, 100],
+      "spans": [1, 20],
+      "type": "scatter",
+      "inherit": true
+    }
+  },
+  "source": "A",
+  "config": {
+    "showSendToCloud": false
+  },
+  "highlight": {
+    "on": "plotly_click",
+    "persistent": false,
+    "dynamic": false,
+    "selectize": false,
+    "opacityDim": 0.2,
+    "selected": {
+      "opacity": 1
+    },
+    "debounce": 0
+  },
+  "subplot": true,
+  "shinyEvents": ["plotly_hover", "plotly_click", "plotly_selected", "plotly_relayout", "plotly_brushed", "plotly_brushing", "plotly_clickannotation", "plotly_doubleclick", "plotly_deselect", "plotly_afterplot", "plotly_sunburstclick"],
+  "base_url": "https://plot.ly"
+}
