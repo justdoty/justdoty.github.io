@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Justin Doty</title>
+    <link>https://justdoty.github.io/authors/</link>
+    <description>Recent content in Authors on Justin Doty</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Justin Doty {year}</copyright>
+    
+	    <atom:link href="https://justdoty.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://justdoty.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://justdoty.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am an economist and senior application engineer at &lt;a href=&#34;https://www.mathworks.com/&#34;&gt;MathWorks&lt;/a&gt;, where I build computational tools for fellow economists and assist with their econometric modeling.&lt;/p&gt;
+&lt;p&gt;Formerly, I was a research economist at the U.S. Census Bureau
+working on the modernization of statistical disclosure methods, such as &lt;a href=&#34;https://en.wikipedia.org/wiki/Differential_privacy&#34;&gt;differential privacy&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I received my Ph.D. in Economics in 2022 at the &lt;a href=&#34;https://tippie.uiowa.edu/about/economics-department&#34;&gt;University of Iowa&lt;/a&gt;, where I specialized in econometrics and empirical industrial organization. My dissertation examined identification and estimation of production functions with unobserved heterogeneity.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
