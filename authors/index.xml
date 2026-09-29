@@ -12,15 +12,15 @@
     
     
     <item>
-      <title></title>
+      <title>Profile</title>
       <link>https://justdoty.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://justdoty.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am an economist and senior application engineer at &lt;a href=&#34;https://www.mathworks.com/&#34;&gt;MathWorks&lt;/a&gt;, where I build computational tools for fellow economists and assist with their econometric modeling.&lt;/p&gt;
-&lt;p&gt;Formerly, I was a research economist at the U.S. Census Bureau
-working on the modernization of statistical disclosure methods, such as &lt;a href=&#34;https://en.wikipedia.org/wiki/Differential_privacy&#34;&gt;differential privacy&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;I received my Ph.D. in Economics in 2022 at the &lt;a href=&#34;https://tippie.uiowa.edu/about/economics-department&#34;&gt;University of Iowa&lt;/a&gt;, where I specialized in econometrics and empirical industrial organization. My dissertation examined identification and estimation of production functions with unobserved heterogeneity.&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;m an economist and senior application engineer at &lt;a href=&#34;https://www.mathworks.com/&#34;&gt;MathWorks&lt;/a&gt;, where I help economists at central banks, government agencies, and financial institutions build and scale econometric models in MATLAB.&lt;/p&gt;
+&lt;p&gt;Before MathWorks, I was a research economist at the &lt;a href=&#34;https://www.census.gov/&#34;&gt;U.S. Census Bureau&lt;/a&gt; (2022–2026). There I developed &lt;a href=&#34;https://en.wikipedia.org/wiki/Differential_privacy&#34;&gt;differentially private&lt;/a&gt; methods for releasing business and survey data, including algorithms for heavy-tailed establishment-level data, and co-authored work published in the &lt;a href=&#34;https://doi.org/10.29012/jpc.992&#34;&gt;&lt;em&gt;Journal of Privacy and Confidentiality&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My research is in econometrics and empirical industrial organization, with a focus on production function estimation under unobserved heterogeneity and measurement error. I received my Ph.D. in Economics from the &lt;a href=&#34;https://tippie.uiowa.edu/about/economics-department&#34;&gt;University of Iowa&lt;/a&gt; in 2022, where I also taught econometrics and microeconomics.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re working on econometric modeling in MATLAB, feel free to &lt;a href=&#34;#contact&#34;&gt;get in touch&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
