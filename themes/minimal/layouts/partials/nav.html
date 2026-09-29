@@ -1,0 +1,13 @@
+<header class="site-nav">
+  <nav class="container nav-inner" aria-label="Main">
+    <a class="brand" href="{{ "/" | relURL }}">{{ site.Title }}</a>
+    <ul class="nav-links">
+      {{- range site.Menus.main }}
+      {{- $url := .URL }}
+      {{- if hasPrefix $url "#" }}{{ $url = printf "/%s" $url | relURL }}
+      {{- else if not (hasPrefix $url "http") }}{{ $url = $url | relURL }}{{ end }}
+      <li><a href="{{ $url }}">{{ .Name }}</a></li>
+      {{- end }}
+    </ul>
+  </nav>
+</header>

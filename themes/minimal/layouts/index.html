@@ -1,0 +1,66 @@
+{{ define "main" }}
+{{- $p := .Params }}
+{{- $research := site.GetPage "/research" }}
+{{- if not $research }}{{ errorf "minimal theme: missing content/research.md" }}{{ end }}
+
+<section id="about" class="container intro">
+  {{- with .Resources.GetMatch "avatar*" }}
+  {{- $img := .Fill "320x320 Center q85 webp" }}
+  <img class="portrait" src="{{ $img.RelPermalink }}" width="160" height="160" alt="Portrait of Justin Doty">
+  {{- end }}
+  <div class="intro-text">
+    <h1>{{ $p.name }}</h1>
+    <p class="role">
+      {{ $p.role }}
+      {{- range $p.organizations }}
+      <br><a href="{{ .url }}">{{ .name }}</a>
+      {{- end }}
+    </p>
+    <ul class="profile-links">
+      {{- range $p.links }}
+      <li><a href="{{ .url }}">{{ .label }}</a></li>
+      {{- end }}
+    </ul>
+  </div>
+</section>
+
+<section class="container prose bio" aria-label="Biography">
+  {{ .Content }}
+</section>
+
+<section class="container facts" aria-label="Interests and education">
+  <div>
+    <h2 class="label">Interests</h2>
+    <ul>
+      {{- range $p.interests }}
+      <li>{{ . }}</li>
+      {{- end }}
+    </ul>
+  </div>
+  <div>
+    <h2 class="label">Education</h2>
+    <ul class="education">
+      {{- range $p.education }}
+      <li><span>{{ .degree }}</span> <span class="muted">{{ .institution }}, {{ .year }}</span></li>
+      {{- end }}
+    </ul>
+  </div>
+</section>
+
+<section id="research" class="container prose research">
+  <h2 class="section-title">Research</h2>
+  {{ $research.Content }}
+</section>
+
+<section id="contact" class="container contact">
+  <h2 class="section-title">Contact</h2>
+  <ul>
+    {{- with site.Params.email }}
+    <li><a href="mailto:{{ . }}">{{ . }}</a></li>
+    {{- end }}
+    {{- range site.Params.contact_links }}
+    <li><a href="{{ .link }}">{{ .name }}</a></li>
+    {{- end }}
+  </ul>
+</section>
+{{ end }}

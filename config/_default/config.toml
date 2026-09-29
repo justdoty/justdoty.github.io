@@ -1,0 +1,43 @@
+baseURL = "https://justdoty.github.io/"
+title = "Justin Doty"
+locale = "en-US"
+theme = "minimal"
+enableEmoji = false
+
+# One-page site: only the homepage, a sitemap, and a 404 page are published.
+disableKinds = ["RSS", "section", "taxonomy", "term"]
+
+[params]
+  description = "Justin Doty is an economist and senior application engineer at MathWorks working on econometrics, empirical industrial organization, and data privacy."
+  # Browser-tab and link-preview title for the homepage.
+  home_title = "Justin Doty | Economist, MathWorks"
+  # Link-preview image, in static/img/.
+  sharing_image = "sharing.jpg"
+
+  # Contact section.
+  email = "justincdoty@gmail.com"
+  [[params.contact_links]]
+    name = "jdoty@mathworks.com (MathWorks)"
+    link = "mailto:jdoty@mathworks.com"
+  [[params.contact_links]]
+    name = "linkedin.com/in/justdoty"
+    link = "https://www.linkedin.com/in/justdoty"
+
+# Top navigation, in order.
+[menus]
+  [[menus.main]]
+    name = "Research"
+    url = "#research"
+    weight = 1
+  [[menus.main]]
+    name = "Software"
+    url = "https://github.com/justdoty"
+    weight = 2
+  [[menus.main]]
+    name = "Contact"
+    url = "#contact"
+    weight = 3
+  [[menus.main]]
+    name = "CV"
+    url = "files/Justin_Doty_CV.pdf"
+    weight = 4

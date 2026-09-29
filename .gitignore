@@ -1,0 +1,8 @@
+# Build output (GitHub Actions builds and deploys the site)
+public/
+resources/_gen/
+.hugo_build.lock
+
+# Local-only files
+_archive/
+.DS_Store

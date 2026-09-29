@@ -1,0 +1,32 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+
+{{- $title := cond .IsHome (site.Params.home_title | default site.Title) (printf "%s | %s" .Title site.Title) }}
+{{- $desc := site.Params.description }}
+{{- $image := "" }}
+{{- with site.Params.sharing_image }}{{ $image = printf "img/%s" . | absURL }}{{ end }}
+
+<title>{{ $title }}</title>
+<meta name="description" content="{{ $desc }}">
+<link rel="canonical" href="{{ .Permalink }}">
+{{- if not .IsHome }}
+<meta name="robots" content="noindex">
+{{- end }}
+
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="{{ site.Title }}">
+<meta property="og:title" content="{{ $title }}">
+<meta property="og:description" content="{{ $desc }}">
+<meta property="og:url" content="{{ .Permalink }}">
+{{- with $image }}
+<meta property="og:image" content="{{ . }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ . }}">
+{{- end }}
+
+<link rel="icon" type="image/png" href="{{ "img/icon.png" | relURL }}">
+<link rel="apple-touch-icon" href="{{ "img/icon-192.png" | relURL }}">
+
+{{- $css := resources.Get "css/main.css" | minify | fingerprint }}
+<link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
