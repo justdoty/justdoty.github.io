@@ -4,8 +4,15 @@ locale = "en-US"
 theme = "minimal"
 enableEmoji = false
 
-# One-page site: only the homepage, a sitemap, and a 404 page are published.
-disableKinds = ["RSS", "section", "taxonomy", "term"]
+# Published: the homepage, the blog (content/blog/), a sitemap, and a 404 page.
+disableKinds = ["RSS", "taxonomy", "term"]
+
+# Pass $...$ and $$...$$ through untouched so MathJax can render them.
+[markup.goldmark.extensions.passthrough]
+  enable = true
+  [markup.goldmark.extensions.passthrough.delimiters]
+    block = [["$$", "$$"]]
+    inline = [["$", "$"]]
 
 [params]
   description = "Justin Doty is an economist and senior application engineer at MathWorks working on econometrics, empirical industrial organization, and data privacy."
@@ -34,10 +41,14 @@ disableKinds = ["RSS", "section", "taxonomy", "term"]
     url = "https://github.com/justdoty"
     weight = 2
   [[menus.main]]
+    name = "Blog"
+    url = "blog/"
+    weight = 3
+  [[menus.main]]
     name = "Contact"
     url = "#contact"
-    weight = 3
+    weight = 4
   [[menus.main]]
     name = "CV"
     url = "files/Justin_Doty_CV.pdf"
-    weight = 4
+    weight = 5

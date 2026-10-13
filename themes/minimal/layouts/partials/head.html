@@ -3,18 +3,18 @@
 <meta name="color-scheme" content="light dark">
 
 {{- $title := cond .IsHome (site.Params.home_title | default site.Title) (printf "%s | %s" .Title site.Title) }}
-{{- $desc := site.Params.description }}
+{{- $desc := .Description | default site.Params.description }}
 {{- $image := "" }}
 {{- with site.Params.sharing_image }}{{ $image = printf "img/%s" . | absURL }}{{ end }}
 
 <title>{{ $title }}</title>
 <meta name="description" content="{{ $desc }}">
 <link rel="canonical" href="{{ .Permalink }}">
-{{- if not .IsHome }}
+{{- if not (or .IsHome (eq .Section "blog")) }}
 <meta name="robots" content="noindex">
 {{- end }}
 
-<meta property="og:type" content="website">
+<meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:site_name" content="{{ site.Title }}">
 <meta property="og:title" content="{{ $title }}">
 <meta property="og:description" content="{{ $desc }}">
@@ -25,8 +25,36 @@
 <meta name="twitter:image" content="{{ . }}">
 {{- end }}
 
-<link rel="icon" type="image/png" href="{{ "img/icon.png" | relURL }}">
+{{- if .IsHome }}
+{{- /* Tells Google the site name to show in results instead of "GitHub". */}}
+<script type="application/ld+json">
+{{ dict
+  "@context" "https://schema.org"
+  "@type" "WebSite"
+  "name" site.Title
+  "alternateName" (slice "Justin Doty, Ph.D." "justdoty.github.io")
+  "url" site.BaseURL
+| jsonify | safeJS }}
+</script>
+{{- end }}
+
+<link rel="icon" type="image/png" sizes="32x32" href="{{ "img/icon.png" | relURL }}">
+{{- /* Google requires a favicon that is a multiple of 48px. */}}
+<link rel="icon" type="image/png" sizes="192x192" href="{{ "img/icon-192.png" | relURL }}">
 <link rel="apple-touch-icon" href="{{ "img/icon-192.png" | relURL }}">
 
 {{- $css := resources.Get "css/main.css" | minify | fingerprint }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}">
+
+{{- if .Params.math }}
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [["$", "$"]],
+      displayMath: [["$$", "$$"]],
+      processEscapes: true
+    }
+  };
+</script>
+<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>
+{{- end }}
