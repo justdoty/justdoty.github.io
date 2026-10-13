@@ -5,6 +5,7 @@ date: 2026-10-02
 description: "A tilted generalized lognormal distribution for right-skewed data, and the incomplete Fox–Wright functions behind its normalizing constant and CDF."
 # Load MathJax for the $...$ and $$...$$ math on this page.
 math: true
+draft: true
 ---
 
 In [*Slowly Scaling Per-Record Differential Privacy*](https://arxiv.org/abs/2409.18118) we needed a noise distribution whose tails were heavier than Laplace or Gaussian. We ended up with the **exponential polylogarithmic (EPL)** distribution. The paper adds a shift and a truncation to the EPL and parameterizes it differently, all to make the privacy guarantee easy to state. Since this post is about the statistical properties of the broader family, I use a simpler form here.

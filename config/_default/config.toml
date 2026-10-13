@@ -4,7 +4,7 @@ locale = "en-US"
 theme = "minimal"
 enableEmoji = false
 
-# Published: the homepage, the blog (content/blog/), a sitemap, and a 404 page.
+# Published: the homepage, the blog (content/blog/, currently draft), a sitemap, and a 404 page.
 disableKinds = ["RSS", "taxonomy", "term"]
 
 # Pass $...$ and $$...$$ through untouched so MathJax can render them.
@@ -40,10 +40,11 @@ disableKinds = ["RSS", "taxonomy", "term"]
     name = "Software"
     url = "https://github.com/justdoty"
     weight = 2
-  [[menus.main]]
-    name = "Blog"
-    url = "blog/"
-    weight = 3
+  # Blog hidden until the first post is reviewed; uncomment to restore.
+  # [[menus.main]]
+  #   name = "Blog"
+  #   url = "blog/"
+  #   weight = 3
   [[menus.main]]
     name = "Contact"
     url = "#contact"
